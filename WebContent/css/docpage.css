@@ -1,0 +1,144 @@
+/* 
+ * The style-sheet included with DocDetail.jsp
+ *
+ * Creates styles specific to the JSP, and provides a place where
+ * more generic settings can be overridden.
+ */
+ 
+citation
+{
+  color: black;
+  font-weight: 500;
+  font-size: 10px;
+  font-family: Arial Black, Helvetica, Arial, sans-serif;
+}
+
+div#citation
+{
+  position: relative;
+  color: black;
+  line-height: 1em;
+  font-weight: normal;
+  font-size: 14px;
+  width: 235px;
+  height: 250px;
+  margin-bottom: 25px;
+  overflow: auto
+}
+  
+div#pages
+{
+  top: 5px;
+  position: relative;
+  width: 235px;
+  height: 250px;
+  overflow: auto;
+}
+
+div#imgPane
+{
+  overflow: auto;
+  width: 625px;
+  height:650px;
+  margin-top: 10px;
+  position: relative;
+}
+
+div#imgWinFooter
+{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 10px;
+  text-align: center;
+}
+
+div#imgWinCite
+{
+  color: black;
+  font-weight: 500;
+  font-size: 12px;
+  font-family: Arial Black, Helvetica, Arial, sans-serif;
+}
+
+div#imgWinCite citelabel
+{
+  color: black;
+  font-weight: bold;
+  font-size: 10px;
+  font-family: Arial Black, Helvetica, Arial, sans-serif;
+}
+
+div#text
+{
+  top: 75px;
+  left: 62.5px;
+  width: 475px;
+  margin: 0px;
+  position: relative;
+}
+
+#tnails
+{
+  border: 0px;
+  padding-top: 2px;
+  padding-left: 2px;
+}
+
+table#tnails td
+{
+  position: relative;
+}
+
+.tdsel
+{
+  border: 2px solid #66AECD;
+  outline: none;
+}
+
+.tdunsel
+{
+  border: 2px solid #CCCCD0;
+  outline: none;
+}
+
+#imgButton
+{
+  border: 0px;
+  padding-top: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+#zoomwin
+{
+  margin-left: 75px;
+}
+
+#prncite
+{
+  margin-left: 30px;
+}
+
+#prevlnk
+{
+  margin-left: 27px;
+  border: 0;
+}
+
+#prevlnk2
+{
+  margin-left: 75px;
+  border: 0;
+}
+
+#nextlnk
+{
+  margin-left: 28px;
+  border: 0;
+}
+
+#nextlnk2
+{
+  margin-left: 28px;
+  border: 0;
+}

@@ -1,0 +1,132 @@
+/*
+ * The style-sheet included with Welcome.jsp.
+ *
+ * Creates styles specific to the JSP, and provides a place where
+ * more generic settings can be overridden.
+ */
+ 
+div#title
+{
+  width: 425px;
+  position: relative;
+  float: left;
+}
+
+div#xxxsubtitle
+{
+  top: 30px;
+  width: 475px;
+  position: relative;
+  float: right;
+}
+
+div#search
+{
+  clear: both;
+  top: 20px;
+  position: relative;
+  width: 875px;
+  }
+
+div#stitle
+{
+  float: left;
+  width: 275px;
+}
+
+div#search1
+{
+  float: left;
+  width: 250px;
+  margin-right: 75px;
+}
+
+div#search2
+{
+  float: left;
+  width: 275px;
+}
+
+div#main
+{
+  top: 25px;
+  margin-left: 25px;
+  width: 875px;
+  clear:both;
+  float: left;
+}
+
+div#main p
+{
+  margin-bottom: 10px;
+}
+
+div#bleft
+{
+  float: left;
+  width:225px;
+  margin-right:50px;
+}
+
+div#bcenter
+{
+  float: left;
+  width: 225px;
+  margin-right:50px;
+}
+
+div#bright
+{
+  float: left;
+  width: 225px;
+  padding-left: 50px;
+  padding-bottom: 50px;
+}
+
+div#ftdoc
+{
+  width:225px;
+  padding-top: 10px;
+  padding-bottom:5px;
+}
+
+div#credits
+{
+  top: 0px;
+  width:875px;
+  position: relative;
+  clear:both;
+  padding-bottom: 100px;
+}
+
+div#clogos
+{
+  width: 75px;
+  left: 275px;
+  position:absolute;
+}
+
+div#ctext
+{
+  width: 510px;
+  float: right;
+  line-height: 1.4em;
+}
+
+div#header
+{
+  margin-top: 25px;
+  margin-bottom: 20px;
+}
+
+div#footer img
+{
+  left: 0px;
+}
+
+div#advisory
+{
+  float: left;
+  width: 225px;
+  margin-right: 50px;	
+}

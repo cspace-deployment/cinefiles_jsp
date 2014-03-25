@@ -1,0 +1,65 @@
+      <%--
+           This fragment contains the contents of the Document Citation
+           block in DocDetails.jsp. The contents are returned by the
+           DocDetailServlet in a DocDetail object.
+      --%>
+
+      <div id='citation' name='citation'>
+         <citation>TITLE</citation><br />
+         <b>${docdetail.title}</b><br /><br />
+
+         <c:if test='${docdetail.authorCount > 1}'>
+           <citation>AUTHORS</citation><br />
+         </c:if>
+
+         <c:if test='${not (docdetail.authorCount > 1)}'>
+            <citation>AUTHOR</citation><br />
+         </c:if>
+
+         <c:forEach var="item" items="${docdetail.authors}">
+            ${item.value}<br />
+         </c:forEach><br />
+
+         <citation>SOURCE</citation><br />
+         ${docdetail.source}<br /><br />
+
+         <p><citation>DATE</citation><br />
+         ${docdetail.date}<br /><br />
+
+         <p><citation>TYPE</citation><br />
+         ${docdetail.type}<br /><br />
+
+         <c:if test='${docdetail.languageCount > 1}'>
+            <citation>LANGUAGES</citation><br />
+         </c:if>
+
+         <c:if test='${not (docdetail.languageCount > 1)}'>
+            <citation>LANGUAGE</citation><br />
+         </c:if>
+
+         <c:forEach var="lang" items="${docdetail.languages}">
+            ${lang}<br />
+         </c:forEach><br />
+
+         <citation>ORIG. PAGINATION</citation><br />
+         ${docdetail.pagination}<br /><br />
+
+         <citation>NO of PAGES</citation><br />
+         ${docdetail.pages}</br /><br />
+
+         <citation>SUBJECTS</citation><br />
+
+         <c:forEach var="subj" items="${docdetail.nameSubjects}">
+            ${subj.value}<br />
+         </c:forEach>
+
+         <c:forEach var="subj" items="${docdetail.subjects}">
+            ${subj.value}<br />
+         </c:forEach><br />
+
+         <citation>FILM SUBJECTS</citation><br />
+
+         <c:forEach var="film" items="${docdetail.filmSubjects}">
+            ${film.value}<br />
+         </c:forEach>
+      </div>

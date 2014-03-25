@@ -1,0 +1,41 @@
+<%@ taglib prefix="fn" uri="http://java.sun.com/jsp/jstl/functions" %>
+
+ 		<c:set var="reclist" value="${filmlist.docRecs}"/>
+
+        <p>${fn:length(reclist)} related documents. Click on a title
+        for a detailed  citation and document access.<br />
+
+        Sort results by
+        <select id="sorttype" name="sorttype" size="1"
+                onchange="sortDocList(this, 'docol');">
+          <option value="title" selected="selected">Document Title</option>
+          <option value="type">Document Type</option>
+          <option value="date">Publication Date</option>
+        </select></p>
+
+        <div id='results' name='results'>
+          <ol id='docol' name='docol'>
+            <c:forEach var="listitem" items="${reclist}">
+              <li>
+                <a href="/cinefiles/DocDetail?docId=${listitem[0]}">
+                   ${listitem[1]}
+                </a>
+
+                ${listitem[2]}
+                 
+                <c:if test='${listitem[5] < useraccess}'>
+                  -- Restricted. Please click 
+                  <a href="/cinefiles/DocDetail?docId=${listitem[0]}">
+                     here for detailed citation and access information
+                   </a>
+                </c:if>  
+
+                <c:if test='${fn:startsWith( listitem[6], "http://" )}'>
+                  -- View <a href="${listitem[6]}">document</a>
+                  on publisher's website.
+                </c:if>
+              </li>
+            </c:forEach>
+          </ol>
+        </div>
+           

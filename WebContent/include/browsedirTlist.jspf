@@ -1,0 +1,257 @@
+  <!-- Directors browse list, T section, included with BrowseDirs.jsp -->
+
+  <div id='browselist' name='browselist'>
+    <table id='browseTable' name='browseTable'>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=22265'>T'ang Shu-Hsuan</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=27219'>Tengan, Daisuke</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=11710'>Torre, Pablo</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=26131'>Tabak, Matthew</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=22079'>Tennant, Andy</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=27088'>Torre, Roberta</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=11423'>Tabío, Juan Carlos</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=33369'>Tennyson, Pen</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=11713'>Torres, Daniel Díaz</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=11425'>Tacchella, Jean-Charles</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=11544'>Teno, Jean-Marie</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=11718'>Torrini, Cinzia Th.</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=11431'>Taghvai, Naser</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=11547'>Terayama, Shuji</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=11721'>Toth, André de</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=11432'>Tahimik, Kidlat</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=11553'>Teshigahara, Hiroshi</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=11722'>Toth, Tamas</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=13893'>Tajima-Pena, Renee</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=11557'>Tetzlaff, Kurt</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=11724'>Toubiana, Serge</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=30493'>Takhmasib, Rza</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=24115'>Tetzlaff, Ted</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=24058'>Toukhanian, Hrayr</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=26160'>Talmadge, William</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=11561'>Tevet, Akiva</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=11732'>Tourjansky, Viktor</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=11461'>Tamahori, Lee</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=24256'>Tewksbury, Peter</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=11733'>Tourneur, Jacques</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=28202'>Taniguchi, Senkichi</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=20429'>Tezuka, Osamu</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=11734'>Tourneur, Maurice</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=11470'>Tanko, J. B.</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=18871'>Thanhauser, Ralph</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=11739'>Townsend, Bud</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=11473'>Tanner, Alain</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=27897'>Thior, Amadou</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=11746'>Toyoda, Shirô</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=33407'>Tanovic, Danis</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=25246'>Thom, Robert</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=20285'>Trainor, Jim</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=24353'>Tansey, Robert Emmett</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=11589'>Thomas, Betty</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=15520'>Tramont, Jean-Claude</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=28070'>Tao Teh-Chen</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=11591'>Thomas, Gerald</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=26638'>Tran Dac</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=11478'>Tarantino, Quentin</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=14874'>Thomas, Jeremy</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=11752'>Trancík, Dusan</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=11480'>Tarasov, Sergei</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=11592'>Thomas, John G.</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=187'>Trauberg, Leonid Zakharevich</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=29414'>Tarich, Yuri</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=11594'>Thomas, Ralph L.</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=11761'>Tregenza, Rob</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=23648'>Tarkas, Aarne</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=22005'>Thomas, Ralph</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=11775'>Tretti, Augusto</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=317'>Tarkovskii, Andrei Arsenevich</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=11595'>Thomas, Razmi</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=11780'>Triana, Jorge Ali</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=11484'>Tarkovskij, Andrej</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=11600'>Thomopoulos, Andreas</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=11781'>Trier, Lars von</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=11489'>Tarr, Béla</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=11608'>Thompson, J. Lee</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=8127'>Trinh T. Minh-ha</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=18314'>Tartaglia, Jerry</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=24602'>Thompson, Marshall</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=11785'>Trintignant, Nadine</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=14503'>Tasaka, Tomotaka</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=25706'>Thompson, Palmer</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=11786'>Trivas, Victor</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=11493'>Tashlin, Frank</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=26677'>Thomsen, Christian Braad</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=29737'>Trnka, Jirí</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=27074'>Taslimi, Susan</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=22045'>Thornton, Billy Bob</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=11788'>Troell, Jan</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=11496'>Tass, Nadia</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=11622'>Thornton, Leslie</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=11798'>Trousdale, Gary</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=11501'>Tati, Jacques</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=11624'>Thorpe, Richard</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=11800'>Trueba, Fernando</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=23105'>Tatlock, Katherine Deutch</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=30204'>Thuesen, Jacob</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=11801'>Truffaut, François</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=11502'>Tatos, Alexandru</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=12804'>Tien Chuang-chuang</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=11804'>Trumbo, Dalton</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=13970'>Taurog, Norman</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=11643'>Till, Eric</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=11805'>Trumbull, Douglas</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=29759'>Tavares, Gerson</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=29983'>Timsit, Patrick</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=8119'>Tsai Ming-Liang</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=11510'>Tavernier, Bertrand</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=15261'>Title, Stacy</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=11812'>Tsang, Eric</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=11512'>Taviani, Paolo</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=17338'>Todaro, Frank</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=26681'>Tsang, Kenneth</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=11513'>Taviani, Vittorio</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=11673'>Todd, Loretta</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=30444'>Tsarouchas, Stamatis</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=20303'>Taylor, Dyanna</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=29784'>Todd, Michael, Jr.</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=11825'>Tsiolis, Stavros</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=22104'>Taylor, Paige</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=11676'>Todd, Susan</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=5164'>Tsui, Hark</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=11521'>Taylor, Ray</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=11686'>Tognola, Victor</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=11834'>Tu, Larry C.H.</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=11522'>Taylor, Renée</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=25773'>Tokar, Norman</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=11841'>Tucker, George Loane</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=11525'>Taylor, Sam</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=11688'>Toland, Gregg</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=11844'>Tuhus, Oddvar Bull</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=11531'>Tchernia, Pierre</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=11689'>Toledo, Sergio</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=11847'>Tully, Montgomery</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=22054'>Te-Sheng Wei</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=33084'>Tong, Nancy</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=20445'>Tumelya, Mikhail</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=11533'>Teague, Lewis</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=26613'>Toniato, Marco</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=11855'>Tung, Sandy</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=16445'>Tec, Roland</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=25152'>Topiary, Samuael</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=19827'>Tunis, Ron</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=11413'>Téchiné, André</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=11701'>Toporoff, Ralph</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=33357'>Turell, Saul J.</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=14216'>Tejeda, Carlos Ortiz</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=25805'>Topper, Burt</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=351'>Tuttle, Frank</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=386'>Temple, Julien</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=11420'>Törnroth, Titte</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=14853'>Twohy, David</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=30115'>Ten, Shimoyama</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=11707'>Toro, Guillermo del</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=11880'>Tyndall, Andrew</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=12356'>Teng Wenji</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=29087'>Torre Nilsson, Leopoldo</a></td>
+        <td></td>
+      </tr>
+    </table>
+  </div>
+

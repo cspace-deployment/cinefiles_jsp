@@ -1,0 +1,29 @@
+          <table width="400px">
+            <tr>
+              <td><input value="1" name="contains"
+                         type="checkbox"/>Filmography</td>
+              <td><input value="2" name="contains"
+                         type="checkbox" />Distribution Co.</td>
+            </tr>
+
+            <tr>
+              <td><input value="3" name="contains"
+                         type="checkbox"/>Illustrations</td>
+              <td><input value="4" name="contains"
+                         type="checkbox" />Production Co.</td>
+            </tr>
+
+            <tr>
+              <td><input value="5" name="contains"
+                         type="checkbox" />Cast Credits</td>
+              <td><input value="6" name="contains"
+                         type="checkbox"/>Production Costs</td>
+            </tr>
+
+            <tr>
+              <td><input value="7" name="contains"
+                         type="checkbox" />Tech. Credits</td>
+              <td><input value="8" name="contains"
+                         type="checkbox"/>Box Office Revenue</td>
+            </tr>
+          </table>

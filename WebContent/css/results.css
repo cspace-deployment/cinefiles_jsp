@@ -1,0 +1,38 @@
+/*
+ * The style-sheet included with FilmSearch.jsp, FilmResults.jsp and
+ * DocResults.jsp
+ *
+ * Creates styles specific to the JSP, and provides a place where
+ * more generic settings can be overridden.
+ */
+ 
+div#results
+{
+  width: 575px;
+  height: 450px;
+  overflow: auto;
+  margin-top: 15px;
+  position: relative;
+}
+
+div#results ol
+{
+  padding-left: 25px;
+}
+
+div#results li
+{
+  margin-bottom: 10px;
+  padding-left:10px;
+}
+
+#sorttype
+{
+  margin-left: 5px;
+  margin-top: 12px;
+}
+
+div#footer
+{
+  top: 65px;
+}

@@ -1,0 +1,260 @@
+         
+       <h2>Simple Search</h2>
+
+       <p>
+         The quickest method to find a film record or document on CineFiles
+         is to use the simple search (on the home page, and on the sidebar
+         on all subsequent pages).  You can search by film title, director,
+         subject or genre from the simple search.
+         For more search parameters, please see either our 
+         <a href="/cinefiles/FilmSearch.jsp">Advanced Film Search</a> or 
+         <a href="/cinefiles/DocSearch.jsp">Advanced Document Search</a>.
+       </p><br />
+
+       <p>
+         If you are having problems with your simple search:
+       </p>
+
+       <ul>
+         <li>Check your spelling</li>
+ 
+         <li>Make sure that you have the appropriate category selected
+             in the pull-down menu</li>
+ 
+         <li>If your search term does not return results, refer to our
+             <a href="/cinefiles/BrowseSubjects.jsp">subject</a> browse
+             list or <a href="/cinefiles/BrowseGenres.jsp">genre</a>
+             browse list to find the appropriate phrasing for your search
+             term.</li>
+       </ul><br />
+
+       <h2>Advanced Search</h2>
+
+       <p>
+         There are two ways to look for documents using Advanced Search tools
+         on CineFiles.  The first helps you look up film title(s), and brings
+         up all the documents related to that film; the second helps you search
+         directly for the document itself. 
+       </p><br />
+       
+       <p>
+         <a href="/cinefiles/FilmSearch.jsp">Advanced Film Search</a>: Use
+         this form to look for film record(s) based on additional information
+         than is supported by the simple search. In addition to searching by
+         title, director, subject and genre, you can also search by country,
+         language, production company and year of production.
+       </p><br />
+       
+       <p>
+         <a href="/cinefiles/DocSearch.jsp">Advanced Document Search</a>:
+         Use this form to look for documents by title, author, date or
+         publication; documents about specific films, people, or subjects;
+         documents containing technical credits, production costs, or other
+         categories of information pertaining to a film; or any combination
+         of these. 
+       </p><br />
+       
+       <p>
+         Please see below for a description of all search terms.
+       </p><br /><br />
+ 
+       <h2>Note on Subject and Genre terms</h2>
+       
+       <p>
+         The subject terms used in this database are in accordance with the 
+         <a href="http://authorities.loc.gov">Library of Congress Authorities</a>,
+         and the genre are taken from the Library of Congress publication
+         <a href="http://www.loc.gov/rr/mopic/miggen.html">
+         Moving Image Materials: Genre Terms</a>.
+       </p><br />
+ 
+       <p>
+         Using a "contains" search type to look for subjects will generally
+         return better results, because otherwise the search term you enter 
+         must exactly match the Library of Congress heading. Please refer to
+         our <a href="/cinefiles/BrowseSubjects.jsp">subject</a> browse list
+         or <a href="/cinefiles/BrowseGenres.jsp">genre</a> browse list to
+         find the appropriate phrasing for your search term.
+       </p><br /><br />
+       
+       <h2>General notes on searching the database</h2>
+       
+       <p>
+         The database is case insensitive: you may type words or names in
+         upper or lower case, and searching will not be affected.
+       </p><br />
+ 
+       <p>     
+         You may enter information in just one field or in multiple fields
+         in the Advanced Search windows; multiple entries will be searched
+         as AND queries.  For example, in the Advanced Film Search form,
+         entering "Czechoslovakia" in the Country field and "comedies" in
+         the Genre field would retrieve a list of Czech comedies.
+       </p><br /><br /> 
+
+       <h2>How to broaden your search results</h2>
+        
+       <ul>
+         <li>If you are using multiple search terms, try to reduce the
+             number of terms</li>
+ 
+         <li>Select 'contains' for Search Type (this is the default
+             setting)</li>
+
+         <li>Select 'any' for Document Type (this is the default
+             setting)</li>
+
+         <li>Try a range of years (e.g., 1990-1999) as opposed to
+             a single year.</li>
+       </ul><br />
+
+     <h2>How to limit your search results</h2>
+     
+     <ul>
+       <li>Try using multiple search terms to narrow the focus of
+           the search</li>
+
+       <li>Select 'exact' for Search Type</li>
+
+       <li>Select a particular kind of Document Type, as opposed
+           to 'any'</li>
+
+       <li>Select one of the limiting factors such as Filmography,
+           Illustrations, etc.</li>
+     </ul><br />
+     
+     <h2>Description of search terms</h2><br />
+
+     <b>Advanced Film Search</b><br />
+       <p>
+         <i>Film Title</i>:
+         Title the film was released under; if it is a foreign
+         film, both the foreign language and the English title
+         should yield results. E.g., Wo hu cang long or Crouching
+         tiger, hidden dragon.
+       </p><br />
+       
+       <p>
+         <i>Director</i>:
+         Name of the film's director; if the film has multiple
+         directors,  any of those names should yield a result. 
+         E.g., Robert Altman or Altman, Robert or Altman.
+       </p><br />
+
+       <p>
+         <i>Country of Production</i>:
+         Name of country that produced the film; if there are
+         multiple countries, any of them should yield a result.
+         E.g., Great Britain or Japan.
+       </p><br />
+
+       <p>
+         <i>Film Genre</i>:
+         Genre terms are assigned to films based on the Library of Congress
+         publication Moving Image Materials: Genre Terms. Please refer to the
+         <a href="/cinefiles/BrowseGenres.jsp">genre browse list</a> to find
+         the appropriate phrasing for your search term.
+         E.g., Thriller or Comedy or Docmentary.
+       </p><br />
+
+       <p>
+         <i>Subject of Film</i>:
+         Subject terms are in accordance with the Library of Congress
+         Authorities. Please refer to the
+         <a href="/cinefiles/BrowseSubjects.jsp">subject</a> browse list to
+         find the appropriate phrasing for your search term.
+         E.g., U.S. History, or World War.
+       </p><br />
+
+       <p>
+         <i>Language</i>:
+         Primary language of the film; if a film was made in multiple
+         languages, any of them should yield a result. E.g., Spanish or Hindi.
+       </p><br />
+
+       <p>
+         <i>Production Company</i>:
+         Name of the production company that produced the film; if there are
+         multiple production companies, any of them should yield a result.
+         E.g., Warner Brothers or Cinecitta.
+       </p><br />
+
+       <p>
+         <i>Year(s)</i>:
+         The calendar year that the film was released.  If a single year
+         does not yield any results, try a range of years. E.g., 1995 or
+         1995-1999.
+       </p><br />
+
+       <b>Advanced Document Search</b><br />
+
+       <p>
+         <i>Film Title</i>: 
+         Same as above.
+       </p><br />
+
+       <p>
+         <i>Subject of Document</i>:
+         Use either a subject term or a name in this field. The query will
+         return all documents which discuss that subject or person, and
+         also documents relating to all films about that subject or person.
+         Subject terms are in accordance with the
+         <a href="http://authorities.loc.gov">Library of Congress Authorities</a>
+         Library of Congress Authorities. E.g., Motion pictures - Production
+         and direction or Orson Welles.
+       </p><br />
+
+       <p>
+         <i>Document Title</i>:
+         Title the document was published under; foreign language titles
+         need to be queried in the original language. E.g., Chaplin in the
+         limelight or Entretien avec Varda sur Sans toit ni loi.
+       </p><br />
+
+       <p>
+         <i>Document Author</i>:
+         Name of the document author; if the document has multiple authors,
+         any of those names should yield a result. E.g., Pauline Kael or
+         Kael, Pauline.
+       </p><br />
+
+       <p>
+         <i>Document Source</i>:
+         Name of the publication the document was publishe in, or the name
+         of the event or institution where the document was created.
+         E.g., Los Angeles Times or Toronto International Film Festival
+         or Harvard Film Archive.
+       </p><br />
+
+       <p>
+         <i>Publication Date</i>:
+         Date that the document appeared in print, or date that the document
+         was created. E.g., 1995, or 1995 Jun 18.
+       </p><br />
+
+       <p>
+         <i>Language</i>:
+         Primary language of the document; if a document has multiple
+         languages, any of them should yield a result. E.g., French or
+         German.
+       </p><br /><br />
+
+       <h2>Printing Options</h2>
+
+       <p>
+         <b>Printing the entire document</b><br />
+         In order to print the entire document, first download the document
+         as a PDF. It will download either to your desktop, or open the PDF
+         in a new window in your web browser.  Each page image in the PDF is
+         a different size, to ensure optimum viewing. If you would like all 
+         your page images to print out at the same size, please select the
+         option to 'scale each page to fit paper' in the print dialog box.
+       </p><br />
+
+       <p>
+         <b>Printing a single page image</b><br />
+         If you would like to print a single page image, you can do that by
+         selecting the approprate page number in your PDF. Alternately, you
+         can view the page image in a separate window, and then use the
+         print feature on the browser to print that page images.
+       </p>

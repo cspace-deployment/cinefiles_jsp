@@ -1,0 +1,52 @@
+      <div id='browselist' name='browselist'>
+        <table id='browseTable' name='browseTable'>
+          <tr>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=23505'>
+                 Xala
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=23996'>
+                 Xian sheng gui xing (????)
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=23517'>
+                 Xica da Silva
+              </a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=27281'>
+                 Xi nu ai le
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=23514'>
+                 Xiangnu xiao-xiao
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=30347'>
+                 Xingfu shiguang
+              </a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=31066'>
+                 Xi yan
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=29624'>
+                 Xiaoao jiang hu
+              </a>
+            </td>
+            <td></td>
+          </tr>
+        </table>
+      </div>
+    </div>

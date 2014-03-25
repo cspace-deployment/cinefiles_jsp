@@ -1,0 +1,125 @@
+<%--
+  This fragment contains the navigation block for the BrowseDirs.jsp.
+  It creates a block level area ("browsePane") where fragments selected
+  in the navigation block, can be inserted into the BrowseDirs page.
+ --%>
+ 
+<h2>Browse All Directors</h2>
+The following is a list of all directors who are represented in CineFiles
+as of June 2009. The browse list is alphabetized by last name. The films
+indexed in CineFiles do not always represent the complete filmography of
+a director. For a list of directors whose entire filmography is indexed
+in CineFiles, please click <a href="/cinefiles/Directors.jsp">here</a>.
+
+<div id='navAlist' name='navAlist'>
+  <ul>
+    <li>
+      <a href="NoJs.jsp"
+         onclick="setBrowsePane('browsedirAlist.jspf');return false;">A</a>
+    </li>
+    <li>
+      <a href="NoJs.jsp"
+         onclick="setBrowsePane('browsedirBlist.jspf');return false;">B</a>
+    </li>
+    <li>
+      <a href="NoJs.jsp"
+         onclick="setBrowsePane('browsedirClist.jspf');return false;">C</a>
+    </li>
+    <li>
+      <a href="NoJs.jsp"
+       onclick="setBrowsePane('browsedirDlist.jspf');return false;">D</a>
+    </li>
+    <li>
+      <a href="NoJs.jsp"
+       onclick="setBrowsePane('browsedirElist.jspf');return false;">E</a>
+    </li>
+    <li>
+      <a href="NoJs.jsp"
+       onclick="setBrowsePane('browsedirFlist.jspf');return false;">F</a>
+    </li>
+    <li>
+      <a href="NoJs.jsp"
+       onclick="setBrowsePane('browsedirGlist.jspf');return false;">G</a>
+    </li>
+    <li>
+      <a href="NoJs.jsp"
+       onclick="setBrowsePane('browsedirHlist.jspf');return false;">H</a>
+    </li>
+    <li>
+      <a href="NoJs.jsp"
+       onclick="setBrowsePane('browsedirIlist.jspf');return false;">I</a>
+    </li>
+    <li>
+      <a href="NoJs.jsp"
+       onclick="setBrowsePane('browsedirJlist.jspf');return false;">J</a>
+    </li>
+    <li>
+      <a href="NoJs.jsp"
+       onclick="setBrowsePane('browsedirKlist.jspf');return false;">K</a>
+    </li>
+    <li>
+      <a href="NoJs.jsp"
+       onclick="setBrowsePane('browsedirLlist.jspf');return false;">L</a>
+    </li>
+    <li>
+      <a href="NoJs.jsp"
+       onclick="setBrowsePane('browsedirMlist.jspf');return false;">M</a>
+    </li>
+    <li>
+      <a href="NoJs.jsp"
+       onclick="setBrowsePane('browsedirNlist.jspf');return false;">N</a>
+    </li>
+    <li>
+      <a href="NoJs.jsp"
+       onclick="setBrowsePane('browsedirOlist.jspf');return false;">O</a>
+    </li>
+    <li>
+      <a href="NoJs.jsp"
+       onclick="setBrowsePane('browsedirPlist.jspf');return false;">P</a>
+    </li>
+    <li>
+      <a href="NoJs.jsp"
+       onclick="setBrowsePane('browsedirQlist.jspf');return false;">Q</a>
+    </li>
+    <li>
+      <a href="NoJs.jsp"
+       onclick="setBrowsePane('browsedirRlist.jspf');return false;">R</a>
+    </li>
+    <li>
+      <a href="NoJs.jsp"
+       onclick="setBrowsePane('browsedirSlist.jspf');return false;">S</a>
+    </li>
+    <li>
+      <a href="NoJs.jsp"
+       onclick="setBrowsePane('browsedirTlist.jspf');return false;">T</a>
+    </li>
+    <li>
+      <a href="NoJs.jsp"
+       onclick="setBrowsePane('browsedirUlist.jspf');return false;">U</a>
+    </li>
+    <li>
+      <a href="NoJs.jsp"
+       onclick="setBrowsePane('browsedirVlist.jspf');return false;">V</a>
+    </li>
+    <li>
+      <a href="NoJs.jsp"
+       onclick="setBrowsePane('browsedirWlist.jspf');return false;">W</a>
+    </li>
+    <li>
+      <a href="NoJs.jsp"
+       onclick="setBrowsePane('browsedirXlist.jspf');return false;">X</a>
+    </li>
+    <li>
+      <a href="NoJs.jsp"
+       onclick="setBrowsePane('browsedirYlist.jspf');return false;">Y</a>
+    </li>
+    <li>
+      <a href="NoJs.jsp"
+       onclick="setBrowsePane('browsedirZlist.jspf');return false;">Z</a>
+    </li>    
+  </ul>
+</div>
+
+<div id='browsePane' name='browsePane'>
+  <jsp:include page="/include/browsedirAlist.jspf" />
+</div>

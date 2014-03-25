@@ -1,0 +1,24 @@
+<!-- The standard CineFiles footer, included on every page -->
+
+  <div id="footer" name="footer">
+    <map name="footermap">
+      <area shape="rect" coords="1, 1, 140, 24"
+            href="http://bampfa.berkeley.edu" />
+      <area shape="rect" coords="290, 5, 325, 18"
+            href="/cinefiles/Welcome.jsp" />
+      <area shape="rect" coords="352, 7, 412, 18"
+            href="/cinefiles/AboutUs.jsp" />
+      <area shape="rect" coords="443, 7, 472, 18"
+            href="/cinefiles/Help.jsp" />
+      <area shape="rect" coords="505, 7, 575, 18"
+            href="http://www.surveymonkey.com/s.aspx?sm=awo8xoQFfSFquCm7S7hXAQ_3d_3d" />
+      <area shape="rect" coords="612, 7, 680, 18"
+            href="/cinefiles/Comments.jsp" />
+      <area shape="rect" coords="715, 7, 765 18"
+            href="/cinefiles/SiteMap.jsp" />
+      <area shape="rect" coords="795, 7, 865, 18"
+            href="/cinefiles/Contact.jsp" />
+    </map>
+
+    <img src="/cine_img/icons/pgfooter.gif" usemap="#footermap" border="0" />
+  </div>

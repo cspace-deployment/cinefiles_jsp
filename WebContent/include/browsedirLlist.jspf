@@ -1,0 +1,412 @@
+  <!-- Directors browse list, L section, included with BrowseDirs.jsp -->
+
+  <div id='browselist' name='browselist'>
+    <table id='browseTable' name='browseTable'>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=6776'>L'Herbier, Marcel</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=6982'>Leduc, Jacques</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=23956'>Lilley, Edward C.</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=14252'>La Cava, Gregory</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=6983'>Leduc, Paul</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7179'>Limosin, Jean-Pierre</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=6778'>Labarthe, André</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=21442'>Lee Bun Sun</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=14894'>Lin Cheng-Sheng</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=6779'>Labate, Wilma</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=15074'>Lee Chi-ngai</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=24841'>Lindeman, Doug</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=19130'>Laborde, Leopoldo</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=5582'>Lee Hsing</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7187'>Linden, Mitchell</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=6786'>LaBruce, Bruce</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=20621'>Lee Je-yong</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7188'>Linder, Maud</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=6795'>Lacombe, Georges</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=22930'>Lee Jeong-Hyang</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7191'>Lindholm, Peter</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=29896'>Lacy, Susan</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=15146'>Lee Min-Yong</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7192'>Lindman, Åke</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=22192'>Lafando, R. A.</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=14017'>Lee Won-Se,</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7198'>Lindsay-Hogg, Michael</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=6809'>Lagestee, Martin</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=6984'>Lee, Ang</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=22059'>Lindström, Fredrik</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=16059'>Lahlou, Nabyl</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=13300'>Lee, Damien</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=13369'>Lindtberg, Leopold</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=21367'>Lahti, Katariina</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=26024'>Lee, Doo-Yong</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=12816'>Ling Tzu-feng</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=6816'>Lai, Albert</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=356'>Lee, Gerard</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=20302'>Link, Caroline</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=6821'>Laing, John</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=6989'>Lee, Helen</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=33908'>Lipscomb, James</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=6824'>Lakhdar-Hamina, Malik</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=30002'>Lee, Hosup</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=18897'>Lipsett, Arthur</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=26537'>Laliberté, Roger</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=26296'>Lee, Iara</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=23894'>Lipsey, Arnie</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=6830'>Laloux, René</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=22659'>Lee, Jack</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7217'>Lipsky, Oldrich</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=6833'>Lam, Ringo</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=27704'>Lee, Kolton</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7218'>Lipstadt, Aaron</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=16116'>Lam, Wood</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=6994'>Lee, Spike</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7228'>Litten, Peter Mackenzie</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=6835'>Lamadrid, Alfredo</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7002'>Lefebvre, Jean-Pierre</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7227'>Litten, Peter</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=28975'>Lamas, Fernando</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=29628'>Lefranc, Guy</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7229'>Littín, Miguel</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=16299'>Lambert, Gavin</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=6761'>Léger, Fernand</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7230'>Little, Dwight H.</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=6839'>Lambert, Lothar</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7008'>Legiardi-Laura, Roland</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7233'>Litvak, Anatole</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=6845'>Lamond, John D.</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=24875'>Legitimus, Pascal</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7241'>Lizzani, Carlo</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=6846'>Lamont, Charles</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7009'>Legnazzi, Remo</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=29946'>Lledo, Jean Pierre</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=13145'>Lamont, Charles</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7012'>Lehman, Boris</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7254'>Llosa, Luis</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=6847'>Lamorisse, Albert</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7015'>Lehmann, Maurice</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7255'>Lloyd, Frank</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=6849'>Lampin, Georges</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7016'>Lehmann, Michael</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=79'>Loach, Ken</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=33085'>Lampros, Spiro</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7017'>Lehmuskallio, Markku</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7259'>Loader, Jayne</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=23027'>Lance, Mary</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7018'>Lehner, Fritz</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=29980'>Lock, Edouard</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=6855'>Lander, Joan</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7020'>Lehrman, Henry</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=18197'>Loeb, Anthony</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=20638'>Landers, Lew</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=34119'>Leibrecht, Gina</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=23970'>Loeken, Michael</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=6859'>Landis, John</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=24857'>Leigh, Jennifer Jason</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=26238'>Logar, Juan</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=24522'>Landres, Paul</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7028'>Leigh, Mike</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=29035'>Logereau, Edouard</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=34083'>Landreth, Chris</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7033'>Leisen, Mitchell</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7276'>Lombardi, Francisco</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=6865'>Lane, Pacho</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=13158'>Leisendahl, Heinz</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7280'>Lommel, Ulli</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=6867'>Lane, Rocky</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7035'>Leitao, Joaquim</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=25705'>Long, Richard</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=6868'>Lang, Fritz</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=23890'>Leitman, Ruth</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7288'>Long, Worth</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=6871'>Lang, Michel</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7044'>Leland, David</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7291'>Longinotto, Kim</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=6874'>Lang, Rocky</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=29734'>Lelong, Christian</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=3111'>Lönnbro, Anders</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=6875'>Lang, Walter</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=73'>Lelouch, Claude</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7296'>Looy, Erik Van</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=29495'>Langley, Noel</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7045'>Lely, Noshka van der</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=23870'>López-Linares, José Luis</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=15270'>Laplaine, Jose</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7049'>Lemon, Lizzie</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=22464'>Lord, Chip</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=20298'>Lapsui, Anastasia</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=17204'>Lennon, John</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=24065'>Lord, Del</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=17284'>Larimore, Victoria</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7063'>Lenzi, Umberto</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=465'>Lord, Jean-Claude</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=26568'>Larish, Tal</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7070'>Leonard, Robert Z.</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=20456'>Lord, Peter</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=23479'>Larkin, John</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7073'>Leone, Sergio</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7309'>Loridan, Marceline</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=6913'>Larsson, Stig</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7074'>Lepage, Henri</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7314'>Losey, Joseph</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=23799'>Lasmanis, Andra</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=22193'>Lepler, Ed</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=29404'>Loubignac, Jean</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=6917'>Lasseby, Stig</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=16233'>Leppzer, Robby</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7377'>Lounguine, Pavel</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=6918'>Lasseter, John</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=16826'>Lerner, Irving</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7324'>Louvin, Gérard</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=6919'>Lathan, Stan</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=27224'>Lerner, Jesse</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7332'>Low, Stephen</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=6923'>Latour, Eliane de</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7085'>LeRoy, Mervyn</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7333'>Lowenstein, Richard</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=6924'>Lattuada, Alberto</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7086'>Leroy, Serge</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7338'>Loy, Nanni</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=29701'>Laughlin, Tom</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=16977'>Lerski, Helmar</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7340'>Lozano, José Luis</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=6930'>Launder, Frank</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=30492'>Leshchenko, Nikolai</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7341'>Lozinski, Marcel</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=6932'>Laurent, Christine</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7092'>Leslie, Alfred</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=12599'>Lu Xiaoya</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=23265'>Laurié, Eugène</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=24445'>Lessa, Bia</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7343'>Lubin, Arthur</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=6934'>Lauritzen, Lau</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7094'>Lester, Mark L.</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7344'>Lubitsch, Ernst</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=6935'>Lautner, Georges</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7095'>Lester, Richard</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7347'>Lucas, George</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=24853'>Laven, Arnold</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7097'>Leszczynski, Witold</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=26052'>Lucas, Phil</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=27677'>Lavrov, German</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7102'>Lettich, Sheldon</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7353'>Luchetti, Daniele</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=29782'>Lavrovsky, Leonid</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7108'>Levant, Brian</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=30094'>Lucia, Luis</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=6945'>Law, Clara</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7116'>Levin, Henry</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=15708'>Luduena, Julio</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=6950'>Lawrence, Denny</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=323'>Levin, Moisei</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7358'>Ludwig, Edward</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=6952'>Lawrence, Quentin</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=16506'>Levine, Jack</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7367'>Lumet, Sidney</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=27199'>Lazzaretti, Fabrizio</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7123'>Levinson, Barry</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=30472'>Lund, Kátia</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=23297'>Le Borg, Reginald</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7130'>Levy, Dani</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=14315'>Luo, Wei-ming</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=20455'>Le Piouffle, Georges</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=16519'>Lew-Lee, Lee</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7379'>Lupino, Ida</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=10095'>Le Roux, Hervé</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7137'>Lewin, Albert</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7382'>Luret, Jean</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=6964'>Leacock, Philip</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7142'>Lewis, Everett</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7383'>Luske, Hamilton</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=13633'>Leacock, Phillip</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=25680'>Lewis, Herschell Gordon</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7385'>Lustgarten, Steve</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=6965'>Leacock, Richard</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7144'>Lewis, Jerry</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7388'>Luther, Miloslav</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=6970'>Lean, David</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7145'>Lewis, Joseph H.</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=32595'>Lyford, Richard</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=26413'>Leaver, Don</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=6027'>Li Jun</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=33152'>Lykouresis, Adonis</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=19703'>Leber, Titus</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=26508'>Liddle, Ralph</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7398'>Lynch, David</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=32397'>Leclerc, Michel</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7165'>Lieberman, Robert</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=28969'>Lynn, Robert</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=23643'>Lecomte, Henry</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7167'>Liechti, Hans</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=13135'>Lyon, Danny</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=6976'>Leconte, Patrice</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=14316'>Lii, Chii-Hwa</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=24512'>Lyon, Francis D.</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=6979'>Leder, Paul</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7174'>Lilienthal, Peter</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=27676'>Lyubshin, Stanislav</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=6981'>Leduc, André</a></td>
+        <td></td>
+        <td></td>
+      </tr>
+    </table>
+  </div>
+

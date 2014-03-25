@@ -1,0 +1,72 @@
+  <!-- Directors browse list, Y section, included with BrowseDirs.jsp -->
+
+  <div id='browselist' name='browselist'>
+    <table id='browseTable' name='browseTable'>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=20406'>Yaguchi, Shinobu</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=6001'>Yeaworth, Irvin S.,</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=12685'>Young, Robert M.</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=12610'>Yamakawa, Naoto</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=30116'>Yee, Chin-yen</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=12684'>Young, Robert</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=34123'>Yamamoto, Kenji</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=29969'>Yehuda, Sigal</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=12688'>Young, Terence</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=12611'>Yamamoto, Masashi</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=12648'>Yersin, Yves</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=15437'>Young, W. W.</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=12598'>Yan Xueshu</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=28072'>Yi Chang</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=29365'>Youngson, Robert</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=12622'>Yanagimachi, Mitsuo</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=12656'>Yilmaz, Atif</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=28648'>Yu Lik-Wai, Nelson</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=14358'>Yang Teh-ch'ang,</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=19427'>Yimou, Zhang</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=16442'>Yu Xiangyuan,</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=3984'>Yang, Fengliang</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=15725'>Yorkin, Bud</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=24827'>Yu Yong-sik</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=12628'>Yanne, Jean</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=12676'>Yoshida, Yoshishige</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=118'>Yu, Dennis</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=15726'>Yarbrough, Jean</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=394'>Yossifova, Iskra</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=13856'>Yü, Pen-cheng</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=24101'>Yavuz, Yüksel</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=12678'>Young, Andrew</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=26867'>Yüce, Ihsan</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=12643'>Yazaki, Hitoshi</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=12681'>Young, Freddie</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=12704'>Yukol, Chatri Chalerm</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=29989'>Yazdani, Shahin</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=15723'>Young, Harold</a></td>
+        <td></td>
+      </tr>     
+    </table>
+  </div>
+

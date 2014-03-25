@@ -1,0 +1,427 @@
+  <!-- Directors browse list, R section, included with BrowseDirs.jsp -->
+
+  <div id='browselist'  name='browselist'>
+    <table id='browseTable' name='browseTable'>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=9564'>Rabaglia, Denis</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=96'>Reynolds, Kevin</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=10008'>Rood, Jurriën</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=9569'>Rabenalt, Arthur Maria</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=9553'>Rezende, Sergio</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=10009'>Roodt, Darrell</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=9570'>Rabinowitz, Maurice</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=30394'>Rhodes, Gabriel</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=22197'>Rooks, Conrad</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=9572'>Rached, Tahani</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=26246'>Riad, Mohamed Slimane</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=212'>Room, Abram Matveevich</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=9573'>Rachedi, Ahmed</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=29649'>Ribera, Xavier</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=10011'>Roos, Ole</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=27410'>Racine, Isaac-Pierre</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=9791'>Ribero, Mario</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=10013'>Rooy, Felix de</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=14774'>Radanowicz, Georg</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=16995'>Rice, Ron</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=25526'>Roper, Sarah</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=18262'>Radek, Udo</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=24344'>Rich, John</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=10019'>Rose, Bernard</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=9576'>Rademakers, Fons</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=9797'>Rich, Richard</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=10025'>Rosella, Gail Kappler</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=20461'>Radev, Zlatin</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=456'>Richard, J.</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=13618'>Rosellini, Taale Laafe</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=9579'>Radford, Michael</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=9799'>Richard, Jacques</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=24037'>Rosen, Phil</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=21989'>Radi, Mohamed</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=9802'>Richard, Pierre</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=10029'>Rosenberg, Anita</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=9592'>Rafelson, Bob</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=33370'>Richards, Lloyd</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=10030'>Rosenberg, Stuart</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=9594'>Rafferty, Kevin</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=23124'>Richardson, Boyce</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=10033'>Rosenblum, Nina</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=9595'>Rafferty, Pierce</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=19708'>Richardson, Craig</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=32347'>Rosenblum, Ralph</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=13968'>Rafill, Stewart</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=9807'>Richardson, Tony</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=10035'>Rosenfeld, Keva</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=23220'>Ragályi, Elemér</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=9809'>Richert, William</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=10042'>Rosenthal, Rick</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=9598'>Rahardjo, Slamet</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=9810'>Richet, Jean-François</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=22963'>Roshal, Grigori</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=28362'>Rahimi, Atiq</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=9811'>Richter, Daniel</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=10046'>Rosi, Francesco</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=9603'>Raimi, Sam</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=9814'>Richter, Roland Suso</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=24281'>Rosmer, Milton</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=9604'>Rainer, Yvonne</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=9816'>Richter, W. D.</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=10051'>Rosow, Eugene</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=9614'>Ramati, Alexander</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=30799'>Rickman, Alan</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=10052'>Ross, Benjamin</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=9621'>Ramis, Harold</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=9824'>Riddiford, Richard</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=18250'>Ross, David</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=23084'>Ramrakha, Riju</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=9830'>Riefenstahl, Leni</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=10056'>Ross, Herbert</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=24916'>Ranódy, László</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=14603'>Rihak, Jaroslav</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=26434'>Ross, Steven John</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=9638'>Rappaport, Mark</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=9841'>Rijneke, Dick</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=27856'>Rossellini, Renzo</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=9640'>Rappeneau, Jean-Paul</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1972'>Riley, H. Anne</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=10058'>Rossellini, Roberto</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=9641'>Rapper, Irving</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=31004'>Rim, Carlo</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=10059'>Rossen, Robert</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=9643'>Rash, Steve</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=28587'>Rimoch, Ernesto</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=10061'>Rossi, Franco</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=9646'>Rasky, Harry</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=23871'>Rioyo, Javier</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=10063'>Rossi, Sergio</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=9647'>Rasmussen, Kjehl</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=9860'>Ripley, Arthur</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=10064'>Rossif, Frédéric</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=25832'>Ráthonyi, Ákos</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=9865'>Risan, Leidulv</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=10065'>Rossini, Bianca Conti</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=30121'>Ratner, Brett</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=9869'>Risi, Dino</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=26328'>Rossoff, Eduardo</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=13165'>Ratoff, Gregory</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=9871'>Risquez, Diego</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=23498'>Rosson, Richard</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=18640'>Raucamp, Gerard</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=9876'>Ristelhueber, Sophie</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=26404'>Rossotti, Roy</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=21366'>Rautoma, Riitta</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=9878'>Ritchie, Michael</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=10070'>Rotberg, Dana</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=13354'>Ravett, Abraham</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=9879'>Ritt, Martin</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=10072'>Roth, Christopher</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=20702'>Ravich, Rand</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=20805'>Ritz, Lan Brookes</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=23392'>Roth, Cy</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=23671'>Rawlins, John</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=13998'>Rivaz, Dominique de</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=10073'>Roth, Joe</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=23443'>Ray, Bernard B.</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=9892'>Rivette, Jacques</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=22136'>Roth, Mary</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=9671'>Ray, Fred Olen</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=9897'>Roach, Hal</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=10075'>Roth, Phillip J.</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=9672'>Ray, Man</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=20832'>Roach, Jay</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=22392'>Roth, Thomas</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=9673'>Ray, Nicholas</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=9900'>Robak, Alain</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=374'>Rotha, Paul</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=9674'>Ray, Sandip</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=9901'>Robbe-Grillet, Alain</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=23994'>Rothemund, Marc</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=26712'>Ray, Sandrine</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=25386'>Robbins, Jerome</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=10077'>Rothman, Stephanie</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=9675'>Ray, Satyajit</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=9903'>Robbins, Tim</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=26322'>Rotsler, William</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=23762'>Raymond, Jack</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=9907'>Robert, Yves</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=10081'>Rouch, Jean</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=9679'>Raymont, Peter</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=461'>Roberts, Deborah</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=10088'>Roullet, Serge</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=17179'>Razutis, Al</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=30169'>Roberts, Jordan</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=23465'>Rouse, Russell</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=9697'>Redford, Robert</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=9915'>Roberts, Will</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=10096'>Rovai, Pedro Carlos</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=13499'>Redpath, Mark</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=29657'>Robertson, Graham</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=10101'>Rowland, Roy</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=26885'>Reed, Alastair</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=32423'>Robertson, Jack</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=14625'>Rowley, R. William</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=9698'>Reed, Carol</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=22990'>Robertson, John S.</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=27043'>Roy, Duncan</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=9702'>Reed, Joel M.</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=9922'>Robin, Teddy</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=14601'>Roy, Renée</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=29180'>Reed, Langford</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=33310'>Robinson, Esther</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=32429'>Royer, Michael</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=13472'>Reed, Luther</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=25028'>Robinson, Peter</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=10107'>Rozema, Patricia</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=14804'>Rees, Phil</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=9930'>Robinson, Phil Alden</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=10110'>Rozier, Jacques</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=20284'>Reeves, Richard</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=22696'>Robinson, Todd</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=29106'>Rozier, Willy</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=9720'>Reichenbach, Carlos</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=9932'>Robison, Arthur</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=9558'>Rózsa, János</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=9721'>Reichenbach, François</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=9937'>Robson, Mark</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=10112'>Rubbo, Michael</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=9724'>Reichle, Denis</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=9939'>Rocha, Glauber</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=13470'>Ruben, J. Walter</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=22387'>Reid, Alastair</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=9942'>Rochant, Éric</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=10113'>Ruben, Joseph</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=25018'>Reid, Tim</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=382'>Roddam, Franc</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=10119'>Rubinchik, Valeri</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=9730'>Reidemeister, Helga</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=9951'>Rodde, Michel</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=10121'>Rubini, Sergio</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=9733'>Reiner, Carl</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=9560'>Rödl, Josef</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=20689'>Rudavsky, Oren</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=9736'>Reiner, Rob</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=9953'>Rodnjanskij, Aleksandr</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=10127'>Rudolph, Alan</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=16328'>Reinhardt, Gottfried</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=9956'>Rodríguez, Ismael</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=10130'>Ruggles, Wesley</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=16426'>Reiniger, Lotte</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=9965'>Rodriguez, Robert</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=10133'>Ruiz, Raoul</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=9744'>Reis, António</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=24706'>Rodriguez, Rosemary</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=10136'>Rund, Emanuel</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=15544'>Reis, Irving</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=9966'>Röed, Jan</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=10140'>Rupe, Katja</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=9745'>Reisch, Günter</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=383'>Roeg, Nicolas</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=16137'>Rupp, Walter</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=22419'>Reisch, Walter</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=30124'>Roehler, Oskar</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=10142'>Rush, Richard</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=9746'>Reisner, Charles F.</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=9967'>Roemer, Michael</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=384'>Russell, Ken</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=9747'>Reisz, Karel</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=9970'>Rogell, Albert S.</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=24297'>Russell, William D.</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=9749'>Reitherman, Wolfgang</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=9971'>Roger, Jean-Henri</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=23967'>Ruzowitzky, Stefan</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=472'>Reitman, Ivan</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=25241'>Rogers, James B.</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=23892'>Ryan, Frank</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=9750'>Reitz, Edgar</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=9973'>Rogers, John</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=26172'>Ryazanov, Eldar</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=27408'>Rekhviashvili, Aleqsandre</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=9979'>Rohmer, Éric</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=10169'>Rydell, Mark</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=9752'>René, Norman</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=24447'>Roland, Dany</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=33911'>Ryden, Hope</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=9759'>Renoir, Jean</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=19534'>Roland, Jürgen</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=16631'>Rymer, Michael</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=94'>Resnais, Alain</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=14352'>Romero, Eddie</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=30027'>Ryoo, Seung-wan</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=9771'>Reusser, Francis</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=9996'>Romm, Mikhail Il'ich</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=24419'>Rytsarev, Boris</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=9551'>Révész, György</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=22711'>Rondon, Mariana</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=10177'>Rzeszewski, Janusz</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=9779'>Reyes, Jorge</a></td>
+        <td></td>
+        <td></td>
+      </tr>
+    </table>
+  </div>
+

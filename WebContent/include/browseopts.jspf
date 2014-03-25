@@ -1,0 +1,22 @@
+      <div id='browseopts' name='browseopts'>
+        <h2>Browse Options</h2>
+        <br />
+        <a href="/cinefiles/BrowseDirs.jsp">
+          All Directors
+        </a><br />
+        <a href="/cinefiles/Directors.jsp">
+          Directors with complete filmography indexed
+        </a><br />
+        <a href="/cinefiles/BrowseGenres.jsp">
+          Genre Terms
+        </a><br />
+        <a href="/cinefiles/BrowseFilmTitles.jsp">
+          Film Titles
+        </a><br />
+        <a href="/cinefiles/BrowseSubjects.jsp">
+          Subjects
+        </a><br />
+        <a href="/cinefiles/BrowseFeatured.jsp">
+          Featured Documents
+        </a><br />
+      </div>

@@ -1,0 +1,63 @@
+/* 
+ * The style-sheet included with the browse-list JSP pages.
+ */
+ 
+div#browseopts
+{
+  top: 200px;
+  left: 5px;
+  position: absolute;
+}
+	
+div#browselist
+{
+  width: 575px;
+  height: 500px;
+  overflow: auto;
+  margin-top: 10px;
+  position: relative;
+}
+	
+#browseTable
+{
+  margin-top: 20px;
+  font-size: medium; 
+}
+
+#browseTable a:link
+{
+  text-decoration: none;
+  color: black;
+}
+
+#browseTable a:visited
+{
+  text-decoration: none;
+  color: #446;
+}
+
+#browseTable td
+{
+  width: 25em;
+}
+
+#navAlist
+{
+  font-family: Arial Black, Helvetica, Arial, sans-serif;
+  color: #00688B;
+  top: 10px;
+  position: relative;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+#navAlist li
+{
+  display: inline;
+  padding: 2px;
+}
+
+div#footer
+{
+  top: 60px;
+}

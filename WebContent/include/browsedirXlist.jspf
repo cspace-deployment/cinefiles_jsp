@@ -1,0 +1,17 @@
+  <!-- Directors browse list, X section, included with BrowseDirs.jsp -->
+
+  <div id='browselist' name='browselist'>
+    <table id='browseTable' name='browseTable'>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=12591'>Xanthopoulos, Lefteris</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=3964'>Xie Fei</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=5902'>Xie Jin</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=14161'>Xia Gong</a></td>
+        <td></td>
+        <td></td>
+      </tr>
+    </table>
+  </div>
+

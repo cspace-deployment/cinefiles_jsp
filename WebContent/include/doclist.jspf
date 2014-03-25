@@ -1,0 +1,69 @@
+<%--
+  This fragment contains the list of document references returned by both the
+  DocSearch and FilmDetail servlets. These servlets return an ArrayList named
+  "docreflist" with a doc_id - which can be passed to the DocDetail servlet,
+  a title and a short string of related information about the document.
+--%>
+<%@ taglib prefix="fn" uri="http://java.sun.com/jsp/jstl/functions" %>
+
+        <c:set var="listlen" value="${fn:length(docreflist)}"/>
+        
+        <c:if test='${not (listlen > 0)}'>
+          <p>No related documents available.</p>
+        </c:if>
+        
+        <c:if test='${listlen == 1}'>
+          <p>One related document.
+          Click on the title for a detailed citation and document access.
+          <br />
+        </c:if>
+
+        <c:if test='${listlen > 1}'>
+          <p>${listlen} related documents.
+          Click on a title for a detailed  citation and document access.
+          <br />
+
+          Sort results by
+          <select id="sorttype" name="sorttype" size="1"                  
+                  onchange="sortDocList(this, 'docol');">
+            <option value="title">Document Title</option>
+            <option value="type">Document Type</option>
+            <option value="date" selected="selected">Publication Date</option>
+          </select></p>
+        </c:if>
+
+        <div id='results' name='results'>
+          <ol id='docol' name='docol'>
+            <c:forEach var="listitem" items="${docreflist}">
+ 
+              <li>
+                <c:choose>
+                  <c:when test='${listitem[5] >= useraccess}'>
+                  <a href="/cinefiles/DocDetail?docId=${listitem[0]}">
+                   ${listitem[1]}
+                  </a>
+                  </c:when>
+                  
+                  <c:otherwise>
+                    ${listitem[1]}
+                  </c:otherwise>
+                </c:choose>
+                 
+                ${listitem[2]}
+
+                <c:if test='${listitem[5] < useraccess}'>
+                  -- Restricted. Please click
+                  <a href="/cinefiles/DocDetail?docrId=${listitem[0]}">
+                     here for detailed citation and access information
+                  </a>
+                </c:if>
+
+                <c:if test='${fn:startsWith( listitem[6], "http://" )}'>
+                  -- View <a href="${listitem[6]}">document</a>
+                  on publisher's website.
+                </c:if>
+              </li>
+            </c:forEach>
+          </ol>
+        </div>
+

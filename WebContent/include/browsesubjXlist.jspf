@@ -1,0 +1,24 @@
+      <div id='browselist' name='browselist'>
+        <table id='browseTable' name='browseTable'>
+          <tr><td>
+          <a href="/cinefiles/DocSearch?querytype=4&docsubj=Xanthopoulos,_Lefteris">
+          Xanthopoulos, Lefteris
+          </a></td></tr>
+          <tr><td>
+          <a href="/cinefiles/DocSearch?querytype=4&docsubj=Xavier,_Nelson">
+          Xavier, Nelson
+          </a></td></tr>
+          <tr><td>
+          <a href="/cinefiles/DocSearch?querytype=4&docsubj=Xavier,_Waldir">
+          Xavier, Waldir
+          </a></td></tr>
+          <tr><td>
+          <a href="/cinefiles/DocSearch?querytype=4&docsubj=Xie_Jin">
+          Xie Jin
+          </a></td></tr>
+          <tr><td>
+          <a href="/cinefiles/DocSearch?querytype=4&docsubj=Xin_Shufen">
+          Xin Shufen
+          </a></td></tr>
+        </table>
+      </div>

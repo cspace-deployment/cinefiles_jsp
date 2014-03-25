@@ -1,0 +1,54 @@
+/* 
+ * The style-sheet included with ThemesTopics.jsp
+ *
+ * Creates styles specific to the JSP, and provides a place where
+ * more generic settings can be overridden.
+ */
+ 
+.lirblue
+{
+  background: #DDEEFF;
+}
+
+.lired
+{
+}
+
+div#footer
+{
+  top: 50px;
+}
+
+.litop
+{
+  margin-top: 15px;
+  font-family: Helvetica, sans-serif;
+  font-size: 13px;
+  color: black;
+}
+
+.lisub
+{
+  margin-top: 10px;
+  color: #202020;
+}
+
+div#browselist
+{
+  width: 575px;
+  height: 500px;
+  overflow: auto;
+  margin-top: 10px;
+  position: relative;
+}
+
+div#maintopics
+{
+  position: relative;
+  color: black;
+  width: 235px;
+  height: 325px;
+  margin-bottom: 25px;
+  overflow: auto
+}
+

@@ -1,0 +1,13 @@
+    <!-- CineFiles page header with banner image -->
+    <div id="header" name="header">
+      <map name="pgheadermap">
+        <area shape="rect" coords="2, 10, 250, 48"
+              href="/cinefiles/Welcome.jsp" />
+        <area shape="rect" coords="285, 30, 885, 47"
+              href="http://bampfa.berkeley.edu" />
+      </map>
+
+      <img src="/cinefiles/cine_img/icons/cinefiles_p.png"
+           usemap="#pgheadermap" border="0" />
+    </div>
+

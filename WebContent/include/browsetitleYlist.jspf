@@ -1,0 +1,613 @@
+      <div id='browselist' name='browselist'>
+        <table id='browseTable' name='browseTable'>
+          <tr>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=28719'>
+                 Y tu mamá también
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=23623'>
+                 Yojimbo
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=23687'>
+                 Yuki fujin ezu
+              </a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=10640'>
+                 Y.V. Andropov - stranitzi zhizni
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=29588'>
+                 Yôkihi
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=29563'>
+                 Yukiguni
+              </a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=29987'>
+                 Ya kupil papu
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=25203'>
+                 Yolanda and the thief
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=4'>
+                 Yukinojo henge
+              </a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=29195'>
+                 Yabure-daiko
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=29183'>
+                 Yorokobi mo kanashimi mo ikutsohitsuki
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=10'>
+                 Yukinojo henge
+              </a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=76'>
+                 Yahidha kokhannya
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=29647'>
+                 Yoru
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=29146'>
+                 Yukshik dongmul
+              </a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=26696'>
+                 Yaju no seishun
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=23628'>
+                 Yoru ga mata kuru
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=26844'>
+                 Yum, yum, yum! A taste of cajun & creole cooking
+              </a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=23548'>
+                 Yama no oto
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=23629'>
+                 Yoru no onnatachi
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=6035'>
+                 Yume
+              </a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=28533'>
+                 Yan ku shen tan
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=31039'>
+                 Yosemite: the fate of Heaven
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=23691'>
+                 Yume miruyôni nemuritai
+              </a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=29149'>
+                 Yangsan do
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=23631'>
+                 Yoshiwara
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=23694'>
+                 Yumeji
+              </a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=29149'>
+                 Yangsan Island
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=29172'>
+                 Yotsuya kaidan
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=29476'>
+                 Yunbogi no nikki
+              </a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=23556'>
+                 Yao a yao yao dao waipo qiao
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=29572'>
+                 Yotsuya kaidan
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=29476'>
+                 Yunbogi's diary
+              </a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=29603'>
+                 Yapian zhanzheng
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=21855'>
+                 You and I
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=27197'>
+                 Yunost Maksima
+              </a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=23558'>
+                 Yari no gonza
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=23632'>
+                 You and me
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=29567'>
+                 Yushu heiya
+              </a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=27892'>
+                 Yashagaike
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=23636'>
+                 You can't take it with you
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=29180'>
+                 Yuyake-gumo
+              </a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=27104'>
+                 Yawmun akher
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=30350'>
+                 You hua hao hao shuo
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=28399'>
+                 A Yank in Viet-Nam
+              </a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=23565'>
+                 Ye shan
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=23640'>
+                 You only live once
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=31035'>
+                 A Yank on the Burma Road
+              </a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=23573'>
+                 Year of the gun
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=21753'>
+                 You saved my life
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=29492'>
+                 The yakuza
+              </a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=1290'>
+                 Year of the jellyfish
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=26211'>
+                 You'll also love me once
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=25988'>
+                 The year 01
+              </a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=29359'>
+                 Yearning
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=23648'>
+                 You're a big boy now
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=18035'>
+                 The year of the quiet sun
+              </a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=27642'>
+                 Yellow lily
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=26470'>
+                 Young cassidy
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=30423'>
+                 The yearling
+              </a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=27501'>
+                 Yemen
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=27198'>
+                 Young Fritz
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=24856'>
+                 The yearning laurel
+              </a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=29441'>
+                 Yes or no, Jean-Guy Moreau
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=28398'>
+                 Young love
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=4695'>
+                 The yellow cruise
+              </a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=26074'>
+                 Yes, my darling daughter
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=29467'>
+                 Young man at college
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=29172'>
+                 The Yotsuya ghost story
+              </a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=26730'>
+                 Yesterday girl
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=23665'>
+                 Young Mr. Lincoln
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=15280'>
+                 The young and the damned
+              </a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=24622'>
+                 Yfir kjöl
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=29557'>
+                 Young people
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=22646'>
+                 The young and the passionate
+              </a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=27113'>
+                 Yggdrasill whose roots are stars in the human mind
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=30514'>
+                 Young wolves
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=30041'>
+                 The young Caruso
+              </a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=30353'>
+                 Yi ge dou bu neg shao
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=30999'>
+                 Youngblood Hawke
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=5348'>
+                 The young girls of Rochefort
+              </a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=23596'>
+                 Yi jiang chun shui xiang dong liu
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=23674'>
+                 Younger and Younger
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=64'>
+                 The young lady and the hooligan
+              </a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=29753'>
+                 Yi Yi
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=86'>
+                 Your acquaintance
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=30456'>
+                 The young one
+              </a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=31085'>
+                 Yin shi nan nu
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=29538'>
+                 Your son and brother
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=29844'>
+                 The young racers
+              </a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=31086'>
+                 Yin shi nan nu
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=26862'>
+                 Yours
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=24864'>
+                 The young rebel
+              </a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=23604'>
+                 Ying chun ge zhi fengbo
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=29625'>
+                 Youth
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=30597'>
+                 The young savages
+              </a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=30348'>
+                 Ying xiong
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=28296'>
+                 Youth aflame
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=30596'>
+                 The young stranger
+              </a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=29132'>
+                 Yoake no uta
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=29503'>
+                 Youth in the ice
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=30498'>
+                 The younger generation
+              </a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=29351'>
+                 Yogoto no yume
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=31137'>
+                 Youth without youth
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=27197'>
+                 The youth of Maxim
+              </a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=23620'>
+                 Yoidore tenshi
+              </a>
+            </td>
+            <td>
+              <a href='/cinefiles/FilmDetail?filmId=29147'>
+                 Yukcheui yaksok
+              </a>
+            </td>
+            <td></td>
+          </tr>
+        </table>
+      </div>
+

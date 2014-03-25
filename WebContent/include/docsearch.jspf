@@ -1,0 +1,54 @@
+        <%--
+           Seach form for the detailed document search page. The style
+           sheet for this form is in "/cinefiles/css/docsearch.css"
+        --%>
+
+        <form id="docForm" name="docForm"
+               method="post" action="/cinefiles/DocSearch">
+          <input class="fbutton" value="Search" type="submit"/>
+          <input class="fbutton" value="Clear"  type="reset"/><br /><br />
+
+          <label>Film Title</label>
+          <input type="text" name="filmtitle" /><br />
+
+          <label>Subject of Document</label>
+          <input type="text" name="docsubj" /><br />
+
+          <label>Document Title</label>
+          <input type="text" name="doctitle" /><br />
+
+          <label>Document Author</label>
+          <input type="text" name="docauthor" /><br />
+
+          <label>Document Source</label>
+          <input type="text" name="docsource" /><br />
+
+          <label>Publication Date</label>
+          <input type="text" name="pubdate" /><br />
+
+ 
+
+          <label>Language</label>
+          <select class="fselect" id="doclang" name="doclang" size="1">
+            <jsp:include page="/include/doclangs.jspf" />
+          </select><br />
+           
+          <label>Document Type</label>
+          <select class="fselect" id="doctype" name="doctype" size="1">           
+            <jsp:include page="/include/doctypes.jspf" />
+          </select><br />
+
+         <label>Limit search by</label>
+          <select class="fselect" id="querytype" name="querytype" size="1">
+            <option value="1">Begins with</option>
+            <option value="2" selected="selected">Contains</option>
+            <option value="3">Ends with</option>
+            <option value="4">Exact</option>
+          </select><br /><br />     
+
+          Limit search to documents including:
+          <%@ include file="/include/docincludes.jspf" %><br />
+
+          <input class="fbutton" value="Search" type="submit"/>
+          <input class="fbutton" value="Clear"  type="reset"/>         
+        </form>

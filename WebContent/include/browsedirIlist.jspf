@@ -1,0 +1,72 @@
+  <!-- Directors browse list, I section, included with BrowseDirs.jsp -->
+
+  <div id='browselist' name='browselist'>
+    <table id='browseTable' name='browseTable'>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=29509'>Ichac, Marcel</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=5699'>Indovina, Franco</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=24579'>Ishmukhamedov, Elyer</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=5663'>Ichaso, Leon</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=5706'>Inoue, Kazuo</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=33360'>Isles, Alexandra</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=12'>Ichikawa, Kon</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=23782'>Inudou, Isshin</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=5736'>Ismail, Usmar</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=5668'>Idrizovic, Mirza</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=5708'>Ioannou, Yannis</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=29563'>Isou, Isidore</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=17908'>Iger, Arnold</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=5709'>Ioseliani, Otar</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=5739'>Israel, Neal</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=27225'>Igliori, Paola</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=25766'>Ipsen, Bodil</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=5742'>Itami, Juzo</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=26255'>Ikehata, Shunsaku</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=28666'>Irani, Honey</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=14520'>Itami, Mansaku</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=25915'>Ilyenko, Yuri</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=5714'>Irmas, Matthew</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=63'>Ivens, Joris</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=6751'>Im Kwon-T'Aek</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=5717'>Irvin, Sam</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=24761'>Ives, Stephen</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=5687'>Imai, Tadashi</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=25652'>Irving, Xackery</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=5760'>Ivory, James</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=5689'>Imamura, Shohei</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=27855'>Ishihara, Shintarô</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=22053'>Iwai, Shunji</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=5697'>Inagaki, Hiroshi</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=5727'>Ishii, Sogo</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=5763'>Iyer, G. V.</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=23934'>Iñárritu, Alejandro Gonzáles</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=5728'>Ishii, Takashi</a></td>
+        <td></td>
+      </tr>
+    </table>
+  </div>
+

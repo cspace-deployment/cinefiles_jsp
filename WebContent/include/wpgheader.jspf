@@ -1,0 +1,12 @@
+    <!--  CineFiles Welcome page header banner image -->
+    <div id="header" name="header">
+      <map name="wheadermap">
+        <area shape="rect" coords="5, 10, 345, 55" />
+        <area shape="rect" coords="375, 20, 805, 55"
+              href="http://bampfa.berkeley.edu" />
+      </map>
+
+      <img src="/cinefiles/cine_img/icons/cinefiles_w.png"
+           usemap="#wheadermap" border="0" />
+    </div>
+

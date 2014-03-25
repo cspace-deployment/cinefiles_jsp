@@ -1,0 +1,50 @@
+<%--
+  This fragment contains the list of film references returned by the
+  FilmSearch servlet. This servlet return a FilmList named "filmlist"
+  with an attribute of an ArrayList with a list of film references.
+  Each film reference contains a film_id - which can be passed on to
+  the FilmDetail servlet, a title, and a short string of additional
+  related information.
+--%>
+<%@ taglib prefix="fn" uri="http://java.sun.com/jsp/jstl/functions" %>
+
+ 		<c:set var="reclist" value="${filmlist.filmRecs}"/>
+        <c:set var="listlen" value="${fn:length(reclist)}"/>
+        
+       <c:if test='${not (listlen > 0)}'>
+          <p>No related film titles.</p>
+        </c:if>
+        
+        <c:if test='${listlen == 1}'>
+          <p>One related film title.
+          Click on the title for a detailed filmographic information.
+          <br />
+        </c:if>
+
+        <c:if test='${listlen > 1}'>
+          <p>${listlen} related titles
+          Click on a title for detailed filmographic information
+          and a list of related documents.<br />
+ 
+          Sort results by
+          <select id="sorttype" name="sorttype" size="1"
+                  onchange="sortFilmList(this, 'filmol');">
+            <option value="title" selected="selected">Film Title</option>
+            <option value="date">Film Date</option>
+            <option value="director">Director</option>
+          </select></p>
+        </c:if>
+
+        <div id="results" name="results">
+          <ol id="filmol" name="filmol">
+            <c:forEach var="listitem" items="${reclist}">
+              <li>
+                <a href="/cinefiles/FilmDetail?filmId=${listitem[0]}">
+                   ${listitem[2]}
+                </a>
+                ${listitem[3]}
+              </li>
+            </c:forEach>
+          </ol>
+        </div>
+           

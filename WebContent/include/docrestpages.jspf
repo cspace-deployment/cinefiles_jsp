@@ -1,0 +1,34 @@
+    <%--
+         This fragment contains the contents of the Document Pages block
+         in DocRestDetail.jsp. It is a list of page image thumbnails that
+         are returned by the DocDetailServlet in A DocImages object.
+     --%>
+
+    <c:set var="imgdir" value="${docimages.imageDir}" />
+
+    <h2>Document Pages</h2>
+
+    <div id='pages' name='pages'>
+      <table id='tnails' name='tnails'>
+        <c:forEach var="img" varStatus="status" items="${docimages.imageList}">
+
+          <c:if test='${(status.count%4) == 1}'>
+            <tr>
+          </c:if>
+
+          <td>
+            <img class="tdunsel" src="${imgdir}/t/${img}" />
+          </td>
+
+          <c:choose>
+            <c:when test='${(status.count%4) == 0}'>
+              </tr>
+            </c:when>
+
+            <c:when test='${status.last}'>
+              </tr>
+            </c:when>
+          </c:choose>
+        </c:forEach>
+      </table>
+    </div>

@@ -1,0 +1,18 @@
+/*
+ * The style-sheet included with DocSearch.jsp.
+ *
+ * Creates styles specific to the JSP, and provides a place where
+ * more generic settings can be overridden.
+ */
+  
+form#docForm
+{
+  margin-top: 30px;
+  margin-left: 30px;
+  line-height: 1em;
+}
+
+div#footer
+{
+  top: 80px;
+}

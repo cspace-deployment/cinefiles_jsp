@@ -1,0 +1,76 @@
+/* 
+ * The style-sheet included with Directors.jsp
+ *
+ * Creates styles specific to the JSP, and provides a place where
+ * more generic settings can be overridden.
+ */
+ 
+div#dirlist
+{
+  width: 575px;
+  height: 500px;
+  overflow: auto;
+  margin-top: 10px;
+  position: relative;
+}
+	
+#dirTable
+{
+  margin-top: 20px;
+  font-size: medium; 
+}
+
+#dirTable a:link
+{
+  text-decoration: none;
+  color: black;
+}
+
+#dirTable a:visited
+{
+  text-decoration: none;
+  color: #446;
+}
+
+#dirTable td
+{
+  width: 25em;
+}
+
+div#navlist
+{
+  font-family: Helvetica, sans-serif;
+  color: #66AECD;
+  font-size: 15px;
+  font-weight: 900;
+  letter-spacing: 0.9em;
+  margin-top: 25px;
+  margin-bottom: 15px;
+}
+
+div#navllist
+{
+  font-family: Courier New;
+  color: #66AECD;
+  font-size: 16px;
+  font-weight: 900;
+  letter-spacing: 0.75em;
+  margin-top: 15px;
+  margin-bottom: 15px;	
+}
+
+div#navgrps
+{
+  margin-top: 15px;
+  margin-left: 0px;
+}
+
+navitem
+{
+  font-family: Helvetica, sans-serif;
+  color: #66AECD;
+  font-size: 16px;
+  font-weight: 900;
+  padding-right: 20px;
+  margin:0px;
+}

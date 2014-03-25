@@ -1,0 +1,12 @@
+/* 
+ * The style-sheet included with SiteMap.jsp
+ *
+ * Pages may have different requirements for where the "footer" div should
+ * be located, so there may be a separate, small, page specific style-sheet
+ * where more generic settings can be overridden.
+ */
+ 
+div#footer
+{
+  top: 75px;
+}

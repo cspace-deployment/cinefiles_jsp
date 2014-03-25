@@ -1,0 +1,94 @@
+      <%--
+           This fragment contains the contents of the Document Citation
+           block in DocDetails.jsp. The contents are returned by the
+           DocDetailServlet in a DocDetail object.
+      --%>
+
+      <div id='citation' name='citation'>
+         <citation>TITLE</citation><br />
+         <b>${filmdetail.title}</b><br /><br />
+
+         <c:if test='${filmdetail.directorCount > 1}'>
+            <citation>DIRECTORS</citation><br />
+         </c:if>
+
+         <c:if test='${not (filmdetail.directorCount > 1)}'>
+            <citation>DIRECTOR</citation><br />
+         </c:if>
+
+         <c:forEach var="item" items="${filmdetail.directors}">
+            ${item[1]}<br />
+         </c:forEach><br />
+
+         <c:if test='${filmdetail.countryCount > 1}'>
+            <citation>COUNTRIES of PROD.</citation><br />
+         </c:if>
+
+         <c:if test='${not (filmdetail.countryCount > 1)}'>
+            <citation>COUNTRY OF PROD.</citation><br />
+         </c:if>
+
+         <c:forEach var="item" items="${filmdetail.countries}">
+            ${item}<br />
+         </c:forEach><br />
+
+         <c:if test='${filmdetail.yearCount > 1}'>
+            <citation>YEARS</citation><br />
+         </c:if>
+
+         <c:if test='${not (filmdetail.yearCount > 1)}'>
+            <citation>YEAR</citation><br />
+         </c:if>
+
+         <c:forEach var="item" items="${filmdetail.years}">
+            ${item}<br />
+         </c:forEach><br />
+
+         <c:if test='${filmdetail.languageCount > 1}'>
+            <citation>LANGUAGES</citation><br />
+         </c:if>
+
+         <c:if test='${not (filmdetail.languageCount > 1)}'>
+            <citation>LANGUAGE</citation><br />
+         </c:if>
+
+         <c:forEach var="item" items="${filmdetail.languages}">
+           ${item}<br />
+         </c:forEach><br />
+
+         <c:if test='${filmdetail.prodCoCount > 1}'>
+            <citation>PRODUCTION CO.'s</citation><br />
+         </c:if>
+
+         <c:if test='${not (filmdetail.prodCoCount > 1)}'>
+            <citation>PRODUCTION CO.</citation><br />
+         </c:if>
+
+         <c:forEach var="item" items="${filmdetail.prodCos}">
+           ${item[1]}<br />
+         </c:forEach><br />
+
+         <c:if test='${filmdetail.genreCount > 1}'>
+            <citation>GENRES</citation><br />
+         </c:if>
+
+         <c:if test='${not (filmdetail.genreCount > 1)}'>
+            <citation>GENRE</citation><br />
+         </c:if>
+
+         <c:forEach var="item" items="${filmdetail.genres}">
+            ${item}<br />
+         </c:forEach><br />
+
+         <c:if test='${filmdetail.subjectCount > 1}'>
+             <citation>SUBJECTS</citation><br />
+         </c:if>
+
+         <c:if test='${not (filmdetail.subjectCount > 1)}'>
+            <citation>SUBJECT</citation><br />
+         </c:if>
+
+         <c:forEach var="item" items="${filmdetail.subjects}">
+            ${item[1]}<br />
+         </c:forEach>
+      </div>

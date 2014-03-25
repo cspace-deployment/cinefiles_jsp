@@ -1,0 +1,12 @@
+/*
+ * The style-sheet included with Donors.jsp.
+ *
+ * Creates styles specific to the JSP, and provides a place where
+ * more generic settings can be overridden.
+ */
+ 
+div#donation
+{
+  top: 250px;
+  position: absolute;
+}

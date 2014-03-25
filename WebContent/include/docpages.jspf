@@ -1,0 +1,52 @@
+    <%--
+         This fragment contains the contents of the Document Pages block
+         in DocDetail.jsp. It is a list of page image thumbnails that
+         are returned by the DocDetailServlet in a DocImages object.
+     --%>
+
+    <c:set var="imgdir" value="${docimages.imageDir}" />
+
+    <h2>Document Pages
+    <input id="prevlnk" name="prevlnk" type="image"
+           src="/cine_img/icons/larrow.png"
+           onfocus="this.blur();" onclick="prevTn();" />
+
+    <input id="nextlnk" name="nextlnk" type="image"
+           src="/cine_img/icons/rarrow.png"
+           onfocus="this.blur();" onclick="nextTn();" />
+    </h2>
+    <div id='pages' name='pages'>
+      <table id='tnails'= name='tnails'>
+        <c:forEach var="img" varStatus="status" items="${docimages.imageList}">
+
+          <c:if test='${(status.count%4) == 1}'>
+            <tr>
+          </c:if>
+
+          <td>
+          <c:choose>
+            <c:when test='${status.first}'>
+              <input id='firstTn' name='firstTn' type='image' class='tdsel'
+                     src="${imgdir}/t/${img}"
+                     onclick="setImgPane( this, '${imgdir}/${img}' )" />
+            </c:when>
+            <c:otherwise>
+              <input type="image" class="tdunsel"
+                     src="${imgdir}/t/${img}"
+                     onclick="setImgPane( this, '${imgdir}/${img}' )" />
+            </c:otherwise>
+          </c:choose>
+          </td>
+
+          <c:choose>
+            <c:when test='${(status.count%4) == 0}'>
+              </tr>
+            </c:when>
+
+            <c:when test='${status.last}'>
+              </tr>
+            </c:when>
+          </c:choose>
+        </c:forEach>
+      </table>
+    </div>

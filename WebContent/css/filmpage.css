@@ -1,0 +1,46 @@
+/*
+ * The style-sheet included with FilmDetail.jsp.
+ *
+ * Creates styles specific to the JSP, and provides a place where
+ * more generic settings can be overridden.
+ */
+ 
+citation
+{
+  color: black;
+  font-weight: 450;
+  font-size: 10px;
+  font-family: Arial Black, Helvetica, Arial, sans-serif;
+}
+
+div#citation
+{
+  position: relative;
+  color: black;
+  line-height: 1em;
+  font-weight: normal;
+  font-size: 14px;
+  width: 225px;
+  height: 335px;
+  margin-bottom: 25px;
+  overflow: auto
+}
+    
+div#text
+{
+  top: 75px;
+  left: 62.5px;
+  width: 475px;
+  margin: 0px;
+  position: relative;
+}
+
+indent
+{
+  margin-left: 10px;
+}
+
+UL.plain
+{
+  list-style: none;
+}

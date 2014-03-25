@@ -1,0 +1,372 @@
+  <!-- Directors browse list, G section, included with BrowseDirs.jsp -->
+
+  <div id='browselist' name='browselist'>
+    <div id='browseTable' name='browseTable'>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=4355'>Gabai, Richard</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=24157'>Giovanni</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=25554'>Gras, Marcel</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=16447'>Gabel, Shainee</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=13150'>Girdler, William</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4816'>Graser, Jörg</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=4329'>Gábor, Pál</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4619'>Girod, Francis</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4822'>Grau, Jorge</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=4367'>Gad, Urban</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4621'>Gissberg, Jan</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=26566'>Graves, Nancy</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=27691'>Gaghan, Stephen</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=16248'>Gist, Robert</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=14171'>Gray, Donna</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=27405'>Gagné, Jeannine</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4622'>Gitai, Amos</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4830'>Gray, Mike</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=24939'>Gainville, Rene</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4632'>Glaser, Paul Michael</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4838'>Green, Alfred E.</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=29335'>Gaisseau, Pierre-Dominique</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=21115'>Glawogger, Michael</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=28453'>Green, David Gordon</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=4388'>Galeen, Henrik</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4638'>Glen, John</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4840'>Green, Eitan</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=21454'>Gallaher, Frances</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4647'>Glinski, Robert</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=19627'>Green, Guy</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=4400'>Gallone, Carmine</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4650'>Gloor, Kurt</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=29974'>Green, Laurence</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=4401'>Gallotta, Jean-Claude</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=29317'>Glori, Vittorio Musy</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=25887'>Green, Walon</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=4408'>Gance, Abel</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=20444'>Gnatovich, Gavrilo</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4843'>Greenaway, Peter</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=22389'>Gang, Pierre</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=26166'>Göbl, Pavel</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=26463'>Greene, Kelly</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=4413'>Gans, Christophe</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4659'>Godard, Jean Luc</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4849'>Greene, Sergio Olhovich</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=4425'>Garci, José Luís</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=23904'>Godfrey, Peter</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4850'>Greene, Sparky</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=3839'>García Espinosa, Julio</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4664'>Godmilow, Jill</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=28604'>Greenebaum, Elliot</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=316'>Gardin, Vladimir Rostislavovich</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=20996'>Goël, Véronique</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4851'>Greenfield, Amy</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=4432'>Gardner, Robert</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4672'>Golan, Menahem</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=24847'>Greenfield, Luke</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=25243'>Gárdos, Éva</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4674'>Gold, Jack</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=33303'>Greenfield-Sanders, Timothy</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=4437'>Garnett, Tay</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=27091'>Gold, Tami</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=25757'>Grefe, William</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=4439'>Garnier, Katja von</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=21928'>Goldberg, Howard</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4863'>Gregoretti, Ugo</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=4442'>Garrel, Philippe</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=24370'>Goldblatt, Moisei</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4784'>Grémillon, Jean</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=23383'>Garrett, Otis</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4685'>Goldfine, Dayna</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4866'>Gremm, Wolf</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=16021'>Gartner, James</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=14597'>Goldin, Laurence A.</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4785'>Gréville, Edmond T.</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=21500'>Gasnier, Louis J.</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4688'>Goldman, Gary</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4879'>Griffi, Giuseppe Patroni</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=29046'>Gaspard-Huit, Pierre</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=26215'>Goldman, Paul</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4882'>Griffin, George</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=14180'>Gavaldón, Roberto</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=16913'>Goldman, Peter</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=58'>Griffith, D. W.</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=19224'>Gaviola, Tatiana</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4692'>Goldman, Stuart A.</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=19820'>Griffith, Edward H.</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=4469'>Gaviria, Victor</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=17904'>Goldsmith, Rick</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4885'>Griffiths, Keith</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=4473'>Gavronn, Laurence</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4701'>Goldstein, Scott D.</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4886'>Griffiths, Mark</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=15867'>Gayer, Richard</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=26159'>Golenbock, Susan A.</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=22300'>Grigor, Barbara</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=4475'>Gayton, Tony</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=30323'>Golubovic, Srdan</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4888'>Grigor, Murray</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=4479'>Gazdag, Gyula</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4344'>Gómez, Sara</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4898'>Grillo, Gary</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=22819'>Gazecki, William</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=25252'>Gomis, Alain</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4902'>Grimaldi, Aurelio</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=32736'>Gazidis, Dorothea</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4721'>Gonthier, Anne</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4903'>Grimault, Paul</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=4483'>Gebhardt, Stephen</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=19864'>Gonzaless, Shaky</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4906'>Grimond, Philippe</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=20431'>Gelev, Sotir</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=29367'>González, Servando</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=18646'>Grisel, José</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=4494'>Geller, Daniel</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=15889'>Goodell, John D.</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=23429'>Grissell, Wallace</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=4500'>Gengnagel, Klaus</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=15211'>Goodhew, Philip</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=23854'>Gronenborn, Esther</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=15805'>Gentilomo, Giacomo</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=29935'>Goodman, Sarah</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4786'>Gröning, Philip</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=28578'>George, George W.</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=24993'>Goossens, Ray</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4787'>Grönros, Anders</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=25764'>Georgiadis, Vassilis</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4730'>Gopalakrishnan, Adoor</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=23649'>Grosjean, Raymond</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=4516'>Gerasimov, Sergei</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=24457'>Gordon, Robert</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4929'>Group, Dziga Vertov</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=4519'>Gerede, Canan</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4734'>Gordon, Bert I.</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=16634'>Gruener, Daniel</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=4520'>Gerima, Haile</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4735'>Gordon, Bette</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=13162'>Grune, Karl</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=4521'>Gering, Marion</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4739'>Gordon, Michael</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=13784'>Grunebaum, Marc</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=14794'>Germi, Pietro</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4740'>Gordon, Richard</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=13477'>Grunwald, Willy</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=4525'>Geronimi, Clyde</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4742'>Gordon, Steve</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=20463'>Guard, Candy</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=20156'>Gerrard, Alice</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4346'>Gören, Serif</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=22476'>Guareschi, Giovanni</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=24912'>Gertler, Viktor</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4746'>Goretta, Claude</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=23257'>Guarini, Alfredo</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=4530'>Gervitz, Roberto</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4748'>Gorin, Jean-Pierre</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4943'>Guay, Philippe Le</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=4532'>Gessner, Nicolas</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=26429'>Gorrini, Gaia</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4944'>Guazzoni, Enrico</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=30250'>Gessner, Peter</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4756'>Gorris, Marleen</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4950'>Guédiguian, Robert</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=4537'>Ghatak, Ritwik</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4758'>Gosha, Hideo</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4952'>Guerín, José Luis</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=4540'>Ghose, Goutam</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=17637'>Gosho, Heinosuke</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=14080'>Guerrasio, Giudo</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=22110'>Ghosh, Rituparno</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=15895'>Gosling, Maureen</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4957'>Guerraz, Sergio</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=30218'>Ghosh, Shashanka</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4761'>Gothár, Péter</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=19218'>Guerrero, Ed</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=24156'>Giacomo</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4764'>Gottlieb, Carl</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4961'>Guest, Christopher</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=26235'>Giannetti, Alfredo</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4766'>Gottlieb, Lisa</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4970'>Guillen, Laurice</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=13713'>Gianvito, John</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=13752'>Gould, Arthur</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4971'>Guillermin, John</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=34112'>Gibney, Alex</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=22191'>Gould, John</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=23843'>Guiol, Fred</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=4565'>Gieling, Ramón</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4771'>Goulding, Edmund</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4978'>Guitry, Sacha</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=30459'>Gilbert, Josh</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4775'>Goupil, Romain</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4350'>Güney, Yilmaz</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=4579'>Gilbert, Lewis</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=16446'>Goursaud, Anne</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=30127'>Gunnarsdóttir, Hrafnhildur</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=4585'>Gill, David</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=13840'>Gout, Alberto</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4988'>Gunnarsson, Sturla</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=4587'>Gilles, Guy</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4778'>Govenar, Alan</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4947'>Guodmundsson, Ágúst</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=4589'>Gilliam, Terry</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=26433'>Graham, Allison</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4996'>Guridi, Luis</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=4590'>Gilliat, Sidney</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=29894'>Grangier, Gilles</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4998'>Gurrola, Alfredo</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=24516'>Gilling, John</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4808'>Granier-Deferre, Pierre</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=3644'>Gurudatta,</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=4602'>Giono, Jean</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=19054'>Grant, James Edward</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=5002'>Gustavson, Erik</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=4603'>Giordana, Marco Tullio</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=4812'>Grant, Lee</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=5011'>Gutman, Amos</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=4606'>Giovanni, José</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=29762'>Gras, Enrico</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=5016'>Guzmán, Patricio</a></td>
+      </tr>
+    </table>
+  </div>
+

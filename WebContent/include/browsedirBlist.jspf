@@ -1,0 +1,607 @@
+  <!-- Directors browse list, B section, included with BrowseDirs.jsp -->
+
+  <div id='browselist' name='browselist'>
+    <table id='browseTable' name='browseTable'>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=31013'>B., Beth</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=26635'>Berger, William</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1913'>Borman, Arthur</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1185'>B., Scott</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1577'>Bergholm, Eija-Elina</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1918'>Borowczyk, Walerian</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1191'>Babenco, Hector</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1582'>Bergman, Ingmar</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1919'>Borris, Clay</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=26856'>Babeth</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1593'>Berkeley, Busby</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1923'>Bortko, Vladimir</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=26288'>Baccar, Salma</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1597'>Berlanga, Luis Garcia</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=14191'>Borzage, Frank</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=18331'>Bachmann, Gideon</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1601'>Berman, Brigitte</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=24914'>Bosch, Eduard</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1197'>Back, Sylvio</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=28461'>Berman, Shari Springer</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=30187'>Bose, Shonali</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1198'>Bacon, Lloyd</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1602'>Berman, Ted</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=24898'>Bossak, Jerzy</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=18231'>Bacquet, Harold S.</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1606'>Bernal, Ishmael</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=14955'>Botes, Costa</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1199'>Bacsó, Péter</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1609'>Bernard, Raymond</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=13452'>Bottía, Luis Fernando</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=23813'>Bademsoy, Aysun</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1610'>Bernard-Aubert, Claude</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1948'>Boudrioz, Robert</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=416'>Badham, John</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=24467'>Bernds, Edward</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1949'>Boughedir, Ferid</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=15365'>Baer, Nancy</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=21987'>Bernhard, Jack</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=16997'>Boultenhouse, Charles</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=32192'>Bagdadi, Maroun</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1614'>Bernhardt, Curtis</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1955'>Boulting, John</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=28658'>Bahari, Maziar</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=18469'>Bernhardt, Fritz</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1956'>Boulting, Roy</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1212'>Bahloul, Abdelkrim</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=17188'>Berning, Conrado</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=34372'>Bourdier, Jean-Paul</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=21507'>Bai, Ching-zue</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1622'>Berri, Claude</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=28927'>Bourguignon, Serge</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1220'>Bailey, Norma</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1625'>Berry, John</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1961'>Bourne, St. Claire</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=17003'>Baillie, Bruce</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=19216'>Bertini, Antonio</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1964'>Boutang, Pierre-André</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=13099'>Bailly, Jean-pierre</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=24982'>Bertini, Francesca</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1974'>Bower, Dallas</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=17275'>Baily, John</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=16609'>Bertolino, Daniel</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1979'>Bowman, Rob</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=26415'>Bain, Bill</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1634'>Bertolucci, Bernardo</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1980'>Bowser, Kenneth</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1229'>Bajon, Filip</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1635'>Bertolucci, Giuseppe</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=29040'>Box, Muriel</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1235'>Baker, Graham</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1637'>Bertuccelli, Jean-Louis</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=21577'>Boxell, Tim, Tim</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=16692'>Baker, Roy Ward</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1646'>Besson, Luc</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1986'>Boyer, Jean</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1241'>Bakshi, Ralph</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=13552'>Bettiol, Bruno</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1992'>Bozzetto, Bruno</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1252'>Balasko, Josiane</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=13551'>Bettiol, Guido</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=29011'>Brabant, Charles</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1254'>Balco, Vlado</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1654'>Beuchot, Pierre</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=29024'>Bradley, David</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1256'>Baldi, Gian Vittorio</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1661'>Bezerra, Octávio</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=2010'>Bragaglia, Carlo Ludovico</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1258'>Baldwin, Craig</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=25523'>Bharthi, P. S.</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=2014'>Brakhage, Stan</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1265'>Ballard, Carroll</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=22966'>Bhatt, Mahesh</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=466'>Branagh, Kenneth</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=22944'>Ballentine, Richard</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1665'>Bhattacharya, Aditya</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=21438'>Brandon, Liane</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=29951'>Ballyot, Sylvie</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1666'>Bhattacharya, Basu</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=13894'>Brannon, Fred</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1270'>Balogun, Ola</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=17709'>Bhimsingh, A.</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=2034'>Brasch, Thomas</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1272'>Bamberger, Bernhard</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1675'>Bibal, Robert</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=2038'>Brass, Giovanni Tinto</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=22232'>Bamborough, Paul</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1677'>Biberman, Herbert J.</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=2043'>Brault, Michel</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1275'>Band, Charles</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1684'>Bierman, Robert</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=29156'>Braun, Harald</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1277'>Bando, Tamasaburo</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=7369'>Bigas Luna, José Juan</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=27071'>Bray, Kevin</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1281'>Bannerjee, Victor</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1686'>Bigelow, Kathryn</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=2049'>Brealey, Gil</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1291'>Baratier, Jacques</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=15872'>Bilcock, David</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=2050'>Breathnach, Paddy</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1299'>Barbosa, Haroldo Marinho</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=25512'>Billard, George</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=2053'>Bregstein, Philo</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=29924'>Barger, Ayelet</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1696'>Billon, Pierre</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=2054'>Breien, Anja</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1311'>Baril, Céline</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=23642'>Billon, Yves</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=2055'>Breillat, Catherine</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=20622'>Barker, David</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1701'>Binder, Mike</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=2059'>Breloer, Heinrich</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=25073'>Barker, Reginald</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=13125'>Binyon, Claude</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=17219'>Brenon, Herbert</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=260'>Barnet, Boris Vasilyevich</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1709'>Bird, Lance</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=5990'>Bressan, Arthur, Jr.</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1336'>Barreto, Bruno</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=24595'>Birdwell, Russell</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=38'>Bressane, Júlio</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=15322'>Barrett, Shirley</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=14237'>Birkin, Jane</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=2065'>Bresson, Robert</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=14387'>Barrett-Page, Sally</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=29631'>Birt, Daniel</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=2066'>Brest, Martin</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1341'>Barron, Arthur</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=25656'>Bishop, Terry</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=25801'>Bretherton, Howard</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1342'>Barron, Steve</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=6419'>Bito, Takeshi</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=2078'>Bridges, James</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1346'>Barros, Wilson</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1722'>Bitomsky, Hartmut</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=25491'>Brignone, Guido</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=14206'>Barry, Judith</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=34081'>Bittencourt, Vivien</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=2083'>Bringmann, Peter F.</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1354'>Bartas, Sarunas</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=24845'>Bizzio, Sergio</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=2091'>Brizzi, Gaëtan</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=23023'>Bartlett, Renny</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=26660'>Bjerre, Jens</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=2092'>Brizzi, Paul</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1360'>Bartolomé, Cecilia</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1728'>Björkman, Stig</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=2102'>Brody, Hugh</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1361'>Bartolomé, José Juan</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=19518'>Blaché, Herbert</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=29133'>Bromberger, Hervé</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=13149'>Barton, Charles T.</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1730'>Black, Cathal</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=19198'>Bromly, Alan</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=23117'>Bassi, Renaldo</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1731'>Black, Donald Taylor</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=23917'>Brook, Clive</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1387'>Batchelor, Joy</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=22709'>Black, Eric</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=2112'>Brook, Peter</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=32354'>Bate, Peter</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1733'>Black, Noel</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=22166'>Brookman, Amy</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1390'>Batista, Djalma Limonge</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=29812'>Black, Paul</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=22154'>Brookman, Philip</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=32432'>Bauer, Randy</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1739'>Blackwood, Christian</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=2113'>Brookner, Howard</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1396'>Bauer, Tristán</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1742'>Blaier, Andrei</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=2114'>Brooks, Adam</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1399'>Bauman, Susanne</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1743'>Blain, Gérard</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=2115'>Brooks, Albert</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=27714'>Baumann, Fritz</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=24468'>Blair, George</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=2117'>Brooks, James L.</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1400'>Bausch, Andy</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=20744'>Blair, Jon</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=2120'>Brooks, Richard</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1404'>Bava, Mario</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=21569'>Blake, John</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=28608'>Brooks, Thor L.</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1406'>Baxley, Craig R.</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1757'>Blanco, Jorge</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=2122'>Broomfield, Nicholas</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1408'>Bay, Michael</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1759'>Blank, Harrod</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=25754'>Brosio, Valentino</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1411'>Bayly, Stephen</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1761'>Blank, Les</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=17729'>Broughton, James Richard</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1414'>Bazelian, Yakov</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1766'>Blasetti, Alessandro</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=2125'>Brower, Otto</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=16585'>Beale, Scott</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=17157'>Blaskovich, Tim</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=34317'>Brown, Andrew</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1423'>Beaudin, Jean</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=23306'>Blatt, Edward A.</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=2127'>Brown, Bruce</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=18054'>Beaudine, William</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1770'>Blawut, Jacek</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=2129'>Brown, Clarence</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1429'>Beauvois, Xavier</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1775'>Blier, Bertrand</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=2135'>Brown, Jim</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=16990'>Beavers, Robert</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1780'>Bloem, Marion</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=22097'>Browne, Christene</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1435'>Becker, Harold</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=22960'>Bloom, Jonathan</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=411'>Browning, Tod</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1436'>Becker, Jacques</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=28597'>Bloomberg, Ramon</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=2142'>Brownlow, Kevin</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1437'>Becker, Jean</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=26150'>Bloomstein, Rex</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=21198'>Bruck, Jerry, Jr.</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1438'>Becker, Jens</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1785'>Blossier, Patrick</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=2150'>Bruckberger, R. L.</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=16633'>Beckett, Joshua</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1786'>Blot, Philippe</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=2152'>Bruckman, Clyde</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=27195'>Beckner, Stephen</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=25511'>Blotter, Claire</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=2159'>Brunel, Adrian</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1450'>Beebe, Ford</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=29026'>Blum, Eric</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=2166'>Brustellin, Alf</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1459'>Behi, Ridha</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=29027'>Blum, Lowell</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=380'>Bryden, Bill</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=259'>Bek-Nazarov, Amo</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1796'>Bluth, Don</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=22352'>Buckingham, Tom</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1474'>Bekolo, Jean-Pierre</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=15958'>Blystone, John</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=2185'>Buczkowski, Leonard</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=25529'>Belgum, Rolf</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1797'>Blyth, David</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=2201'>Bukaee, Raphi</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1484'>Bell, Martin</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=25831'>Boccaci, Antonio</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=2204'>Bulajic, Veljko</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=14144'>Bell, Monta</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=33265'>Boccia, Tanio</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=2206'>Bunce, Alan</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=14212'>Bellamy, Earl</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=22376'>Bodin-Joyeux, Marc</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=40'>Bunin, Lou</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=25650'>Belle, David</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1810'>Bodrov, Sergei</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=16382'>Buñuel, Juan Luis</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1490'>Bellinelli, Matteo</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1171'>Bódy, Gábor</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=2174'>Buñuel, Luis</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1494'>Bellocchio, Marco</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1822'>Boetticher, Budd</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=24842'>Buravsky, Aleksandr</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1496'>Bellon, Yannick</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1825'>Bogayevicz, Yurek</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=30518'>Burke, David J.</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=32343'>Belson, Jordan</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=17970'>Bogdanovich, Peter</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=2224'>Burke, Martyn</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1501'>Belvaux, Lucas</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=29660'>Boihem, Harold</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=2226'>Burle, José Carlos</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=26742'>Ben Ammar, Abdellatif</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1843'>Bokanowski, Patrick</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=26783'>Burmawalla, Abbas Alibhai</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=13037'>Ben Salama, Mohand</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1848'>Bolaños, José</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=26784'>Burmawalla, Mastan Alibhai</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1284'>Ben-Barka, Souheil</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=20048'>Böll, Heinrich</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=2230'>Burnett, Charles</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1514'>Benedek, Laszlo</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1853'>Boll, Uwe</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=32082'>Burns, Amy Stechler</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1517'>Benegal, Shyam</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=15108'>Bollain, Iciar</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=2232'>Burns, Edward</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=15823'>Benegal, Shyam</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=20623'>Bolofo, Koto</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=2233'>Burns, Ken</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=27069'>Benestad, Even</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1854'>Bologna, Joseph</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=2234'>Burns, Ric</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=15959'>Benglis, Lynda</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1856'>Bolognini, Mauro</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=14218'>Burns, Tim</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=13640'>Benhamou, Gérard Myriam</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1860'>Bompard, Barthelemy</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=2237'>Burroughs, Jackie</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=23428'>Bennet, Spencer Gordon</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1863'>Bond, Jack</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=23826'>Burroughs, Jim</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1529'>Bennett, Compton</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1866'>Bondarchuk, Sergei</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=2240'>Burstall, Tim</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1530'>Bennett, Edward</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1870'>Bondy, Luc</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=24347'>Burton, David</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1538'>Benning, James</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=22227'>Boner, Robert</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=26417'>Burton, Nick</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1543'>Benoit-Lévy, Jean</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=22512'>Bonfanti, Giovanni</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=2244'>Burton, Tim</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=26858'>Bensard, Patrick</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=349'>Bonitzer, Pascal</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=14451'>Buscemi, Steve</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1544'>Benson, Robby</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1881'>Bonner, Lee</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=21433'>Bush, Charles</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1548'>Benton, Robert</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=17437'>Bontzolakis, Bruno</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=19201'>Bushell, Anthony</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=379'>Beresford, Bruce</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=29764'>Bonzi, Leonardo</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=21947'>Butler, David</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=111'>Berg, R.M. van den</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1888'>Boon, Jaak</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=23681'>Butterfield, Allyn</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1567'>Berger, Helmut</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1889'>Boorman, John</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=26202'>Buzzell, Edward</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1568'>Berger, Jacob</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1893'>Booth, Marlene</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=27908'>Byeon Yeong-ju</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1569'>Berger, Lisa</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1895'>Borau, José Luis</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=14176'>Byima, Oleg</a></td>
+      </tr>
+      <tr>
+        <td><a href='/cinefiles/FilmSearch?nameId=1570'>Berger, Ludwig</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=1900'>Borderie, Bernard</a></td>
+        <td></td>
+      </tr>
+    </table>
+  </div>
+

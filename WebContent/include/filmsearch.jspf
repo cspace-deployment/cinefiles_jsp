@@ -1,0 +1,49 @@
+        <%--
+           Search form for the detailed filmographic search, included
+           in FilmSearch.jsp.  The style sheet for this form is in
+           "/cinefiles/css/filmsearch.css",
+        --%>
+
+        <form id="filmForm" name="filmForm"
+              method="post" action="/cinefiles/FilmSearch">
+
+          <input class="fbutton" value="Search" type="submit"/>
+          <input class="fbutton" value="Clear"  type="reset"/><br /><br />
+
+          <label>Film Title</label>
+          <input type="text" name="filmtitle" /><br />
+
+          <label>Director</label>
+          <input type="text" name="director" /><br />
+
+          <label>Country of Production</label>
+          <input type="text" name="country" /><br />
+
+          <label>Film Genre</label>
+          <input type="text" name="genre" /><br />
+
+          <label>Subject of Film</label>
+          <input type="text" name="subject" /><br />
+
+          <label>Production Company</label>
+          <input type="text" name="prodco" /><br />
+
+         <label>Years(s)</label>
+         <input type="text" name="year" /><br />
+ 
+          <label>Language</label>
+          <select class="fselect" id="filmlang" name="filmlang" size="1">
+            <jsp:include page="/include/filmlangs.jspf" />
+          </select><br />
+ 
+         <label>Limit search by</label>
+          <select class="fselect" id="querytype" name="querytype" size="1">
+            <option value="1">Begins with</option>
+            <option value="2" selected="selected">Contains</option>
+            <option value="3">Ends with</option>
+            <option value="4">Exact</option>
+          </select><br /><br />
+                      
+          <input class="fbutton" value="Search" type="submit"/>
+          <input class="fbutton" value="Clear"  type="reset"/>
+        </form>

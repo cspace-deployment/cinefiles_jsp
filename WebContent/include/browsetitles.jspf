@@ -1,0 +1,118 @@
+<h2>Browse Film Titles</h2>
+The following is a list of film tiles that have been cataloged in CineFiles
+as of June 2009. The browse list is alphabetized by film title, excluding
+initial articles and puntuation.  Film titles which begin with a number are
+ordered as if the number in the title was spelled out( i.e. 7 = "seven" ).
+
+<div id='navAlist' name='navAlist'>
+  <ul>
+    <li>
+      <a href="NoJs.jsp"
+         onclick="setBrowsePane('browsetitleAlist.jspf');return false;">A</a>
+    </li>
+    <li>
+      <a href="NoJs.jsp"
+         onclick="setBrowsePane('browsetitleBlist.jspf');return false;">B</a>
+    </li>
+    <li>
+      <a href="NoJs.jsp"
+         onclick="setBrowsePane('browsetitleClist.jspf');return false;">C</a>
+    </li>
+    <li>
+      <a href="NoJs.jsp"
+       onclick="setBrowsePane('browsetitleDlist.jspf');return false;">D</a>
+    </li>
+    <li>
+      <a href="NoJs.jsp"
+       onclick="setBrowsePane('browsetitleElist.jspf');return false;">E</a>
+    </li>
+    <li>
+      <a href="NoJs.jsp"
+       onclick="setBrowsePane('browsetitleFlist.jspf');return false;">F</a>
+    </li>
+    <li>
+      <a href="NoJs.jsp"
+       onclick="setBrowsePane('browsetitleGlist.jspf');return false;">G</a>
+    </li>
+    <li>
+      <a href="NoJs.jsp"
+       onclick="setBrowsePane('browsetitleHlist.jspf');return false;">H</a>
+    </li>
+    <li>
+      <a href="NoJs.jsp"
+       onclick="setBrowsePane('browsetitleIlist.jspf');return false;">I</a>
+    </li>
+    <li>
+      <a href="NoJs.jsp"
+       onclick="setBrowsePane('browsetitleJlist.jspf');return false;">J</a>
+    </li>
+    <li>
+      <a href="NoJs.jsp"
+       onclick="setBrowsePane('browsetitleKlist.jspf');return false;">K</a>
+    </li>
+    <li>
+      <a href="NoJs.jsp"
+       onclick="setBrowsePane('browsetitleLlist.jspf');return false;">L</a>
+    </li>
+    <li>
+      <a href="NoJs.jsp"
+       onclick="setBrowsePane('browsetitleMlist.jspf');return false;">M</a>
+    </li>
+    <li>
+      <a href="NoJs.jsp"
+       onclick="setBrowsePane('browsetitleNlist.jspf');return false;">N</a>
+    </li>
+    <li>
+      <a href="NoJs.jsp"
+       onclick="setBrowsePane('browsetitleOlist.jspf');return false;">O</a>
+    </li>
+    <li>
+      <a href="NoJs.jsp"
+       onclick="setBrowsePane('browsetitlePlist.jspf');return false;">P</a>
+    </li>
+    <li>
+      <a href="NoJs.jsp"
+       onclick="setBrowsePane('browsetitleQlist.jspf');return false;">Q</a>
+    </li>
+    <li>
+      <a href="NoJs.jsp"
+       onclick="setBrowsePane('browsetitleRlist.jspf');return false;">R</a>
+    </li>
+    <li>
+      <a href="NoJs.jsp"
+       onclick="setBrowsePane('browsetitleSlist.jspf');return false;">S</a>
+    </li>
+    <li>
+      <a href="NoJs.jsp"
+       onclick="setBrowsePane('browsetitleTlist.jspf');return false;">T</a>
+    </li>
+    <li>
+      <a href="NoJs.jsp"
+       onclick="setBrowsePane('browsetitleUlist.jspf');return false;">U</a>
+    </li>
+    <li>
+      <a href="NoJs.jsp"
+       onclick="setBrowsePane('browsetitleVlist.jspf');return false;">V</a>
+    </li>
+    <li>
+      <a href="NoJs.jsp"
+       onclick="setBrowsePane('browsetitleWlist.jspf');return false;">W</a>
+    </li>
+    <li>
+      <a href="NoJs.jsp"
+       onclick="setBrowsePane('browsetitleXlist.jspf');return false;">X</a>
+    </li>
+    <li>
+      <a href="NoJs.jsp"
+       onclick="setBrowsePane('browsetitleYlist.jspf');return false;">Y</a>
+    </li>
+    <li>
+      <a href="NoJs.jsp"
+       onclick="setBrowsePane('browsetitleZlist.jspf');return false;">Z</a>
+    </li>    
+  </ul>
+</div>
+
+<div id='browsePane' name='browsePane'>
+  <jsp:include page="browsetitleAlist.jspf" />
+</div>

@@ -1,0 +1,287 @@
+   <h2>Browse Film Genres</h2>
+   The following is a list of genre classifications used with films catalogued
+   in CineFiles.  Click on a genre term to get a list of related films.
+
+   <div id='navAlist' name='navAlist'>
+     <ul>
+       <li><a href="#A">A</a></li> <li><a href="#B">B</a></li>
+       <li><a href="#C">C</a></li> <li><a href="#D">D</a></li>
+       <li><a href="#E">E</a></li> <li><a href="#F">F</a></li>
+       <li><a href="#G">G</a></li> <li><a href="#H">H</a></li>
+       <li><a href="#I">I</a></li> <li><a href="#J">J</a></li>
+       <li><a href="#K">K</a></li> <li><a href="#L">L</a></li>
+       <li><a href="#M">M</a></li> <li><a href="#N">N</a></li>
+       <li><a href="#O">O</a></li> <li><a href="#P">P</a></li>
+       <li><a href="#Q">Q</a></li> <li><a href="#R">R</a></li>
+       <li><a href="#S">S</a></li> <li><a href="#T">T</a></li>
+       <li><a href="#U">U</a></li> <li><a href="#V">V</a></li>
+       <li><a href="#W">W</a></li> <li><a href="#X">X</a></li>
+       <li><a href="#Y">Y</a></li> <li><a href="#Z">Z</a></li>    
+     </ul>
+   </div>  
+
+   <div id='browsePane' name='browsePane'>
+     <div id='browselist' name='browselist'>
+      <table id='browseTable' name='browseTable'>
+      <tr><th align='left' colspan='3'><a name='A' href='#'/></th></tr>
+      <tr>
+      <td><a href="/cinefiles/FilmSearch?genreId=199">Abstract animation</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=6">Adaptation</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=8">Animation</a></td>
+      </tr>
+      <tr>
+      <td><a href="/cinefiles/FilmSearch?genreId=136">Abstract live action</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=92">Adventure</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=10">Anthology</a></td>
+      </tr>
+      <tr>
+      <td><a href="/cinefiles/FilmSearch?genreId=219">Action</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=7">Advertising</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=126">Art</a></td>
+      </tr>
+      <tr>
+      <td><a href="/cinefiles/FilmSearch?genreId=51">Activist</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=125">Ancient world</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=96">Autobiographical</a></td>
+      </tr>
+      <tr>
+      <td><a href="/cinefiles/FilmSearch?genreId=123">Actuality</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=84">Animal</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=66">Aviation</a></td>
+      </tr>
+      
+      <tr><th align='left' colspan='3'><br /><a name='B' href='#'/></th></tr>
+      <tr>
+      <td><a href="/cinefiles/FilmSearch?genreId=12">Biographical</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=127">Biographical (Nonfiction)</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=128">Buddy</a></td>
+      </tr>
+      
+      <tr><th align='left' colspan='3'><a name='C' href='#'/></th></tr>
+      <tr>
+      <td><a href="/cinefiles/FilmSearch?genreId=77">Caper</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=14">College</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=111">Computer animation</a></td>
+      </tr><tr>
+      <td><a href="/cinefiles/FilmSearch?genreId=129">Chase</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=9">Combination animation and live action</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=55">Crime</a></td>
+      </tr><tr>
+      <td><a href="/cinefiles/FilmSearch?genreId=85">Childrens</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=15">Comedy</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=138">Cubist</a></td>
+      </tr><tr>
+      <td><a href="/cinefiles/FilmSearch?genreId=88">Clay animation</a></td>
+			<td></td><td></td>
+      </tr>
+      
+      <tr><th align='left' colspan='3'><a name='D' href='#'/></th></tr>
+      <tr>
+      <td><a href="/cinefiles/FilmSearch?genreId=139">Dada</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=140">Diary</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=20">Documentary</a></td>
+      </tr><tr>
+      <td><a href="/cinefiles/FilmSearch?genreId=104">Dance</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=131">Disability</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=21">Drama</a></td>
+      </tr><tr>
+      <td><a href="/cinefiles/FilmSearch?genreId=130">Dark comedy</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=95">Disaster</a></td>
+			<td></td>
+      </tr>
+      
+      <tr><th align='left' colspan='3'><a name='E' href='#'/></th></tr>
+      <tr>
+      <td><a href="/cinefiles/FilmSearch?genreId=133">Educational</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=76">Ethnic</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=63">Experimental</a></td>
+      </tr><tr>
+      <td><a href="/cinefiles/FilmSearch?genreId=56">Erotic</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=134">Ethnic (Nonfiction)</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=155">Exploitation</a></td>
+      </tr><tr>
+      <td><a href="/cinefiles/FilmSearch?genreId=69">Espionage</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=103">Ethnographic</a></td>
+			<td></td>
+      </tr>
+      
+      <tr><th align='left' colspan='3'><a name='F' href='#'/></th></tr>
+      <tr>
+      <td><a href="/cinefiles/FilmSearch?genreId=156">Fallen woman</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=25">Fantasy</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=157">Family</a></td>
+      </tr><tr>
+      <td><a href="/cinefiles/FilmSearch?genreId=206">Feature</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=141">Feminist</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=62">Film noir</a></td>
+      </tr>
+      
+      <tr><th align='left' colspan='3'><a name='G' href='#'/></th></tr>
+      <tr>
+      <td><a href="/cinefiles/FilmSearch?genreId=27">Gangster</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=142">Gay/lesbian</a></td>
+			<td></td>
+      </tr>
+      
+      <tr><th align='left' colspan='3'><a name='H' href='#'/></th></tr>
+      <tr>
+      <td><a href="/cinefiles/FilmSearch?genreId=29">Historical</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=30">Horror</a></td>
+			<td></td>
+      </tr>
+      
+      <tr><th align='left' colspan='3'><a name='I' href='#'/></th></tr>
+      <tr>
+      <td><a href="/cinefiles/FilmSearch?genreId=162">Interview</a></td>
+			<td></td><td></td>
+      </tr>
+      
+      <tr><th align='left' colspan='3'><a name='J' href='#'/></th></tr>
+      <tr>
+      <td><a href="/cinefiles/FilmSearch?genreId=110">Journalism</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=122">Juvenile delinquency</a></td>
+			<td></td>
+      </tr>
+      
+      <tr><th align='left' colspan='3'><a name='K' href='#'/></th></tr>
+      <tr><th align='left' colspan='3'><a name='L' href='#'/></th></tr>
+      <tr>
+      <td><a href="/cinefiles/FilmSearch?genreId=144">Landscape</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=97">Legal</a></td>
+			<td></td>
+      </tr>
+      
+      <tr><th align='left' colspan='3'><a name='M' href='#'/></th></tr>
+      <tr>
+      <td><a href="/cinefiles/FilmSearch?genreId=89">Martial arts</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=114">Medical (Nonfiction)</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=49">Music</a></td>
+      </tr><tr>
+      <td><a href="/cinefiles/FilmSearch?genreId=166">Maternal melodrama</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=31">Melodrama</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=61">Music video</a></td>
+      </tr><tr>
+      <td><a href="/cinefiles/FilmSearch?genreId=117">Medical</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=79">Military</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=60">Musical</a></td>
+      </tr><tr>
+      <td><a href="/cinefiles/FilmSearch?genreId=33">Mystery</a></td>
+			<td></td><td></td>
+      </tr>
+      
+      <tr><th align='left' colspan='3'><a name='N' href='#'/></th></tr>
+      <tr>
+      <td><a href="/cinefiles/FilmSearch?genreId=98">Nature</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=167">News</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=100">Newsreel</a></td>
+      </tr>
+      
+      <tr><th align='left' colspan='3'><a name='O' href='#'/></th></tr>
+      <tr>
+      <td><a href="/cinefiles/FilmSearch?genreId=168">Opera</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=169">Operetta</a></td>
+			<td></td>
+      </tr>
+      
+      <tr><th align='left' colspan='3'><a name='P' href='#'/></th></tr>
+      <tr>
+      <td><a href="/cinefiles/FilmSearch?genreId=35">Parody</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=36">Political</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=37">Propaganda</a></td>
+      </tr><tr>
+      <td><a href="/cinefiles/FilmSearch?genreId=120">Performance</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=148">Portrait</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=72">Puppet</a></td>
+      </tr><tr>
+      <td><a href="/cinefiles/FilmSearch?genreId=58">Police</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=74">Prison</a></td>
+			<td></td>
+      </tr>
+      
+      <tr><th align='left' colspan='3'><a name='Q' href='#'/></th></tr>
+      <tr><th align='left' colspan='3'><a name='R' href='#'/></th></tr>
+      <tr>
+      <td><a href="/cinefiles/FilmSearch?genreId=174">Reality-based</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=73">Religious</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=67">Road</a></td>
+      </tr><tr>
+      <td><a href="/cinefiles/FilmSearch?genreId=175">Religion</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=90">Remakes</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=107">Romance</a></td>
+      </tr>
+      
+      <tr><th align='left' colspan='3'><a name='S' href='#'/></th></tr>
+      <tr>
+      <td><a href="/cinefiles/FilmSearch?genreId=40">Science fiction</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=177">Show business</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=70">Sophisticated comedy</a></td>
+      </tr><tr>
+      <td><a href="/cinefiles/FilmSearch?genreId=176">Screwball comedy</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=220">Silent</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=94">Sports</a></td>
+      </tr><tr>
+      <td><a href="/cinefiles/FilmSearch?genreId=105">Sequels</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=204">Silhouette animation</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=185">Sports (Nonfiction)</a></td>
+      </tr><tr>
+      <td><a href="/cinefiles/FilmSearch?genreId=83">Serial</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=81">Slapstick comedy</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=151">Structural</a></td>
+      </tr><tr>
+      <td><a href="/cinefiles/FilmSearch?genreId=210">Series</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=180">Slasher</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=152">Surrealist</a></td>
+      </tr><tr>
+      <td><a href="/cinefiles/FilmSearch?genreId=78">Short</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=41">Social problem</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=186">Survival</a></td>
+      </tr>
+      
+      <tr><th align='left' colspan='3'><a name='T' href='#'/></th></tr>
+      <tr>
+      <td><a href="/cinefiles/FilmSearch?genreId=43">Television</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=214">Television pilot</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=45">Thriller</a></td>
+      </tr><tr>
+      <td><a href="/cinefiles/FilmSearch?genreId=212">Television commercial</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=215">Television series</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=205">Time-lapse animation</a></td>
+      </tr><tr>
+      <td><a href="/cinefiles/FilmSearch?genreId=213">Television feature</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=216">Television special</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=154">Trance</a></td>
+      </tr><tr>
+      <td><a href="/cinefiles/FilmSearch?genreId=112">Television mini-series</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=2">3-D films</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=91">Travelogue</a></td>
+			<td></td>
+      </tr>
+      
+      <tr><th align='left' colspan='3'><a name='U' href='#'/></th></tr>
+      <tr><th align='left' colspan='3'><a name='V' href='#'/></th></tr>
+      <tr>
+      <td><a href="/cinefiles/FilmSearch?genreId=102">Variety</a></td>
+			<td></td><td></td>
+      </tr>
+      
+      <tr><th align='left' colspan='3'><a name='W' href='#'/></th></tr>
+      <tr>
+      <td><a href="/cinefiles/FilmSearch?genreId=47">War</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=75">Western</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=191">Women</a></td>
+      </tr><tr>
+      <td><a href="/cinefiles/FilmSearch?genreId=119">War (Nonfiction)</a></td>
+			<td></td><td></td>
+      </tr>
+      <tr><th align='left' colspan='3'><a name='X' href='#'/></th></tr>
+      <tr><th align='left' colspan='3'><a name='Y' href='#'/></th></tr>
+      <tr>
+      <td><a href="/cinefiles/FilmSearch?genreId=42">Youth</a></td>
+      <td><a href="/cinefiles/FilmSearch?genreId=192">Yukon</a></td>
+			<td></td>
+      </tr>
+
+      <tr><th align='left' colspan='3'><a name='Z' href='#'/></th></tr>
+      </table>
+    </div>
+  </div>

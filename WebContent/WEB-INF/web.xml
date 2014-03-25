@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app id="WebApp_ID" version="2.4" xmlns="http://java.sun.com/xml/ns/j2ee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd">
+	<display-name>MyCineFiles</display-name>
+<!-- Description section -->
+  <description>
+    Pacific Film Archive Library Web Site
+  </description>
+
+  <!-- Context section -->
+  <context-param>
+    <param-name>db</param-name>
+    <param-value>cinefiles</param-value>
+  </context-param>
+
+  <context-param>
+    <param-name>debug</param-name>
+    <param-value>false</param-value>
+  </context-param>
+
+  <context-param>
+    <param-name>jdbcUrl</param-name>
+    <param-value>jdbc:sybase:Tds:lily.mip.berkeley.edu:5025</param-value>
+  </context-param>
+
+  <context-param>
+    <param-name>jdbcDriver</param-name>
+    <param-value>com.sybase.jdbc3.jdbc.SybDriver</param-value>
+  </context-param>
+
+  <context-param>
+    <param-name>jndiDataSource</param-name>
+    <param-value>jdbc/EmmaMiponcaDS</param-value>
+  </context-param>
+
+  <context-param>
+    <param-name>cineImgDir</param-name>
+    <param-value>/nas/mipweb/www_data/images/cinefiles</param-value>
+  </context-param>
+
+  <!-- Distributable section -->
+  <!-- Listener section -->
+  <!-- Filter section -->
+  <!-- Filter-mapping section -->
+  
+  <!-- Servlet section -->
+  <servlet>
+    <servlet-name>Gracie</servlet-name>
+    <servlet-class>glen.testing.servlets.GracieServlet</servlet-class>
+    <init-param>
+      <param-name>initCount</param-name>
+      <param-value>19</param-value>
+    </init-param>
+  </servlet>
+
+  <servlet>
+    <servlet-name>CommentsServlet</servlet-name>
+    <servlet-class>
+      edu.berkeley.mip.cinefiles.servlet.CommentsServlet
+    </servlet-class>
+    <init-param>
+      <param-name>debug</param-name>
+      <param-value>false</param-value>
+    </init-param>
+    <init-param>
+      <param-name>adminEmail</param-name>
+      <param-value>glen@berkeley.edu</param-value>
+    </init-param>
+  </servlet>
+
+  <servlet>
+    <servlet-name>DocPdfServlet</servlet-name>
+    <servlet-class>
+      edu.berkeley.mip.cinefiles.servlet.DocPdfServlet
+    </servlet-class>
+
+    <init-param>
+      <param-name>debug</param-name>
+      <param-value>true</param-value>
+    </init-param>
+  </servlet>
+
+  <servlet>
+    <servlet-name>DocDetailServlet</servlet-name>
+    <servlet-class>
+      edu.berkeley.mip.cinefiles.servlet.DocDetailServlet
+    </servlet-class>
+
+    <init-param>
+      <param-name>debug</param-name>
+      <param-value>false</param-value>
+    </init-param>
+  </servlet>
+
+  <servlet>
+    <servlet-name>DocSearchServlet</servlet-name>
+    <servlet-class>
+      edu.berkeley.mip.cinefiles.servlet.DocSearchServlet
+    </servlet-class>
+
+    <init-param>
+      <param-name>debug</param-name>
+      <param-value>false</param-value>
+    </init-param>
+  </servlet>
+
+  <servlet>
+    <servlet-name>FilmDetailServlet</servlet-name>
+    <servlet-class>
+      edu.berkeley.mip.cinefiles.servlet.FilmDetailServlet
+    </servlet-class>
+
+    <init-param>
+      <param-name>debug</param-name>
+      <param-value>false</param-value>
+    </init-param>
+  </servlet>
+
+  <servlet>
+    <servlet-name>FilmSearchServlet</servlet-name>
+    <servlet-class>
+      edu.berkeley.mip.cinefiles.servlet.FilmSearchServlet
+    </servlet-class>
+
+    <init-param>
+     <param-name>debug</param-name>
+     <param-value>false</param-value>
+    </init-param>
+  </servlet>
+
+  <!-- Servlet-mapping section -->
+  <servlet-mapping>
+    <servlet-name>Gracie</servlet-name>
+    <url-pattern>/Gracie</url-pattern>
+  </servlet-mapping>
+
+  <servlet-mapping>
+    <servlet-name>CommentsServlet</servlet-name>
+    <url-pattern>/Comments</url-pattern>
+  </servlet-mapping>
+
+  <servlet-mapping>
+    <servlet-name>DocPdfServlet</servlet-name>
+    <url-pattern>/DocPdf</url-pattern>
+  </servlet-mapping>
+
+  <servlet-mapping>
+    <servlet-name>DocDetailServlet</servlet-name>
+    <url-pattern>/DocDetail</url-pattern>
+  </servlet-mapping>
+
+  <servlet-mapping>
+    <servlet-name>DocSearchServlet</servlet-name>
+    <url-pattern>/DocSearch</url-pattern>
+  </servlet-mapping>
+
+  <servlet-mapping>
+    <servlet-name>FilmDetailServlet</servlet-name>
+    <url-pattern>/FilmDetail</url-pattern>
+  </servlet-mapping>
+
+  <servlet-mapping>
+    <servlet-name>FilmSearchServlet</servlet-name>
+    <url-pattern>/FilmSearch</url-pattern>
+  </servlet-mapping>
+
+  <!-- Session-config section -->
+  <session-config>
+    <session-timeout>30</session-timeout>
+  </session-config>
+
+  <!-- Mime-mapping section -->
+  <!-- Welcome-file section -->
+  <welcome-file-list>
+    <welcome-file>index.jsp</welcome-file>
+    <welcome-file>Welcome.jsp</welcome-file>
+  </welcome-file-list>
+
+  <!-- Error-page section -->
+  <!--error-page>
+    <exception-type>java.lang.Exception</exception-type>
+    <location>/cineErrorPage.html</location>
+  </error-page -->
+ 
+  <!-- Taglib section -->
+  <!-- Resource ref section -->
+  <!-- Security constraint section -->
+  <!-- Login config section -->
+  <!-- Environment section  -->
+  <!-- EJB ref section -->
+
+  <!-- JSP Config -->
+  <jsp-config>
+    <jsp-property-group>
+      <url-pattern>*.jsp</url-pattern>
+      <el-ignored>false</el-ignored>
+    </jsp-property-group>
+  </jsp-config>
+
+</web-app>
+
