@@ -122,6 +122,7 @@ public class FilmDetail extends CallableBean {
          else if (content.equals("relatedocs"))
             processRelatedDocs();
          rs.close();
+         connection.setAutoCommit(true);
       }
    }
 
