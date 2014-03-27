@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <web-app id="WebApp_ID" version="2.4" xmlns="http://java.sun.com/xml/ns/j2ee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd">
-	<display-name>MyCineFiles</display-name>
+	<display-name>CineFiles</display-name>
 <!-- Description section -->
   <description>
     Pacific Film Archive Library Web Site
@@ -9,7 +9,7 @@
   <!-- Context section -->
   <context-param>
     <param-name>db</param-name>
-    <param-value>cinefiles</param-value>
+    <param-value>cinefiles_domain</param-value>
   </context-param>
 
   <context-param>
@@ -29,7 +29,7 @@
 
   <context-param>
     <param-name>jndiDataSource</param-name>
-    <param-value>jdbc/EmmaMiponcaDS</param-value>
+    <param-value>jdbc/CinedevMiponcaDS</param-value>
   </context-param>
 
   <context-param>
@@ -43,15 +43,6 @@
   <!-- Filter-mapping section -->
   
   <!-- Servlet section -->
-  <servlet>
-    <servlet-name>Gracie</servlet-name>
-    <servlet-class>glen.testing.servlets.GracieServlet</servlet-class>
-    <init-param>
-      <param-name>initCount</param-name>
-      <param-value>19</param-value>
-    </init-param>
-  </servlet>
-
   <servlet>
     <servlet-name>CommentsServlet</servlet-name>
     <servlet-class>
@@ -129,11 +120,6 @@
 
   <!-- Servlet-mapping section -->
   <servlet-mapping>
-    <servlet-name>Gracie</servlet-name>
-    <url-pattern>/Gracie</url-pattern>
-  </servlet-mapping>
-
-  <servlet-mapping>
     <servlet-name>CommentsServlet</servlet-name>
     <url-pattern>/Comments</url-pattern>
   </servlet-mapping>
@@ -171,7 +157,6 @@
   <!-- Mime-mapping section -->
   <!-- Welcome-file section -->
   <welcome-file-list>
-    <welcome-file>index.jsp</welcome-file>
     <welcome-file>Welcome.jsp</welcome-file>
   </welcome-file-list>
 
