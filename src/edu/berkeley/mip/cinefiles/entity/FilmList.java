@@ -212,8 +212,8 @@ public class FilmList extends StatementBean
       String years = args.yearArg( "v" );
 
       String q = "select distinct v.film_id, v.doc_count, v.filmtitle, " +
-                 " v.director, v.country, v.year from filmlist_view v" +
-                 " where v.film_id > 1 and v.doc_count > 0 " +
+                 " v.director, v.country, v.filmyear from cinefiles_denorm.filmlist_view v" +
+                 " where v.doc_count > 0 " +
                  (( name_id != null ) ? " and " + name_id : " " ) +
                  (( filmtitle != null ) ? " and " + filmtitle : " " ) +
                  (( director != null ) ? " and " + director : " " ) +
@@ -224,7 +224,7 @@ public class FilmList extends StatementBean
                  (( prodco != null ) ? " and " + prodco : " " ) +
                  (( years != null ) ? " and " + years : " " ) +
                  (( genreId != null ) ? " and " + genreId : " " ) +
-                 "order by v.filmtitle, v.year";
+                 "order by v.filmtitle, v.filmyear";
 
       traceMsg( q );
       runQuery( q );
