@@ -14,7 +14,7 @@ public class FilmDoc implements Serializable
   
    static final long serialVersionUID =  1L;
 
-   private int id;
+   private String id;
    private String title;
    private String type;
    private int pages;
@@ -26,9 +26,9 @@ public class FilmDoc implements Serializable
    private int access_code;
    private String docUrl;
    
-   public FilmDoc( int id, String title, String type, int pages,
-		               String pg_info, String source,
-		               ArrayList<String[]>authors, String pubdate,
+   public FilmDoc( String id, String title, String type, int pages,
+		             String pg_info, String source,
+		             ArrayList<String[]>authors, String pubdate,
                    int juliandate, int access_code, String docUrl )
    {
      this.id = id;
@@ -44,7 +44,7 @@ public class FilmDoc implements Serializable
      this.docUrl = docUrl;
    }
    
-   public int getId()
+   public String getId()
    {
       return id;
    }
