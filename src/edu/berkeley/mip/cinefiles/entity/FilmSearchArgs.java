@@ -10,7 +10,8 @@ public class FilmSearchArgs
   protected int queryType = 0;
   protected int lang_id = 0;
   protected int name_id = 0;
-  protected int genre_id = 0;
+ // protected int genre_id = 0;
+  protected String genre_id = null;
   protected int firstYear = 0;
   protected int lastYear = 0;
   
@@ -131,36 +132,37 @@ public class FilmSearchArgs
     else if( queryType == 3 )
       return t + "genre like '%" + g + "'";
     else if( queryType == 4 )
-      return t + "genre = '" + g + "'";
+      return t + "genre like '%" + g + "'";
 
     return t + "genre like '" + g + "%'";
 	}
 
 	public void setGenreId( String genreId )
 	{
-	  genre_id = 0;
+	  genre_id = null;
     if( genreId != null )
     {
       try
       {
-        genre_id = Integer.parseInt( genreId );
+//        genre_id = Integer.parseInt( genreId );
+    	  genre_id = genreId;
       }
       catch( Exception e )
       {
-        genre_id = 0;
+        genre_id = null;
       }
     }
 	}
 	
-	public int getGenreId()
+	public String getGenreId()
 	{
 	  return genre_id;
 	}
 	
 	public String genreIdArg( String table )
 	{
-    if(( genre_id > 0 ) && (table != null) && ( table.length() > 0 ))
-       return "film_id in (select film_id from filmgenres where genre_id = " + genre_id + ")";  
+    if((table != null) && ( table.length() > 0 ) && (genre_id != null))
+       return "film_id in (select film_id from cinefiles_denorm.filmgenres where genre_id = '" + genre_id + "')";  
     else
        return null;
 	}
@@ -368,7 +370,7 @@ public class FilmSearchArgs
     if( lang == null )
       return null;
 
-    return t + "language = '" + lang + "'";
+    return t + "filmlanguage like '%" + lang + "%'";
   }
 
   public void setYear( String year )
@@ -443,13 +445,13 @@ public class FilmSearchArgs
     String t = ((table == null) || ( table.length() == 0 )) ? "" : table + ".";
     
     if( firstYear == 0 )
-      return t + "year < " + lastYear;
+      return t + "filmyear < " + lastYear;
     else if( lastYear == 0 )
-      return t + "year > " + firstYear;
+      return t + "filmyear > " + firstYear;
     else if( firstYear == lastYear )
-      return t + "year = " + lastYear;
+      return t + "filmyear = " + lastYear;
     else
-      return t + "year between " + firstYear + " and " + lastYear;
+      return t + "filmyear between " + firstYear + " and " + lastYear;
   }
   
   public void setQueryType( String queryType )
