@@ -8,39 +8,39 @@
                 <li>
                   <ul>
                     <li class="liref">
-                      <a href="/cinefiles/FilmDetail?filmId=31150">Basquiat</a>, 1996</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=2552">Bird</a>, 1988</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=31151">Brother to brother</a>, 2004</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=12215">Looking for Langston</a>, 1988 </li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=31143">Ray</a>, 2004</li>
+                      <a href="/cinefiles/FilmDetail?filmId=pfafilm31150">Basquiat</a>, 1996</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm2552">Bird</a>, 1988</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm31151">Brother to brother</a>, 2004</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm12215">Looking for Langston</a>, 1988 </li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm31143">Ray</a>, 2004</li>
                   </ul>
                 </li>
 
                 <li class="lisub">Civil rights movement</li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30519">4 little girls</a>, 1997</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=25254">All power to the people!: the Black Panther Party and beyond</a>, 1997</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=29060">At the river I stand</a>, 1993</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=31152">Eyes on the prize</a>, 1987</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=7673">Freedom on my mind</a>, 1994</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=31153">Ghosts of Mississippi</a>, 1996</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30983">Mighty times: the legacy of Rosa Parks</a>, 2002</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=14396">Native land</a>, 1942</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30469">Selma, Lord, Selma</a>, 1999</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30519">4 little girls</a>, 1997</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm25254">All power to the people!: the Black Panther Party and beyond</a>, 1997</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm29060">At the river I stand</a>, 1993</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm31152">Eyes on the prize</a>, 1987</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm7673">Freedom on my mind</a>, 1994</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm31153">Ghosts of Mississippi</a>, 1996</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30983">Mighty times: the legacy of Rosa Parks</a>, 2002</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm14396">Native land</a>, 1942</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30469">Selma, Lord, Selma</a>, 1999</li>
                   </ul>
                 </li>
 
                 <li class="lisub">Civil war/Slavery &amp; emancipation</li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=25578">Amistad</a>, 1997</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=28959">Autobiography of Miss Jane Pittman, The</a>, 1974</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=2555">Birth of a nation </a>, 1915</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=4146">Civil War</a>, 1990</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=8183">Glory</a>, 1989</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm25578">Amistad</a>, 1997</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm28959">Autobiography of Miss Jane Pittman, The</a>, 1974</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm2555">Birth of a nation </a>, 1915</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm4146">Civil War</a>, 1990</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm8183">Glory</a>, 1989</li>
                     <li class="lired">Lalee's kin: the legacy of cotton, 2001</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30157">Uncle Tom's cabin</a>, 1987</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30157">Uncle Tom's cabin</a>, 1987</li>
                   </ul>
                 </li>
 
@@ -49,8 +49,8 @@
                   <ul>
                     <li class="lired">Beat street, 1984</li>
                     <li class="lired">Boyz n the hood, 1991</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=3545">Car wash</a>, 1976</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=7030">Fast forward</a>, 1985</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm3545">Car wash</a>, 1976</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm7030">Fast forward</a>, 1985</li>
                     <li class="lired">Poetic justice, 1993</li>
                     <li class="lired">Wild style, 1983</li>
                   </ul>
@@ -67,7 +67,7 @@
                 <li class="lisub">Leaders in the African-American community</li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=29060">At the river I stand</a>, 1993</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm29060">At the river I stand</a>, 1993</li>
                     <li class="lired">Malcom X, 1992</li>
                     <li class="lired">Rosa Parks Story, The, 2002</li>
                   </ul>
@@ -76,41 +76,41 @@
                 <li class="lisub">Race and representation/Racism</li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30517">Bamboozled</a>, 2000</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30517">Bamboozled</a>, 2000</li>
                     <li class="lired">Black is... black ain't, 1995</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=6444">Emperor Jones, The</a>, 1933</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm6444">Emperor Jones, The</a>, 1933</li>
                     <li class="lired">Ethnic notions, 1987</li>
                     <li class="lired">Hollywood shuffle, 1987</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=9798">Imitation of life</a>, 1959</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=14819">No way out</a>, 1950</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=29961">Nothing but a man</a>, 1964</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=19079">Shadows</a>, 1960</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=21293">To kill a mockingbird</a>, 1962</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=21372">Tongues untied</a>, 1989</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm9798">Imitation of life</a>, 1959</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm14819">No way out</a>, 1950</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm29961">Nothing but a man</a>, 1964</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm19079">Shadows</a>, 1960</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm21293">To kill a mockingbird</a>, 1962</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm21372">Tongues untied</a>, 1989</li>
                   </ul>
                 </li>
 
                 <li class="lisub">Urban life</li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=3044">Boyz n the hood</a>, 1991</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=3545">Car wash</a>, 1976</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=5742">Do the right thing</a>, 1989</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=9355">Hoop dreams</a>, 1994</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=11047">Killer of sheep, The</a>, 1977</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30543">Sucker Free City</a>, 2004</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm3044">Boyz n the hood</a>, 1991</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm3545">Car wash</a>, 1976</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm5742">Do the right thing</a>, 1989</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm9355">Hoop dreams</a>, 1994</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm11047">Killer of sheep, The</a>, 1977</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30543">Sucker Free City</a>, 2004</li>
                   </ul>
                 </li>
 
                 <li class="lisub">Women in the African-American community</li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=4293">Color purple, The</a>, 1985</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=5104">Daughters of the dust</a>, 1991</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm4293">Color purple, The</a>, 1985</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm5104">Daughters of the dust</a>, 1991</li>
                     <li class="lired">Porgy and Bess, 1959</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=9799">Imitation of life</a>, 1934</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=11940">life and times of Rosie the Riveter, The</a>, 1980</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=24890">Within our gates</a>, 1919</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm9799">Imitation of life</a>, 1934</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm11940">life and times of Rosie the Riveter, The</a>, 1980</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm24890">Within our gates</a>, 1919</li>
                   </ul>
                 </li>
               </ul>
@@ -136,9 +136,9 @@
                   <ul>
                     <li class="lired">Before night falls, 2000</li>
                     <li class="lired">Buena Vista Social Club, 1999</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=27913">Fresa y chocolate</a>, 1993</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm27913">Fresa y chocolate</a>, 1993</li>
                     <li class="lired">Memorias de subdesarrollo (Memories of underdevelopment), 1968</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=14005">muerte de un burócrata</a>, 1966</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm14005">muerte de un burócrata</a>, 1966</li>
                     <li class="lired">Soy Cuba, 1964</li>
                   </ul>
                 </li>
@@ -146,15 +146,15 @@
                 <li class="lisub">Mexico</li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=28150">Amores perros</a>, 2000</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm28150">Amores perros</a>, 2000</li>
                     <li class="lired">Frida, 2002</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=4364">Like water for chocolate</a>, 1992</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm4364">Like water for chocolate</a>, 1992</li>
                     <li class="lired">Maquilapolis, 2006</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=15280">Olvidados, Los</a>, 1951</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=17243">Que viva Mexico!</a>, </li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm15280">Olvidados, Los</a>, 1951</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm17243">Que viva Mexico!</a>, </li>
                     <li class="lired">Traffic, 2000</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=27464">Vamonos con Pancho Villa</a>, 1935</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=25289">Viva Zapata!</a>, 1952</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm27464">Vamonos con Pancho Villa</a>, 1935</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm25289">Viva Zapata!</a>, 1952</li>
                   </ul>
                 </li>
               </ul>
@@ -166,11 +166,11 @@
                 <li class="lisub">American Music</li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=1055">American pop</a>, 1981</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=5865">Don't look back</a>, 1967</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30616">Jazz</a>, 2001</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=31056">O Brother, where art thou?</a>, 2000</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=31143">Ray</a>, 2004</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm1055">American pop</a>, 1981</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm5865">Don't look back</a>, 1967</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30616">Jazz</a>, 2001</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm31056">O Brother, where art thou?</a>, 2000</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm31143">Ray</a>, 2004</li>
                   </ul>
                 </li>
 
@@ -178,50 +178,50 @@
                 <li>
                   <ul>
                     <li class="lired">Cat on a hot tinroof, 1958</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=4293">Color purple, The</a>, 1985</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=8262">Gone with the wind</a>, 1939</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30413">Intruder in the dust</a>, 1949</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=13648">Mississippi masala</a>, 1991</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=14375">Nashville</a>, 1975</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=29961">Nothing but a man</a>, 1964</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=31056">O Brother, where art thou?</a>, 2000</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm4293">Color purple, The</a>, 1985</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm8262">Gone with the wind</a>, 1939</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30413">Intruder in the dust</a>, 1949</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm13648">Mississippi masala</a>, 1991</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm14375">Nashville</a>, 1975</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm29961">Nothing but a man</a>, 1964</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm31056">O Brother, where art thou?</a>, 2000</li>
                   </ul>
                 </li>
 
                 <li class="lisub">American Southwest</li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=410">And the earth did not swallow him</a>, 1994</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm410">And the earth did not swallow him</a>, 1994</li>
                     <li class="lired">Cadillac desert, 1997</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30394">Lone Star</a>, 1996</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=13505">Milagro beanfield war</a>, 1987</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=18436">Salt of the earth</a>, 1954</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30394">Lone Star</a>, 1996</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm13505">Milagro beanfield war</a>, 1987</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm18436">Salt of the earth</a>, 1954</li>
                   </ul>
                 </li>
 
                 <li class="lisub">American West</li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=31046">Brokeback Mountain</a>, 2005</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=3155">Broken arrow</a>, 1950</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=8232">gold rush</a>, 1925</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=12828">man who shot Liberty Valance</a>, 1962</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=14137">My darling Clementine</a>, 1946</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=18797">searchers</a>, 1956</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=19992">Stagecoach</a>, 1939</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm31046">Brokeback Mountain</a>, 2005</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm3155">Broken arrow</a>, 1950</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm8232">gold rush</a>, 1925</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm12828">man who shot Liberty Valance</a>, 1962</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm14137">My darling Clementine</a>, 1946</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm18797">searchers</a>, 1956</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm19992">Stagecoach</a>, 1939</li>
                   </ul>
                 </li>
 
                 <li class="lisub">Cinema and Hollywood</li>
                 <li>
                    <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30517">Bamboozled</a>, 2000</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=3847">Chaplin</a>, 1992</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=6249">Ed wood</a>, 1994</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=16486">Player, The</a>, 1992</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=20028">Star is born, A</a>, 1954</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=20382">Sunset boulevard</a>, 1950</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30703">Wag the dog</a>, 1997</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30517">Bamboozled</a>, 2000</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm3847">Chaplin</a>, 1992</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm6249">Ed wood</a>, 1994</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm16486">Player, The</a>, 1992</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm20028">Star is born, A</a>, 1954</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm20382">Sunset boulevard</a>, 1950</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30703">Wag the dog</a>, 1997</li>
                    </ul>
                 </li>
 
@@ -229,21 +229,21 @@
                 <li>
                    <ul>
                     <li class="lired">8 mile, 2002</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=2156">Beat street</a>, 1984</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=3044">Boyz n the hood</a>, 1991</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=3545">Car wash</a>, 1976</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=7030">Fast forward</a>, 1985</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=23266">Wild style</a>, 1983</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm2156">Beat street</a>, 1984</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm3044">Boyz n the hood</a>, 1991</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm3545">Car wash</a>, 1976</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm7030">Fast forward</a>, 1985</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm23266">Wild style</a>, 1983</li>
                    </ul>
                 </li>
 
                 <li class="lisub">Multiculturalism</li>
                 <li>
                    <ul>
-                     <li class="liref"><a href="/cinefiles/FilmDetail?filmId=24934">Crash</a>, 1996</li>
-                     <li class="liref"><a href="/cinefiles/FilmDetail?filmId=6714">Ethnic notions</a>, 1987</li>
-                     <li class="liref"><a href="/cinefiles/FilmDetail?filmId=13648">Mississippi masala</a>, 1991</li>
-                     <li class="liref"><a href="/cinefiles/FilmDetail?filmId=23076">West side story</a>, 1961</li>
+                     <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm24934">Crash</a>, 1996</li>
+                     <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm6714">Ethnic notions</a>, 1987</li>
+                     <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm13648">Mississippi masala</a>, 1991</li>
+                     <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm23076">West side story</a>, 1961</li>
                      <li class="lired">What's cooking?, 2000</li>
                    </ul>
                 </li>
@@ -251,7 +251,7 @@
                 <li class="lisub">Suburban life</li>
                 <li>
                    <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=27039">American beauty</a>, 1999</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm27039">American beauty</a>, 1999</li>
                     <li class="lired">Blue velvet, 1986</li>
                     <li class="lired">End of suburbia, The, 2004</li>
                     <li class="lired">Suburbia, 1983</li>
@@ -267,9 +267,9 @@
                 <li class="lisub">America in the 18th and 19th centuries</li>
                 <li>
                    <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=688">Age of innocence, The</a>, 1993</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=794">Alamo, The</a>, 1960</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=25578">Amistad</a>, 1997</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm688">Age of innocence, The</a>, 1993</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm794">Alamo, The</a>, 1960</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm25578">Amistad</a>, 1997</li>
                     <li class="lired">Gangs of New York, The, 2002</li>
                     <li class="lired">House of Mirth, The, 2000</li>
                    </ul>
@@ -278,14 +278,14 @@
                 <li class="lisub">America in the 1920s/1930</li>
                 <li>
                    <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=27611">Arguing the world</a>, 1998</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30229">Aviator, The</a>, 2004</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=28638">Cradle will rock</a>, 1999</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=26420">Iron horse, The</a>, 1924</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30616">Jazz</a>, 2001</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=31056">O Brother, where art thou?</a>, 2000</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=15352">Once upon a time in America</a>, 1984</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=17347">Radio days</a>, 1987</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm27611">Arguing the world</a>, 1998</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30229">Aviator, The</a>, 2004</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm28638">Cradle will rock</a>, 1999</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm26420">Iron horse, The</a>, 1924</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30616">Jazz</a>, 2001</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm31056">O Brother, where art thou?</a>, 2000</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm15352">Once upon a time in America</a>, 1984</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm17347">Radio days</a>, 1987</li>
                     <li class="lired">There will be blood, 2008</li>
                   </ul>
                 </li>
@@ -293,27 +293,27 @@
                 <li class="lisub">Civil rights movement</li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30519">4 little girls</a>, 1997</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=25254">All power to the people!: the Black Panther Party and beyond</a>, 1997</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=31152">Eyes on the prize</a>, 1987</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=7673">Freedom on my mind</a>, 1994</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=31153">Ghosts of Mississippi</a>, 1996</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30983">Mighty times: the legacy of Rosa Parks</a>, 2002</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=27090">Murder in Mississippi: secret history</a>, 1992</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=13647">Mississippi burning</a>, 1988</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=14396">Native land</a>, 1942</li>                                                                       <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30469">Selma, Lord, Selma</a>, 1999</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30519">4 little girls</a>, 1997</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm25254">All power to the people!: the Black Panther Party and beyond</a>, 1997</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm31152">Eyes on the prize</a>, 1987</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm7673">Freedom on my mind</a>, 1994</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm31153">Ghosts of Mississippi</a>, 1996</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30983">Mighty times: the legacy of Rosa Parks</a>, 2002</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm27090">Murder in Mississippi: secret history</a>, 1992</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm13647">Mississippi burning</a>, 1988</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm14396">Native land</a>, 1942</li>                                                                       <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30469">Selma, Lord, Selma</a>, 1999</li>
                   </ul>
                 </li>
 
                 <li class="lisub">Civil war and reconstruction</li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=2555">birth of a nation</a>, 1915</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=4146">Civil War, The</a>, 1990</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm2555">birth of a nation</a>, 1915</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm4146">Civil War, The</a>, 1990</li>
                     <li class="lired">Cold mountain, 2003</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=8183">Glory</a>, 1989</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=8262">Gone with the wind</a>, 1939</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=31087">Ride with the devil</a>, 1999</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm8183">Glory</a>, 1989</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm8262">Gone with the wind</a>, 1939</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm31087">Ride with the devil</a>, 1999</li>
                   </ul>
                 </li>
 
@@ -323,21 +323,21 @@
                     <li class="lired">Crucible, The, 1996</li>
                     <li class="lired">Dr. Strangelove, 1964</li>
                     <li class="lired">Good night and good luck, 2005</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=10087">Invasion of the body snatchers</a>, 1956</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=12849">Manchurian candidate</a>, 1962</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30932">Scandalize my name: Stories from the Blacklist</a>, 1998</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm10087">Invasion of the body snatchers</a>, 1956</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm12849">Manchurian candidate</a>, 1962</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30932">Scandalize my name: Stories from the Blacklist</a>, 1998</li>
                   </ul>
                 </li>
 
                 <li class="lisub">Great depression</li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=1328">Annie</a>, 1982</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=2927">Bonnie and Clyde</a>, 1967</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm1328">Annie</a>, 1982</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm2927">Bonnie and Clyde</a>, 1967</li>
                     <li class="lired">Brother can you spare a dime?, 1975</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=8405">Grapes of wrath, The</a>, 1940</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30720">Land, The</a>, 1942</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=27805">Our daily bread</a>, 1934</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm8405">Grapes of wrath, The</a>, 1940</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30720">Land, The</a>, 1942</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm27805">Our daily bread</a>, 1934</li>
                     <li class="lired">Plow that broke the earth, The, 1936</li>
                   </ul>
                 </li>
@@ -346,7 +346,7 @@
                 <li>
                   <ul>
                     <li class="lired">2001: a space odyssey, 1968</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=1400">Apollo 13</a>, 1995</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm1400">Apollo 13</a>, 1995</li>
                     <li class="lired">Right stuff, The, 1983</li>
                   </ul>
                 </li>
@@ -354,10 +354,10 @@
                 <li class="lisub">Vietnam war</li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=1398">Apocalypse now</a>, 1979</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=5302">Deer hunter, The</a>, 1978</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm1398">Apocalypse now</a>, 1979</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm5302">Deer hunter, The</a>, 1978</li>
                     <li class="lired">Full metal jacket, 1987</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=26316">In the Year of the Pig</a>, 1968</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm26316">In the Year of the Pig</a>, 1968</li>
                     <li class="lired">Weather underground, The, 2002</li>
                   </ul>
                 </li>
@@ -366,10 +366,10 @@
                 <li>
                   <ul>
                     <li class="lired">Beyond barbed wire, 1997</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=4338">Coming out under fire</a>, 1994</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=5281">December 7th</a>, 1942</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=9271">Home of the brave</a>, 1949</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=11940">Life and times of Rosie the Riveter, The</a>, 1980</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm4338">Coming out under fire</a>, 1994</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm5281">December 7th</a>, 1942</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm9271">Home of the brave</a>, 1949</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm11940">Life and times of Rosie the Riveter, The</a>, 1980</li>
                     <li class="lired">Miracle at St. Anna, 2008</li>
                   </ul>
                 </li>
@@ -390,7 +390,7 @@
                 <li class="lisub">Egypt</li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=726">Aida</a>, 1953</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm726">Aida</a>, 1953</li>
                     <li class="lired">Emigrant, The, 1994</li>
                   </ul>
                 </li>
@@ -398,8 +398,8 @@
                 <li class="lisub">Greece</li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30176">Alexander</a>, 2004</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=4165">Clash of the titans</a>, 1981</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30176">Alexander</a>, 2004</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm4165">Clash of the titans</a>, 1981</li>
                     <li class="lired">Odyssey, 1997</li>
                   </ul>
                 </li>
@@ -415,45 +415,45 @@
                 <li class="lisub">Japan</li>
                 <li>
                   <ul>
-                   <li class="liref"><a href="/cinefiles/FilmDetail?filmId=17437">Ran</a>, 1985</li>
-                  <li class="liref"><a href="/cinefiles/FilmDetail?filmId=18523">Sansho the bailiff</a>, 1954</li>
-                  <li class="liref"><a href="/cinefiles/FilmDetail?filmId=19150">Seven samurai</a>, 1954</li>
-                  <li class="liref"><a href="/cinefiles/FilmDetail?filmId=21902">Ugetsu monogatari</a>, 1953</li>
+                   <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm17437">Ran</a>, 1985</li>
+                  <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm18523">Sansho the bailiff</a>, 1954</li>
+                  <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm19150">Seven samurai</a>, 1954</li>
+                  <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm21902">Ugetsu monogatari</a>, 1953</li>
                   </ul>
                 </li>
 
                 <li class="lisub">Levant/Middle East</li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=27564">Arabian nights</a>, 1974</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=27811">Solomon and Sheba</a>, 1959</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=20882">Ten Commandments</a>, 1956</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm27564">Arabian nights</a>, 1974</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm27811">Solomon and Sheba</a>, 1959</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm20882">Ten Commandments</a>, 1956</li>
                   </ul>
                 </li>
 
                 <li class="lisub">Persia</li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30176">Alexander</a>, 2004</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=10071">Intolerance</a>, 1916</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30176">Alexander</a>, 2004</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm10071">Intolerance</a>, 1916</li>
                   </ul>
                 </li>
 
                 <li class="lisub">Pre-Columbian America</li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=28626">Atanarjuat, the fast runner</a>, 2001</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm28626">Atanarjuat, the fast runner</a>, 2001</li>
                   </ul>
                 </li>
 
                 <li class="lisub">Rome</li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=2288">Ben-Hur</a>, 1959</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=3368">Cabiria</a>, 1914</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm2288">Ben-Hur</a>, 1959</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm3368">Cabiria</a>, 1914</li>
                     <li class="lired">Julius caesar, 1953</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=7133">Satyricon</a>, 1969</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=19862">Spartacus</a>, 1960</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm7133">Satyricon</a>, 1969</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm19862">Spartacus</a>, 1960</li>
 
                   </ul>
                 </li>
@@ -465,19 +465,19 @@
               <ul>
                 <li class="lisub"></li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=932">Alphaville</a>, 1965</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=1373">Antonio Gaudí</a>, 1984</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=1480">L'argent</a>, 1983</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=24448">Cabinet of Dr. Caligari, The</a>, 1920</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=4925">Da hong deng long gao gao gua (Raise the red lantern)</a>, 1991</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=27797">Fountainhead, The</a>, 1949</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm932">Alphaville</a>, 1965</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm1373">Antonio Gaudí</a>, 1984</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm1480">L'argent</a>, 1983</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm24448">Cabinet of Dr. Caligari, The</a>, 1920</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm4925">Da hong deng long gao gao gua (Raise the red lantern)</a>, 1991</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm27797">Fountainhead, The</a>, 1949</li>
                     <li class="lired">Gangs of New York, 2002</li>
                     <li class="lired">Judou, 1989</li>
                     <li class="lired">Man with a movie camera, The, 1929</li>
                     <li class="lired">Manhattan, 1921</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=13405">Metropolis</a>, 1926</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm13405">Metropolis</a>, 1926</li>
                     <li class="lired">Playtime, 1973</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=21340">Tokyo Story</a>, 1953</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm21340">Tokyo Story</a>, 1953</li>
                   </ul>
                 </li>
               </ul>
@@ -489,13 +489,13 @@
                 <li class="lisub">Artists</li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=24829">Agony and the ecstasy</a>, 1965</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm24829">Agony and the ecstasy</a>, 1965</li>
                     <li class="lired">Andrei Rubelev, 1966</li>
                     <li class="lired">Artimesia, 1997</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=31150">Basquiat</a>, 1996</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm31150">Basquiat</a>, 1996</li>
                     <li class="lired">Caravaggio, 1986</li>
                     <li class="lired">Frida, 2002</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=27009">Montparnasse 19</a>, 1958</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm27009">Montparnasse 19</a>, 1958</li>
                     <li class="lired">Moulin Rouge, 2001</li>
                   </ul>
                 </li>
@@ -503,7 +503,7 @@
                 <li class="lisub">Artistic process</li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=2266">Belle noiseuse, La</a>, 1991</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm2266">Belle noiseuse, La</a>, 1991</li>
                     <li class="lired">Rivers and Tides, 2001</li>
                   </ul>
                 </li>
@@ -511,22 +511,22 @@
                 <li class="lisub">Constructivist films</li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=28">Aelita</a>, 1924</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm28">Aelita</a>, 1924</li>
                   </ul>
                 </li>
 
                 <li class="lisub">Dada/Surrealist films</li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=231">âge d'or</a>, 190</li>
-                     <li class="liref"><a href="/cinefiles/FilmDetail?filmId=1204">Anemic cinema</a>, 1926</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm231">âge d'or</a>, 190</li>
+                     <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm1204">Anemic cinema</a>, 1926</li>
                   </ul>
                 </li>
 
                 <li class="lisub">Expressionist films</li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=24448">Cabinet of Dr. Caligari, The</a>, 1920</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm24448">Cabinet of Dr. Caligari, The</a>, 1920</li>
                   </ul>
                 </li>
 
@@ -534,7 +534,7 @@
                 <li>
                   <ul>
                     <li class="lired">Dreams, 1981</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30625">Guernica</a>, 1950</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30625">Guernica</a>, 1950</li>
                     <li class="lired">Louvre city, 1990</li>
                   </ul>
                 </li>
@@ -547,19 +547,19 @@
                 <li class="lisub">Discrimination</li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30737">Dollar a day, ten cents a dance</a>, 1984</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=23190">Who killed Vincent Chin?</a>, 1987</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30737">Dollar a day, ten cents a dance</a>, 1984</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm23190">Who killed Vincent Chin?</a>, 1987</li>
                   </ul>
                 </li>
 
                 <li class="lisub">Immigration and assimilation</li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=10632">Joy luck club, The</a>, 1993</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=13648">Mississippi masala</a>, 1991</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30954">Namesake, The</a>, 2006</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm10632">Joy luck club, The</a>, 1993</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm13648">Mississippi masala</a>, 1991</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30954">Namesake, The</a>, 2006</li>
                     <li class="lired">Pushing hands (Tui shou), 1992</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=31066">Wedding banquet, The (Xi yan)</a>, 1993</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm31066">Wedding banquet, The (Xi yan)</a>, 1993</li>
                   </ul>
                 </li>
 
@@ -567,26 +567,26 @@
                 <li>
                   <ul>
                     <li class="lired">Beyond barbed wire, 1997</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=3822">Chan is missing</a>, 1982</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=20426">Surnam Viet given name Nam</a>, 1989</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm3822">Chan is missing</a>, 1982</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm20426">Surnam Viet given name Nam</a>, 1989</li>
                   </ul>
                 </li>
 
                 <li class="lisub">Japanese internment</li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30555">Days of waiting</a>, 1990</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=22029">Unfinished business</a>, 1986</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30555">Days of waiting</a>, 1990</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm22029">Unfinished business</a>, 1986</li>
                   </ul>
                 </li>
 
                 <li class="lisub">Race and representation</li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=24507">a.k.a. Don Bonus</a>, 1995</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm24507">a.k.a. Don Bonus</a>, 1995</li>
                     <li class="lired">Grace Lee project, The, 2005</li>
                     <li class="lired">Slaying the dragon, 1988</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=23190">Who killed Vincent Chin?</a>, 1987</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm23190">Who killed Vincent Chin?</a>, 1987</li>
                   </ul>
                 </li>
               </ul>
@@ -598,14 +598,14 @@
                 <li class="lisub"></li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30606">Birdman of Alcatraz</a>, 1962</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=3822">Chan is missing</a>, 1982</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30737">Dollar a day, ten cents a dance</a>, 1984</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=10632">Joy Luck Club</a>, 1993</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30606">Birdman of Alcatraz</a>, 1962</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm3822">Chan is missing</a>, 1982</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30737">Dollar a day, ten cents a dance</a>, 1984</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm10632">Joy Luck Club</a>, 1993</li>
                     <li class="lired">Maltese falcon, 1941</li>
                     <li class="lired">Medicine for melancholy, 2008</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30543">Sucker Free City</a>, 2004</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=22439">Vertigo</a>, 1958</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30543">Sucker Free City</a>, 2004</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm22439">Vertigo</a>, 1958</li>
                   </ul>
                 </li>
               </ul>
@@ -617,13 +617,13 @@
                 <li class="lisub">Africa</li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=2121">Battle of Algiers, The</a>, 1966</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30960">Black girl</a>, 1966</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=3467">Camp at Thiaroye</a>, 1987</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=27654">Four feathers, The</a>, 1939</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=16248">Little Soldier</a>, 1962</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=11707">Lawrence of Arabia</a>, 1962</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30829">Lumumba</a>, 2000</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm2121">Battle of Algiers, The</a>, 1966</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30960">Black girl</a>, 1966</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm3467">Camp at Thiaroye</a>, 1987</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm27654">Four feathers, The</a>, 1939</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm16248">Little Soldier</a>, 1962</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm11707">Lawrence of Arabia</a>, 1962</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30829">Lumumba</a>, 2000</li>
                   </ul>
                 </li>
 
@@ -639,26 +639,26 @@
                 <li>
                   <ul>
                     <li class="lired">Once upon a time in China, 1991</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=26355">Street angel</a>, 1927</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm26355">Street angel</a>, 1927</li>
                   </ul>
                 </li>
 
                 <li class="lisub">India</li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=2614">Black narcissus</a>, 1947</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30966">Earth</a>, 1998</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm2614">Black narcissus</a>, 1947</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30966">Earth</a>, 1998</li>
                     <li class="lired">Gandhi, 1982</li>
                     <li class="liref">Lagaan: once upon a time in India, 2001</li>
                     <li class="lired">Passage to India, A, 1977</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=19118">Shatranj ke khilari</a>, 1977</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm19118">Shatranj ke khilari</a>, 1977</li>
                   </ul>
                 </li>
 
                 <li class="lisub">Latin America/Caribbean</li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=29427">Como era gostosoo meu francês (How tasty was my little frecman<</a>, 1971</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm29427">Como era gostosoo meu francês (How tasty was my little frecman<</a>, 1971</li>
                     <li class="lired">Queimada! (Burn!), 2002</li>
                     <li class="lired">Ultima cena, La (The last supper), 1976</li>
                   </ul>
@@ -669,7 +669,7 @@
                   <ul>
                     <li class="lired">Amant, 1992</li>
                     <li class="lired">Indochine, 1992</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=12526">Perfumed nightmare</a>, 1977</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm12526">Perfumed nightmare</a>, 1977</li>
                   </ul>
                 </li>
               </ul>
@@ -681,10 +681,10 @@
                 <li class="lisub"></li>
                   <ul>
                     <li class="lired">Blue, 1993</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30753">Dance me to my song</a>, 1998</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30753">Dance me to my song</a>, 1998</li>
                     <li class="lired">Every little thing, 1997</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=10558">Johnny got his gun</a>, 1971</li>
-                     <li class="liref"><a href="/cinefiles/FilmDetail?filmId=14161">My left foot</a>, 1989</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm10558">Johnny got his gun</a>, 1971</li>
+                     <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm14161">My left foot</a>, 1989</li>
                     <li class="lired">Papillon et le schapandre, Le (The diving bell and the butterfly), 2007</li>
                   </ul>
                 </li>
@@ -718,19 +718,19 @@
                     <li class="lired">Bamako, 2006</li>
                     <li class="lired">John and Jane, 2006</li>
                     <li class="lired">Life and debt, 2001</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30830">Profit and nothing but! Or impolite thoughts on the class struggle</a>, 2001</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30830">Profit and nothing but! Or impolite thoughts on the class struggle</a>, 2001</li>
                   </ul>
                 </li>
 
                 <li class="lisub">Labor/Trade unions</li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=1036">American dream</a>, 1990</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm1036">American dream</a>, 1990</li>
                     <li class="lired">Harvest of shame, 1960</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=11940">Life and times of Rosie the Riveter, The</a>, 1980</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=13118">Matewan</a>, 1987</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=15335">On the waterfront</a>, 1954</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=18436">Salt of the earth</a>, 1954</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm11940">Life and times of Rosie the Riveter, The</a>, 1980</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm13118">Matewan</a>, 1987</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm15335">On the waterfront</a>, 1954</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm18436">Salt of the earth</a>, 1954</li>
                     <li class="lired">Waging a living, 2004</li>
                   </ul>
                 </li>
@@ -743,9 +743,9 @@
                 <li class="lisub">Agriculture</li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=4515">Corner in wheat, A</a>, 1909</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm4515">Corner in wheat, A</a>, 1909</li>
                     <li class="lired">Fast food nation, 2006</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30692">Gleaners and I, The</a>, 2000</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30692">Gleaners and I, The</a>, 2000</li>
                     <li class="lired">King corn, 2007</li>
                     <li class="lired">Plow that broke the earth, The, 1936</li>
                   </ul>
@@ -774,14 +774,14 @@
                     <li class="lired">11th hour, The, 2007</li>
                     <li class="lired">Cadillac desert, 1997</li>
                     <li class="lired">Darwin's nightmare, 2004</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=27516">Kaze no tani no Nausicaä</a>, 1984</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm27516">Kaze no tani no Nausicaä</a>, 1984</li>
                   </ul>
                 </li>
 
                 <li class="lisub">Nature and biodiversity</li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=25026">Microcosmos</a>, 1996</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm25026">Microcosmos</a>, 1996</li>
                     <li class="lired">Peuple migrateur, Le (Winged migration), 2001</li>
                   </ul>
                 </li>
@@ -790,7 +790,7 @@
                 <li>
                   <ul>
                     <li class="lired">Last Days of Pompeii, 1975</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30546">When the leeves broke</a>, 2006</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30546">When the leeves broke</a>, 2006</li>
                   </ul>
                 </li>
 
@@ -807,7 +807,7 @@
                 <li class="lisub">Water and waterways</li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=3987">Chinatown</a>, 1974</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm3987">Chinatown</a>, 1974</li>
                     <li class="lired">Flow for love of water, 2008</li>
                     <li class="lired">Up the Yangtze, 2007</li>
                   </ul>
@@ -821,10 +821,10 @@
                 <li class="lisub">Border issues</li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30803">From the other side (De l'autre côté)</a>, 2002</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30394">Lone Star</a>, 1996</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30602">Senorita extraviada</a>, 2001</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=21439">Touch of evil</a>, 1958</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30803">From the other side (De l'autre côté)</a>, 2002</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30394">Lone Star</a>, 1996</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30602">Senorita extraviada</a>, 2001</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm21439">Touch of evil</a>, 1958</li>
                   </ul>
                 </li>
 
@@ -832,14 +832,14 @@
                 <li>
                   <ul>
                     <li class="lired">Before night falls, 2000</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=16159">Perez family</a>, 1995</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm16159">Perez family</a>, 1995</li>
                   </ul>
                 </li>
 
                 <li class="lisub">Issues in immigration</li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=24873">Alambrista!</a>, 1978</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm24873">Alambrista!</a>, 1978</li>
                     <li class="lired">Day without a Mexican, A, 2004</li>
                     <li class="lired">Farmingville, 2004</li>
                     <li class="lired">Norte, El, 1983</li>
@@ -850,25 +850,25 @@
                 <li>
                   <ul>
                     <li class="lired">Bronze screen, The, 2002</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30597">Young savages, The</a>, 1961</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30597">Young savages, The</a>, 1961</li>
                   </ul>
                 </li>
 
                 <li class="lisub">Mexican experience</li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30600">Corpus: a home movie for Selena</a>, 1999</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30600">Corpus: a home movie for Selena</a>, 1999</li>
                     <li class="lired">Lemon grove incident, The, 1985</li>
                     <li class="lired">Zoot suit, 1981</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=18436">Salt of the earth</a>, 1954</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm18436">Salt of the earth</a>, 1954</li>
                   </ul>
                 </li>
 
                 <li class="lisub">MIgrant workers</li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=4045">Chulas fronteras</a>, 1976</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=410">And the earth did not swallow him</a>, 1994</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm4045">Chulas fronteras</a>, 1976</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm410">And the earth did not swallow him</a>, 1994</li>
                   </ul>
                 </li>
 
@@ -876,7 +876,7 @@
                 <li>
                   <ul>
                     <li class="lired">Popi, 1969</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=23076">West Side story</a>, 1961</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm23076">West Side story</a>, 1961</li>
                   </ul>
                 </li>
               </ul>
@@ -888,10 +888,10 @@
                 <li class="lisub">Contemporary issues in immigration</li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=24873">Alambrista!</a>, 1978</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm24873">Alambrista!</a>, 1978</li>
                     <li class="lired">Day without a Mexican, A, 2004</li>
                     <li class="lired">Farmingville, 2004</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=14912">Norte, El</a>, 1983</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm14912">Norte, El</a>, 1983</li>
                     <li class="lired">Visitor, The, 2007</li>
                   </ul>
                 </li>
@@ -900,16 +900,16 @@
                 <li>
                   <ul>
                     <li class="lired">Gangs of New York, The, 2002</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=23076">West side story</a>, 1961</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm23076">West side story</a>, 1961</li>
                   </ul>
                 </li>
 
                 <li class="lisub">Immigration and assimilation</li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=1021">America, America</a>, 1963</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=10632">Joy luck club, The</a>, 1993</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30954">Namesake, The</a>, 2006</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm1021">America, America</a>, 1963</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm10632">Joy luck club, The</a>, 1993</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30954">Namesake, The</a>, 2006</li>
                     <li class="lired">Pushing hands (Tui shou), 1992</li>
                     <li class="lired">What's cooking?, 2000</li>
                   </ul>
@@ -923,14 +923,14 @@
                 <li class="lisub"></li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30130">Agronomist, The</a>, 2003</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=876">All the president's men</a>, 1976</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30705">Control room</a>, 2004</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=9129">His girl Friday</a>, 1940</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30130">Agronomist, The</a>, 2003</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm876">All the president's men</a>, 1976</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30705">Control room</a>, 2004</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm9129">His girl Friday</a>, 1940</li>
                     <li class="lired">Stranger with a camera, 2000</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=22329">Veillées d'armes</a>, 1994</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30703">Wag the dog</a>, 1997</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=22919">War room, The</a>, 1993</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm22329">Veillées d'armes</a>, 1994</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30703">Wag the dog</a>, 1997</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm22919">War room, The</a>, 1993</li>
                   </ul>
                 </li>
               </ul>
@@ -942,11 +942,11 @@
                 <li class="lisub">Coming out</li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=31046">Brokeback Mountain</a>, 2005</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=4338">Coming out under fire</a>, 1994</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30968">Fire</a>, 1996</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=31066">Wedding banquet, The (Xi yan)</a>, 1993</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=31139">Word is out</a>, 1977</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm31046">Brokeback Mountain</a>, 2005</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm4338">Coming out under fire</a>, 1994</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30968">Fire</a>, 1996</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm31066">Wedding banquet, The (Xi yan)</a>, 1993</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm31139">Word is out</a>, 1977</li>
                   </ul>
                 </li>
 
@@ -954,26 +954,26 @@
                 <li>
                   <ul>
                     <li class="lired">Jihad for love, A, 2008</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=21372">Tongues untied</a>, 1989</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=31100">Milk</a>, 2008</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm21372">Tongues untied</a>, 1989</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm31100">Milk</a>, 2008</li>
                   </ul>
                 </li>
 
                 <li class="lisub">HIV/AIDS</li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=24839">AIDS show, the: artists involved with death and survival</a>, 1986</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=1181">And the band played on</a>, 1993</li>
-                     <li class="liref"><a href="/cinefiles/FilmDetail?filmId=2814">Blue</a>, 1993</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=12093">Living end, The</a>, 1992</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm24839">AIDS show, the: artists involved with death and survival</a>, 1986</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm1181">And the band played on</a>, 1993</li>
+                     <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm2814">Blue</a>, 1993</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm12093">Living end, The</a>, 1992</li>
                   </ul>
                 </li>
 
                 <li class="lisub">Queer culture</li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=625">Adventures of Priscilla, queen of the desert, The</a>, 1994</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=8187">Go fish</a>, 1994</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm625">Adventures of Priscilla, queen of the desert, The</a>, 1994</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm8187">Go fish</a>, 1994</li>
                     <li class="lired">Paris is burning, 1990</li>
                   </ul>
                 </li>
@@ -986,19 +986,19 @@
                 <li class="lisub"></li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30519">4 little girls</a>, 1997</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=25578">Amistad</a>, 1997</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=1172">Anatomy of a murder</a>, 1959</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=3092">Breaker morant</a>, 1980</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30519">4 little girls</a>, 1997</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm25578">Amistad</a>, 1997</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm1172">Anatomy of a murder</a>, 1959</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm3092">Breaker morant</a>, 1980</li>
                     <li class="lired">Corporation, The, 2003</li>
                     <li class="lired">Darwin's nightmare, 2004</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30659">Fahrenheit 9/11</a>, 2004</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30394">Lone Star</a>, 1996</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30751">Sisters in law</a>, 2005</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=21075">Thin blue line, The</a>, 1988</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30659">Fahrenheit 9/11</a>, 2004</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30394">Lone Star</a>, 1996</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30751">Sisters in law</a>, 2005</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm21075">Thin blue line, The</a>, 1988</li>
                     <li class="lired">To kill a mockingbird, 1962</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30982">Unprecedented: the 2000 presidential elections</a>, 1958</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=23376">Witness for the prosecution</a>, 1958</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30982">Unprecedented: the 2000 presidential elections</a>, 1958</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm23376">Witness for the prosecution</a>, 1958</li>
                   </ul>
                 </li>
               </ul>
@@ -1010,12 +1010,12 @@
                 <li class="lisub"></li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=29597">Adaptation</a>, 2002</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm29597">Adaptation</a>, 2002</li>
                     <li class="lired">Being John Malkovich, 1999</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30393">Limbo</a>, 1999</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=17456">Rashomon</a>, 1950</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=31000">Memento</a>, 2000</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=17122">Pulp fiction</a>, 1994</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30393">Limbo</a>, 1999</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm17456">Rashomon</a>, 1950</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm31000">Memento</a>, 2000</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm17122">Pulp fiction</a>, 1994</li>
                   </ul>
                 </li>
               </ul>
@@ -1027,27 +1027,27 @@
                 <li class="lisub">Contemporary issues</li>
                 <li>
                   <ul>
-                     <li class="liref"><a href="/cinefiles/FilmDetail?filmId=27082">Annie Mae: brave hearted woman</a>, 1979</li>
-                     <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30970">Billy Jack</a>, 1971</li>
-                     <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30972">Smoke signals</a>, 1998</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=22289">Vanishing American, The</a>, 1925</li>
+                     <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm27082">Annie Mae: brave hearted woman</a>, 1979</li>
+                     <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30970">Billy Jack</a>, 1971</li>
+                     <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30972">Smoke signals</a>, 1998</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm22289">Vanishing American, The</a>, 1925</li>
                   </ul>
                 </li>
 
                 <li class="lisub">Encounter with Europeans/Americans</li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=705">Aguirre, the wrath of God</a>, 1972</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=3155">Broken arrow</a>, 1950</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=3226">Buffalo Bill and the indians</a>, 1976</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=3916">Cheyenne autumn</a>, 1964</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=5002">Dances With Wolves</a>, 1990</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=26435">Drums along the Mohawk</a>, 1939</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=26420">Iron horse, The</a>, 1924</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=12049">Little Big Man</a>, 1970</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm705">Aguirre, the wrath of God</a>, 1972</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm3155">Broken arrow</a>, 1950</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm3226">Buffalo Bill and the indians</a>, 1976</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm3916">Cheyenne autumn</a>, 1964</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm5002">Dances With Wolves</a>, 1990</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm26435">Drums along the Mohawk</a>, 1939</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm26420">Iron horse, The</a>, 1924</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm12049">Little Big Man</a>, 1970</li>
                     <li class="lired">New world, The, 1986</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=18797">Searchers, The</a>, 1956</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=19667">Soldier blue</a>, 1970</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm18797">Searchers, The</a>, 1956</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm19667">Soldier blue</a>, 1970</li>
                   </ul>
                 </li>
               </ul>
@@ -1060,34 +1060,34 @@
                 <li>
                   <ul>
                      <li class="lired">Election day, 2008</li>
-                     <li class="liref"><a href="/cinefiles/FilmDetail?filmId=16899">Primary</a>, 1960</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30982">Unprecedented: the 2000 presidential elections</a>, 1958</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=22919">war room</a>, 1993</li>
+                     <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm16899">Primary</a>, 1960</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30982">Unprecedented: the 2000 presidential elections</a>, 1958</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm22919">war room</a>, 1993</li>
                   </ul>
                 </li>
 
                 <li class="lisub">Media and politics</li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=876">All the president's men</a>, 1976</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm876">All the president's men</a>, 1976</li>
                     <li class="lired">Buena Vista Social Club, 1999</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30705">Control room</a>, 2004</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=15304">On company business</a>, 1980</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30705">Control room</a>, 2004</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm15304">On company business</a>, 1980</li>
                     <li class="lired">Revolution will not be televised, Thes, 2003</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=22329">Veillées d'armes</a>, 1994</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30703">Wag the dog</a>, 1997</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm22329">Veillées d'armes</a>, 1994</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30703">Wag the dog</a>, 1997</li>
                   </ul>
                 </li>
 
                 <li class="lisub">Propoganda</li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=1632">Atomic Cafe, The</a>, 1982</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=31">Battleship Potemkin (Bronenosets Potemkin)</a>, 1925</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=6901">Fahrenheit 451</a>, 1966</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=11205">Know your enemy: Japan</a>, 1945</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=24225">Mr. Smith goes to Washington</a>, 1939</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=22913">War game, The</a>, 1966</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm1632">Atomic Cafe, The</a>, 1982</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm31">Battleship Potemkin (Bronenosets Potemkin)</a>, 1925</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm6901">Fahrenheit 451</a>, 1966</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm11205">Know your enemy: Japan</a>, 1945</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm24225">Mr. Smith goes to Washington</a>, 1939</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm22913">War game, The</a>, 1966</li>
                   </ul>
                 </li>
               </ul>
@@ -1099,17 +1099,17 @@
                 <li class="lisub"></li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=28418">A.I.</a>, 2001</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=1786">Awakenings</a>, 1990</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=104">Dracula</a>, 1931</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=9735">Ikiru</a>, 1952</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=31000">Memento</a>, 2000</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm28418">A.I.</a>, 2001</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm1786">Awakenings</a>, 1990</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm104">Dracula</a>, 1931</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm9735">Ikiru</a>, 1952</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm31000">Memento</a>, 2000</li>
                     <li class="lired">One flew over the cuckoo's nest, 1975</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=16205">Persona</a>, 1966</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=18822">Seconds</a>, 1966</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=7948">Secrets of a soule (Geheimnisse einerseele)</a>, 1926</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=19177">Shock corridor</a>, 1963</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=19596">Snake pit, The</a>, 1948</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm16205">Persona</a>, 1966</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm18822">Seconds</a>, 1966</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm7948">Secrets of a soule (Geheimnisse einerseele)</a>, 1926</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm19177">Shock corridor</a>, 1963</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm19596">Snake pit, The</a>, 1948</li>
                   </ul>
                 </li>
               </ul>
@@ -1123,7 +1123,7 @@
                   <ul>
                     <li class="lired">Cry freedom, 1987</li>
                     <li class="lired">Long night's journey into day, 2000</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=25022">Making of the Mahatma, The</a>, 1996</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm25022">Making of the Mahatma, The</a>, 1996</li>
                   </ul>
                 </li>
 
@@ -1131,7 +1131,7 @@
                 <li>
                   <ul>
                     <li class="lired">Jihad for love, A, 2008</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=31100">Milk</a>, 2008</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm31100">Milk</a>, 2008</li>
                     <li class="lired">Tongues untied, 1989</li>
                   </ul>
                 </li>
@@ -1139,14 +1139,14 @@
                 <li class="lisub">Greece</li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=23987">Z</a>, 1969</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm23987">Z</a>, 1969</li>
                   </ul>
                 </li>
 
                 <li class="lisub">India</li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=7877">Gandhi</a>, 1982</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm7877">Gandhi</a>, 1982</li>
                     <li class="lired">Legend of Bhagat Singh, The, 2002</li>
                     <li class="lired">Rang de basanti, 2006</li>
                   </ul>
@@ -1165,17 +1165,17 @@
                 <li>
                   <ul>
                     <li class="lired">Battle of Chile: part 1, The (Batalla de Chile: primera parte), 1975</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=12616">Mothers of the plaza de mayo (Madres de la Plaza de Mayo)</a>, 1986</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm12616">Mothers of the plaza de mayo (Madres de la Plaza de Mayo)</a>, 1986</li>
                   </ul>
                 </li>
 
                 <li class="lisub">Non-violent resistance</li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=25254">All power to the people!: the Black Panther Party and beyond</a>, 1997</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=31152">Eyes on the prize</a>, 1987</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=7877">Gandhi</a>, 1982</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30983">Mighty times: the legacy of Rosa Parks</a>, 2002</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm25254">All power to the people!: the Black Panther Party and beyond</a>, 1997</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm31152">Eyes on the prize</a>, 1987</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm7877">Gandhi</a>, 1982</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30983">Mighty times: the legacy of Rosa Parks</a>, 2002</li>
                     <li class="lired">Yes men, The, 2003</li>
                   </ul>
                 </li>
@@ -1183,8 +1183,8 @@
                 <li class="lisub">Violent resistance</li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=25254">All power to the people!: the Black Panther Party and beyond</a>, 1997</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=2121">Battle of Algiers, The</a>, 1966</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm25254">All power to the people!: the Black Panther Party and beyond</a>, 1997</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm2121">Battle of Algiers, The</a>, 1966</li>
                     <li class="lired">Weather underground, The, 2002</li>
                   </ul>
                 </li>
@@ -1192,15 +1192,15 @@
                 <li class="lisub">Womens's rights</li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30743">Divorce Iranian style</a>, 1998</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30743">Divorce Iranian style</a>, 1998</li>
                     <li class="lired">Earth, 2007</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30968">Fire</a>, 1996</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30968">Fire</a>, 1996</li>
                     <li class="lired">Life and debt, 2001</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=11940">Life and times of Rosie the Riveter, The</a>, 1980</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=12616">Mothers of the Plaza de Mayo, The (Madres de la Plaza de Mayo)</a>, 1986</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30963">Moolaadé</a>, 2004</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=18417">Salaam Bombay!</a>, 1988</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30751">Sisters in law</a>, 2005</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm11940">Life and times of Rosie the Riveter, The</a>, 1980</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm12616">Mothers of the Plaza de Mayo, The (Madres de la Plaza de Mayo)</a>, 1986</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30963">Moolaadé</a>, 2004</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm18417">Salaam Bombay!</a>, 1988</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30751">Sisters in law</a>, 2005</li>
                   </ul>
                 </li>
               </ul>
@@ -1212,25 +1212,25 @@
                 <li class="lisub">Gun violence</li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30657">Bowling for Columbine</a>, 2002</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30929">Elephant</a>, 2003</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30657">Bowling for Columbine</a>, 2002</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30929">Elephant</a>, 2003</li>
                   </ul>
                 </li>
 
                 <li class="lisub">Health/Healthcare</li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=9384">Hospital</a>, 1970</li>
-                   <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30661">Sicko</a>, 2007</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm9384">Hospital</a>, 1970</li>
+                   <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30661">Sicko</a>, 2007</li>
                    <li class="lired">Super size me, 2004</li>
-                   <li class="liref"><a href="/cinefiles/FilmDetail?filmId=21275">Titicut follies</a>, 1967</li>
+                   <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm21275">Titicut follies</a>, 1967</li>
                   </ul>
                 </li>
 
                 <li class="lisub">Immigration</li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=24873">Alambrista!</a>, 1978</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm24873">Alambrista!</a>, 1978</li>
                     <li class="lired">Farmingville, 2004</li>
                   </ul>
                 </li>
@@ -1238,19 +1238,19 @@
                 <li class="lisub">Racism</li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=5742">Do the right thing</a>, 1989</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=14819">No way out</a>, 1950</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=21293">To kill a mockingbird</a>, 1962</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=21372">Tongues untied</a>, 1989</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=23190">Who killed Vincent Chin?</a>, 1987</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm5742">Do the right thing</a>, 1989</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm14819">No way out</a>, 1950</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm21293">To kill a mockingbird</a>, 1962</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm21372">Tongues untied</a>, 1989</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm23190">Who killed Vincent Chin?</a>, 1987</li>
                   </ul>
                 </li>
 
                 <li class="lisub">Prisons</li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30545">25th hour</a>, 2002</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=1648">Attica</a>, 1974</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30545">25th hour</a>, 2002</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm1648">Attica</a>, 1974</li>
                     <li class="lired">Road to Guantanamo, The, 2006</li>
                   </ul>
                 </li>
@@ -1266,8 +1266,8 @@
                 <li class="lisub">War on terror</li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30705">Control room</a>, 2004</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30659">Fahrenheit 9/11</a>, 2004</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30705">Control room</a>, 2004</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30659">Fahrenheit 9/11</a>, 2004</li>
                     <li class="lired">In the valley of Elah, 2007</li>
                     <li class="lired">Road to Guantanamo, The, 2006</li>
                   </ul>
@@ -1281,7 +1281,7 @@
                 <li class="lisub">Africa</li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30321">All about Darfur</a>, 2005</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30321">All about Darfur</a>, 2005</li>
                     <li class="lired">Hotel Rwanda, 2004</li>
                     <li class="lired">War dance, 2007</li>
                   </ul>
@@ -1290,9 +1290,9 @@
                 <li class="lisub">Cold war</li>
                 <li>
                   <ul>
-                     <li class="liref"><a href="/cinefiles/FilmDetail?filmId=1632">Atomic Cafe, The</a>, 1982</li>
-                     <li class="liref"><a href="/cinefiles/FilmDetail?filmId=28280">Shane</a>, 1953</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=19961">Spy who came infrom the cold, The</a>, 1965</li>
+                     <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm1632">Atomic Cafe, The</a>, 1982</li>
+                     <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm28280">Shane</a>, 1953</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm19961">Spy who came infrom the cold, The</a>, 1965</li>
                   </ul>
                 </li>
 
@@ -1300,7 +1300,7 @@
                 <li>
                   <ul>
                     <li class="lired">Back to Babylon, 2002</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=11773">Lessons of darkness (Lektionen in finsternis)</a>, 1992</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm11773">Lessons of darkness (Lektionen in finsternis)</a>, 1992</li>
                     <li class="lired">Three kings, 1999</li>
                   </ul>
                 </li>
@@ -1308,8 +1308,8 @@
                 <li class="lisub">Iraq war</li>
                 <li>
                   <ul>
-                     <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30172">Army of one</a>, 2003</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30705">Control room</a>, 2004</li>
+                     <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30172">Army of one</a>, 2003</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30705">Control room</a>, 2004</li>
                     <li class="lired">Iraq in fragments, 2006</li>
                   </ul>
                 </li>
@@ -1317,7 +1317,7 @@
                 <li class="lisub">India/Pakistan</li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30966">Earth</a>, 1998</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30966">Earth</a>, 1998</li>
                     <li class="lired">Father, son and holy war, 2006</li>
                   </ul>
                 </li>
@@ -1334,18 +1334,18 @@
                 <li class="lisub">Korean war</li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=12445">MASH</a>, 1969</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm12445">MASH</a>, 1969</li>
                   </ul>
                 </li>
 
                 <li class="lisub">Vietnam war</li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=1398">Apocalypse now</a>, 1979</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=30563">Dear America: letters home from Vietnam</a>, 1987</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=5302">Deer hunter, The</a>, 1978</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=7785">Full metal jacket</a>, 1987</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=26316">In the Year of the Pig</a>, 1968</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm1398">Apocalypse now</a>, 1979</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm30563">Dear America: letters home from Vietnam</a>, 1987</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm5302">Deer hunter, The</a>, 1978</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm7785">Full metal jacket</a>, 1987</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm26316">In the Year of the Pig</a>, 1968</li>
                     <li class="lired">Weather underground, The, 2002</li>
                   </ul>
                 </li>
@@ -1353,8 +1353,8 @@
                 <li class="lisub">World war I</li>
                 <li>
                   <ul>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=871">All quiet on the western front</a>, 1930</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=11707">Lawrence of Arabia</a>, 1962</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm871">All quiet on the western front</a>, 1930</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm11707">Lawrence of Arabia</a>, 1962</li>
                     <li class="lired">Paths of glory, 1957</li>
                     <li class="lired">War requiem,1988</li>
                   </ul>
@@ -1364,10 +1364,10 @@
                 <li>
                   <ul>
                     <li class="lired">Beyond barbed wire, 1997</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=11435">Black rain (Kuroi ame)</a>, 1989</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=4338">Coming out under fire</a>, 1994</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=5281">December 7th</a>, 1942</li>
-                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=9271">Home of the brave</a>, 1949</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm11435">Black rain (Kuroi ame)</a>, 1989</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm4338">Coming out under fire</a>, 1994</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm5281">December 7th</a>, 1942</li>
+                    <li class="liref"><a href="/cinefiles/FilmDetail?filmId=pfafilm9271">Home of the brave</a>, 1949</li>
                     <li class="lired">Saving private Ryan, 1998</li>
                     <li class="lired">Thin red line, The, 1998</li>
                   </ul>
