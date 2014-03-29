@@ -114,5 +114,5 @@ ordered as if the number in the title was spelled out( i.e. 7 = "seven" ).
 </div>
 
 <div id='browsePane' name='browsePane'>
-  <jsp:include page="browsetitleAlist.jspf" />
+  <jsp:include page="/include/browsetitleAlist.jspf" />
 </div>

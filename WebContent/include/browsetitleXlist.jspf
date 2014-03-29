@@ -2,46 +2,46 @@
         <table id='browseTable' name='browseTable'>
           <tr>
             <td>
-              <a href='/cinefiles/FilmDetail?filmId=23505'>
+              <a href='/cinefiles/FilmDetail?filmId=pfafilm23505'>
                  Xala
               </a>
             </td>
             <td>
-              <a href='/cinefiles/FilmDetail?filmId=23996'>
+              <a href='/cinefiles/FilmDetail?filmId=pfafilm23996'>
                  Xian sheng gui xing (????)
               </a>
             </td>
             <td>
-              <a href='/cinefiles/FilmDetail?filmId=23517'>
+              <a href='/cinefiles/FilmDetail?filmId=pfafilm23517'>
                  Xica da Silva
               </a>
             </td>
           </tr>
           <tr>
             <td>
-              <a href='/cinefiles/FilmDetail?filmId=27281'>
+              <a href='/cinefiles/FilmDetail?filmId=pfafilm27281'>
                  Xi nu ai le
               </a>
             </td>
             <td>
-              <a href='/cinefiles/FilmDetail?filmId=23514'>
+              <a href='/cinefiles/FilmDetail?filmId=pfafilm23514'>
                  Xiangnu xiao-xiao
               </a>
             </td>
             <td>
-              <a href='/cinefiles/FilmDetail?filmId=30347'>
+              <a href='/cinefiles/FilmDetail?filmId=pfafilm30347'>
                  Xingfu shiguang
               </a>
             </td>
           </tr>
           <tr>
             <td>
-              <a href='/cinefiles/FilmDetail?filmId=31066'>
+              <a href='/cinefiles/FilmDetail?filmId=pfafilm31066'>
                  Xi yan
               </a>
             </td>
             <td>
-              <a href='/cinefiles/FilmDetail?filmId=29624'>
+              <a href='/cinefiles/FilmDetail?filmId=pfafilm29624'>
                  Xiaoao jiang hu
               </a>
             </td>

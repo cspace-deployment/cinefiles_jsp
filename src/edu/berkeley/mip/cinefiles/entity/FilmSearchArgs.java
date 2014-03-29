@@ -9,7 +9,8 @@ public class FilmSearchArgs
 {
   protected int queryType = 0;
   protected int lang_id = 0;
-  protected int name_id = 0;
+//  protected int name_id = 0;
+  protected String name_id = null;
  // protected int genre_id = 0;
   protected String genre_id = null;
   protected int firstYear = 0;
@@ -510,27 +511,27 @@ public class FilmSearchArgs
   {
     try
     {
-      this.name_id = Integer.parseInt( nameId );
+      this.name_id = nameId;
     }
     catch( NumberFormatException e )
     {
-      this.name_id = 0;
+      this.name_id = null;
     }
   }
   
-  public int getDirectorNameId()
+  public String getDirectorNameId()
   {
     return name_id;
   }
   
   public String directorNameIdArg( String table )
   {
-    if( name_id == 0 )
+    if( name_id == null )
       return null;
     
     String t = ((table == null) || ( table.length() == 0 )) ? "" : table + "."; 
 
-    return t + "name_id = " + name_id;
+    return t + "name_id like '%|" + name_id + "|%'";
   }
   
   public void setDirector( String director )
