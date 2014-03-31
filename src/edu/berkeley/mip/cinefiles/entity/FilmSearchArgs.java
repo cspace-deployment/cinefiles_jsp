@@ -98,13 +98,13 @@ public class FilmSearchArgs
     String t = ((table == null) || ( table.length() == 0 )) ? "" : table + ".";
     
     if( queryType == 2 )
-      return t + "country like '%" + country + "%'";
+      return t + "country ilike '%" + country + "%'";
     else if( queryType == 3 )
-      return t + "country like '%" + country + "'";
+      return t + "country ilike '%" + country + "'";
     else if( queryType == 4 )
       return t + "country = '" + country + "'";
 
-    return t + "country like '" + country + "%'";
+    return t + "country ilike '" + country + "%'";
 	}
 
   public void setGenre( String genre )
@@ -129,13 +129,13 @@ public class FilmSearchArgs
     String t = ((table == null) || ( table.length() == 0 )) ? "" : table + ".";
     
     if( queryType == 2 )
-      return t + "genre like '%" + g + "%'";
+      return t + "genre ilike '%" + g + "%'";
     else if( queryType == 3 )
-      return t + "genre like '%" + g + "'";
+      return t + "genre ilike '%" + g + "'";
     else if( queryType == 4 )
-      return t + "genre like '%" + g + "'";
+      return t + "genre ilike '%" + g + "'";
 
-    return t + "genre like '" + g + "%'";
+    return t + "genre ilike '" + g + "%'";
 	}
 
 	public void setGenreId( String genreId )
@@ -191,13 +191,13 @@ public class FilmSearchArgs
     String t = ((table == null) || ( table.length() == 0 )) ? "" : table + ".";
     
     if( queryType == 2 )
-      return t + "subject like '%" + subj + "%'";
+      return t + "subject ilike '%" + subj + "%'";
     else if( queryType == 3 )
-      return t + "subject like '%" + subj + "'";
+      return t + "subject ilike '%" + subj + "'";
     else if( queryType == 4 )
       return t + "subject = '" + subj + "'";
 
-    return t + "subject like '" + subj + "%'";
+    return t + "subject ilike '" + subj + "%'";
   }
   
   public void setProdco( String prodco )
@@ -223,13 +223,13 @@ public class FilmSearchArgs
     String t = ((table == null) || ( table.length() == 0 )) ? "" : table + ".";
     
     if( queryType == 2 )
-      return t + "prodco like '%" + pco + "%'";
+      return t + "prodco ilike '%" + pco + "%'";
     else if( queryType == 3 )
-      return t + "prodco like '%" + pco + "'";
+      return t + "prodco ilike '%" + pco + "'";
     else if( queryType == 4 )
       return t + "prodco = '" + pco + "'";
 
-    return t + "prodco like '" + pco + "%'";
+    return t + "prodco ilike '" + pco + "%'";
   }
   
   public void setLangId( String filmlang )
@@ -371,7 +371,7 @@ public class FilmSearchArgs
     if( lang == null )
       return null;
 
-    return t + "filmlanguage like '%" + lang + "%'";
+    return t + "filmlanguage ilike '%" + lang + "%'";
   }
 
   public void setYear( String year )
@@ -498,13 +498,13 @@ public class FilmSearchArgs
     String t = ((table == null) || ( table.length() == 0 )) ? "" : table + ".";
 
     if( queryType == 2 )
-      return t + "title like '%" + title + "%'";
+      return t + "title ilike '%" + title + "%'";
     else if( queryType == 3 )
-      return t + "title like '%" + title + "'";
+      return t + "title ilike '%" + title + "'";
     else if( queryType == 4 )
       return t + "title = '" + title + "'";
 
-    return t + "title like '" + title + "%'";
+    return t + "title ilike '" + title + "%'";
    }
 
   public void setDirectorNameId( String nameId )
@@ -531,7 +531,7 @@ public class FilmSearchArgs
     
     String t = ((table == null) || ( table.length() == 0 )) ? "" : table + "."; 
 
-    return t + "name_id like '%|" + name_id + "|%'";
+    return t + "name_id ilike '%|" + name_id + "|%'";
   }
   
   public void setDirector( String director )
@@ -557,13 +557,13 @@ public class FilmSearchArgs
     String t = ((table == null) || ( table.length() == 0 )) ? "" : table + ".";
 
     if( queryType == 2 )
-      return t + "director like '%" + d + "%'";
+      return t + "director ilike '%" + d + "%'";
     else if( queryType == 3 )
-      return t + "director like '%" + d + "'";
+      return t + "director ilike '%" + d + "'";
     else if( queryType == 4 )
       return t + "director = '" + d + "'";
 
-    return t + "director like '" + d + "%'";
+    return t + "director ilike '" + d + "%'";
   }
   
   private int parseYear( String year )
