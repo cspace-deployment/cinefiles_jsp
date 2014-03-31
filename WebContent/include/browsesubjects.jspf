@@ -112,5 +112,5 @@ CineFiles as of June 2009, alphabetized by subject term.
 </div>
 
 <div id='browsePane' name='browsePane'>
-  <jsp:include page="browsesubjAlist.jspf" />
+  <jsp:include page="/include/browsesubjAlist.jspf" />
 </div>

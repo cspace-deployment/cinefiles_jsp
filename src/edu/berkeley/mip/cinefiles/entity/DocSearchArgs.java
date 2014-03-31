@@ -79,13 +79,13 @@ public class DocSearchArgs
     String t = ((table == null) || ( table.length() == 0 )) ? "" : table + ".";
 
     if( queryType == 2 )
-      return t + "title like '%" + title + "%'";
+      return t + "title ilike '%" + title + "%'";
     else if( queryType == 3 )
-      return t + "title like '%" + title + "'";
+      return t + "title ilike '%" + title + "'";
     else if( queryType == 4 )
-      return t + "title = '" + title + "'";
+      return t + "title ilike '%" + title + "%'";
 
-    return t + "title like '" + title + "%'";
+    return t + "title ilike '" + title + "%'";
    }
 
   public void setDocType( String docType )
@@ -156,7 +156,7 @@ public class DocSearchArgs
     else if( docType.equals( "23" )) type = "synopsis";
     else if( docType.equals( "47" )) type = "treatment";
 
-    return(( type == null ) ? null : t + "type = '" + type + "'" );
+    return(( type == null ) ? null : t + "doctype = '" + type + "'" );
   }
 
   public void setDocSubject( String docSubject )
@@ -183,13 +183,13 @@ public class DocSearchArgs
     String t = ((table == null) || ( table.length() == 0 )) ? "" : table + ".";
 
     if( queryType == 2 )
-      return t + "subject like '%" + subject + "%'";
+      return t + "(docsubject ilike '%" + subject + "%' or docnamesubject ilike '%" + subject + "%')";
     else if( queryType == 3 )
-      return t + "subject like '%" + subject + "'";
+      return t + "(docsubject ilike '%" + subject + "%' or docnamesubject ilike '%" + subject + "%')";
     else if( queryType == 4 )
-      return t + "subject like '" + subject + "%'";
+      return t + "(docsubject ilike '%" + subject + "%' or docnamesubject ilike '%" + subject + "%')";
 
-    return t + "subject like '" + subject + "%'";
+    return t + "(docsubject ilike '%" + subject + "%' or docnamesubject ilike '%" + subject + "%')";
   }
 
   public void setDocTitle( String docTitle )
@@ -210,18 +210,18 @@ public class DocSearchArgs
     if( docTitle == null )
        return null;
 
-    String title = docTitle.replaceAll( "'", "''" );
+    String doctitle = docTitle.replaceAll( "'", "''" );
 
     String t = ((table == null) || ( table.length() == 0 )) ? "" : table + ".";
 
     if( queryType == 2 )
-      return t + "title like '%" + title + "%'";
+      return t + "doctitle ilike '%" + doctitle + "%'";
     else if( queryType == 3 )
-      return t + "title like '%" + title + "'";
+      return t + "doctitle ilike '%" + doctitle + "'";
     else if( queryType == 4 )
-      return t + "title = '" + title + "'";
+      return t + "doctitle ilike '%" + doctitle + "%'";
 
-    return t + "title like '" + title + "%'";
+    return t + "doctitle ilike '" + doctitle + "%'";
   }
 
   public void setDocAuthor( String docAuthor )
@@ -247,13 +247,13 @@ public class DocSearchArgs
     String t = ((table == null) || ( table.length() == 0 )) ? "" : table + ".";
 
     if( queryType == 2 )
-      return t + "author like '%" + author + "%'";
+      return t + "author ilike '%" + author + "%'";
     else if( queryType == 3 )
-      return t + "author like '%" + author + "'";
+      return t + "author ilike '%" + author + "'";
     else if( queryType == 4 )
-      return t + "author = '" + author + "'";
+      return t + "author ilike '%" + author + "%'";
 
-    return t + "author like '" + author + "%'";
+    return t + "author ilike '" + author + "%'";
   }
 
   public void setDocSource( String docSource )
@@ -279,13 +279,13 @@ public class DocSearchArgs
     String t = ((table == null) || ( table.length() == 0 )) ? "" : table + ".";
 
     if( queryType == 2 )
-      return t + "source like '%" + source + "%'";
+      return t + "source ilike '%" + source + "%'";
     else if( queryType == 3 )
-      return t + "source like '%" + source + "'";
+      return t + "source ilike '%" + source + "'";
     else if( queryType == 4 )
-      return t + "source = '" + source + "'";
+      return t + "source ilike '%" + source + "%'";
 
-    return t + "source like '" + source + "%'";
+    return t + "source ilike '" + source + "%'";
   }
 
   public void setPubDate( String pubDate )
@@ -309,13 +309,13 @@ public class DocSearchArgs
     String t = ((table == null) || ( table.length() == 0 )) ? "" : table + ".";
 
     if( queryType == 2 )
-      return t + "pubdate like '%" + pubDate + "%'";
+      return t + "pubdate ilike '%" + pubDate + "%'";
     else if( queryType == 3 )
-      return t + "pubdate like '%" + pubDate + "'";
+      return t + "pubdate ilike '%" + pubDate + "'";
     else if( queryType == 4 )
-      return t + "pubdate = '" + pubDate + "'";
+      return t + "pubdate ilike '%" + pubDate + "%'";
 
-    return t + "pubdate like '" + pubDate + "%'";
+    return t + "pubdate ilike '" + pubDate + "%'";
   }
 
   public void setLangId( String lang_id )
@@ -370,7 +370,7 @@ public class DocSearchArgs
     else if( lang_id.equals( "329" )) lang = "Thai";
     else if( lang_id.equals( "343" )) lang = "Turkish";
 
-    return t + "language = '" + lang + "'";
+    return t + "doclanguage ilike '%" + lang + "%'";
   }
 
   public void setContains( String[] contains )
@@ -404,28 +404,28 @@ public class DocSearchArgs
         switch( x )
         {
         case 1:
-          where.append(t + "filmog = 1");
+          where.append(t + "filmog = TRUE ");
           break;
         case 2:
-          where.append(t + "ist_co = 1");
+          where.append(t + "dist_co = TRUE ");
           break;
         case 3:
-          where.append(t + "illust = 1");
+          where.append(t + "illust = TRUE ");
           break;
         case 4:
-          where.append(t + "prod_co = 1");
+          where.append(t + "prod_co = TRUE ");
           break;
         case 5:
-          where.append(t + "cast_cr = 1");
+          where.append(t + "cast_cr = TRUE ");
           break;
         case 6:
-          where.append(t + "cost = 1");
+          where.append(t + "costinfo = TRUE ");
           break;
         case 7:
-          where.append(t + "tech_cr = 1");
+          where.append(t + "tech_cr = TRUE ");
           break;
         case 8:
-          where.append(t + "bx_info = 1");
+          where.append(t + "bx_info = TRUE ");
           break;
         }
       }
