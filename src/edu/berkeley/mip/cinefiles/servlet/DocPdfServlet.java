@@ -297,7 +297,7 @@ public class DocPdfServlet extends CinefilesServlet
            cb.showTextAligned( PdfContentByte.ALIGN_LEFT, 
                                "Film Subjects", x, y, 0 );
            
-           Hashtable<Integer, String> filmsubjs = docDetail.getFilmSubjects();
+           Hashtable<String, String> filmsubjs = docDetail.getFilmSubjects();
            Enumeration <String> fse = filmsubjs.elements();
 
            offset = 0;
