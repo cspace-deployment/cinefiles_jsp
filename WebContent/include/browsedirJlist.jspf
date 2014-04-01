@@ -3,7 +3,7 @@
   <div id='browselist' name='browselist'>
     <table id='browseTable' name='browseTable'>
       <tr>
-        <td><a href='/cinefiles/FilmSearch?nameId=person5775'>Jabór, Arnaldo</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=person5775'>JabÃ³r, Arnaldo</a></td>
         <td><a href='/cinefiles/FilmSearch?nameId=person5835'>Jang Sun-Woo</a></td>
         <td><a href='/cinefiles/FilmSearch?nameId=person5930'>Johnson, Lamont</a></td>
       </tr>
@@ -39,7 +39,7 @@
       </tr>
       <tr>
         <td><a href='/cinefiles/FilmSearch?nameId=person5797'>Jacobs, Ken</a></td>
-        <td><a href='/cinefiles/FilmSearch?nameId=person5860'>Jasný, Vojtech</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=person5860'>JasnÃ½, Vojtech</a></td>
         <td><a href='/cinefiles/FilmSearch?nameId=person5966'>Jong, Ate de</a></td>
       </tr>
       <tr>
@@ -50,7 +50,7 @@
       <tr>
         <td><a href='/cinefiles/FilmSearch?nameId=person25804'>Jacobsen, Johan</a></td>
         <td><a href='/cinefiles/FilmSearch?nameId=person23517'>Jason, Will</a></td>
-        <td><a href='/cinefiles/FilmSearch?nameId=person5970'>Jónsson, Thorsteinn</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=person5970'>JÃ³nsson, Thorsteinn</a></td>
       </tr>
       <tr>
         <td><a href='/cinefiles/FilmSearch?nameId=person27080'>Jacobson, Kristi</a></td>
@@ -69,11 +69,11 @@
       </tr>
       <tr>
         <td><a href='/cinefiles/FilmSearch?nameId=person14073'>Jacopetti, Gualtiero</a></td>
-        <td><a href='/cinefiles/FilmSearch?nameId=person5876'>Jeles, András</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=person5876'>Jeles, AndrÃ¡s</a></td>
         <td><a href='/cinefiles/FilmSearch?nameId=person33308'>Jordan, Mary</a></td>
       </tr>
       <tr>
-        <td><a href='/cinefiles/FilmSearch?nameId=person5807'>Jacquot, Benoît</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=person5807'>Jacquot, BenoÃ®t</a></td>
         <td><a href='/cinefiles/FilmSearch?nameId=person5881'>Jennings, Humphrey</a></td>
         <td><a href='/cinefiles/FilmSearch?nameId=person5975'>Jordan, Neil</a></td>
       </tr>
@@ -103,13 +103,13 @@
         <td><a href='/cinefiles/FilmSearch?nameId=person6014'>Jud, Reinhard</a></td>
       </tr>
       <tr>
-        <td><a href='/cinefiles/FilmSearch?nameId=person26968'>Jaløiløi, Abøu al-Fazl</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=person26968'>JalÃ¸ilÃ¸i, AbÃ¸u al-Fazl</a></td>
         <td><a href='/cinefiles/FilmSearch?nameId=person5891'>Jewison, Norman</a></td>
         <td><a href='/cinefiles/FilmSearch?nameId=person20464'>Judge, Mike</a></td>
       </tr>
       <tr>
         <td><a href='/cinefiles/FilmSearch?nameId=person5826'>Jamain, Patrick</a></td>
-        <td><a href='/cinefiles/FilmSearch?nameId=person5898'>Jiménez-Leal, Orlando</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=person5898'>JimÃ©nez-Leal, Orlando</a></td>
         <td><a href='/cinefiles/FilmSearch?nameId=person14632'>Jumdaan, Choymbolyn</a></td>
       </tr>
       <tr>
@@ -119,17 +119,17 @@
       </tr>
       <tr>
         <td><a href='/cinefiles/FilmSearch?nameId=person5830'>James, Bob</a></td>
-        <td><a href='/cinefiles/FilmSearch?nameId=person5911'>Joannon, Léo</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=person5911'>Joannon, LÃ©o</a></td>
         <td><a href='/cinefiles/FilmSearch?nameId=person24432'>Juran, Nathan</a></td>
       </tr>
       <tr>
         <td><a href='/cinefiles/FilmSearch?nameId=person5832'>Jameson, Jerry</a></td>
-        <td><a href='/cinefiles/FilmSearch?nameId=person5916'>Joffé, Arthur</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=person5916'>JoffÃ©, Arthur</a></td>
         <td><a href='/cinefiles/FilmSearch?nameId=person6051'>Justiniano, Gonzalo</a></td>
       </tr>
       <tr>
-        <td><a href='/cinefiles/FilmSearch?nameId=person5833'>Jancsó, Miklós</a></td>
-        <td><a href='/cinefiles/FilmSearch?nameId=person5770'>Jóhannesdóttir, Kristín</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=person5833'>JancsÃ³, MiklÃ³s</a></td>
+        <td><a href='/cinefiles/FilmSearch?nameId=person5770'>JÃ³hannesdÃ³ttir, KristÃ­n</a></td>
         <td><a href='/cinefiles/FilmSearch?nameId=person6055'>Jutra, Claude</a></td>
       </tr>
     </table>
