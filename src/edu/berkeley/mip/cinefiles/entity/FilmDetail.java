@@ -122,8 +122,8 @@ public class FilmDetail extends CallableBean {
          else if (content.equals("relatedocs"))
             processRelatedDocs();
          rs.close();
-         connection.setAutoCommit(true);
       }
+      connection.setAutoCommit(true);
    }
 
    private void processTitle() throws SQLException {
