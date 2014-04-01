@@ -10,6 +10,10 @@ import edu.berkeley.mip.bean.StatementBean;
 public class DocList extends StatementBean
 {
   /*
+   * March 2014: Changes made for postgres data source from CSpace.
+   * Not using temp tables.  All searching done in runMainQuery, like FilmList.java.
+   * Corresponding changes made to DocSearchArgs.java.
+   * 
    * DocList A sub-class of StatementBean, it wraps an ArrayList of document
    * records, each of which can be accessed as a full document citation.
    * 
@@ -61,13 +65,13 @@ public class DocList extends StatementBean
      
      traceMsg( "Opening DocList:" );
 
-     createTempTables();
+//     createTempTables();
      
-     runDocTitleQuery( args );
+//     runDocTitleQuery( args );
 
-     runFilmTitleQuery( args );
+//     runFilmTitleQuery( args );
 
-     runDocSubjectsQuery( args );
+//     runDocSubjectsQuery( args );
 
      runMainQuery( args );
      
@@ -139,12 +143,12 @@ public class DocList extends StatementBean
 
         docrec[0] = getResultSetIntString("doc_id");
         docrec[1] = getResultSetString("doctitle");
-        docrec[2] = getResultSetString("author");
+        docrec[2] = getResultSetString("author").replaceAll("\\|", ", ");
         docrec[3] = getResultSetString("source");
         docrec[4] = getResultSetString("pubdate");
         docrec[5] = getResultSetIntString("pages");
         docrec[6] = getResultSetString("page_info");
-        docrec[7] = getResultSetString("type");
+        docrec[7] = getResultSetString("doctype");
         docrec[8] = getResultSetIntString("src_id");
         docrec[9] = getResultSetIntString("name_id");
         docrec[10] = getResultSetIntString("code");
@@ -191,8 +195,8 @@ public class DocList extends StatementBean
                   " - <i>" + doclist[3] + "</i> - " + // source
                   doclist[4] + " - " + doclist[5] +   // date, pages
                   ((doclist[5].equals("1")) ? " page" : " pages") + 
-                  " - " + doclist[6] +                //pagination
-                  " - " + doclist[7];                 //type
+                  " - " + doclist[6] +                // pagination
+                  " - " + doclist[7];                 // doctype
       docrec[3] = doclist[8];                         // src name id
       docrec[4] = doclist[9];                         // author name id
       docrec[5] = doclist[10];                        // access code
@@ -343,24 +347,33 @@ public class DocList extends StatementBean
     
     if( ! queryFailed ) 
     { 
-      String author = args.docAuthorArg( "v" );
-      String source = args.docSourceArg( "v" );
-      String date = args.docPubDateArg( "v" );
-      String language = args.docLanguageArg( "v" );
-      String type = args.docTypeArg( "v" );
+      String docTitleArg =  args.docTitleArg( null );
+      String filmTitleArg = args.filmTitleArg( null );
+      String docSubject = args.docSubjectArg( null );
+      String author = args.docAuthorArg( null );
+      String source = args.docSourceArg( null );
+      String date = args.docPubDateArg( null );
+      String language = args.docLanguageArg( null );
+      String type = args.docTypeArg( null );
+      String contains = args.docContainsArg(null);
       
-      String q = "select * from doclist_view v" +
-                ", " + tmptable1 + " t " +
-                " where v.doc_id > 1 " +
-                ((count > 0 ) ? " and v.doc_id = t.doc_id " : " " ) + 
+      String q = "select distinct dv.* from cinefiles_denorm.doclist_view dv " + 
+                 "left outer join cinefiles_denorm.filmdocs fd on (dv.doc_id=fd.doc_id) " +
+    		     "left outer join cinefiles_denorm.filmlist_view fv on (fd.film_id=fv.film_id) " +
+                 "where 1=1 " +
+//                ", " + tmptable1 + " t " +
+//                " where v.doc_id > 1 " +
+//                ((count > 0 ) ? " and v.doc_id = t.doc_id " : " " ) + 
+                (( docTitleArg != null ) ? " and " + docTitleArg : " " ) +
+                (( filmTitleArg != null ) ? " and " + filmTitleArg : " " ) +
+                (( docSubject != null ) ? " and " + docSubject : " " ) +
                 (( author != null ) ? " and " + author : " " ) +
                 (( source != null ) ? " and " + source : " " ) +
                 (( date != null ) ? " and " + date : " " ) +
                 (( language != null ) ? " and " + language : " " ) +
                 (( type != null ) ? " and " + type : " " ) +
-                "order by substring( v.pubdate, " +
-                "patindex('c%', v.pubdate)+1, datalength(v.pubdate))  desc, " +
-                "v.type, v.doctitle";
+                (( contains != null ) ? " and " + contains : " " ) +
+                " order by pubdatescalar desc nulls last, doctype, doctitle";
       
       traceMsg( q );
       runQuery( q );
