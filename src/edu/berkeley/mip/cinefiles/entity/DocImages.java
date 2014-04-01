@@ -31,7 +31,7 @@ public class DocImages implements Serializable
   private static final String logfile =
     "/www/tomcat/logs/Apps/cine/DocImages.log";
 
-  private static final String cine_img = "/cine_img";
+  private static final String cine_img = "/cinefiles/cine_img";
 
   protected ArrayList<String> errors;
   protected String[] images;

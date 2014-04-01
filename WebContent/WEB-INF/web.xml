@@ -28,6 +28,16 @@
   </context-param>
 
   <context-param>
+    <param-name>jdbcPGUrl</param-name>
+    <param-value>jdbc:postgresql://cinefiles-dev.cspace.berkeley.edu:5432/cinefiles_domain"</param-value>
+  </context-param>
+  
+  <context-param>
+    <param-name>jdbcPGDriver</param-name>
+    <param-value>org.postgresql.Driver</param-value>
+  </context-param>
+  
+  <context-param>  
     <param-name>jndiDataSource</param-name>
     <param-value>jdbc/CinedevMiponcaDS</param-value>
   </context-param>

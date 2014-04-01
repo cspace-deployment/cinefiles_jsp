@@ -8,11 +8,11 @@
 
     <h2>Document Pages
     <input id="prevlnk" name="prevlnk" type="image"
-           src="/cine_img/icons/larrow.png"
+           src="/cinefiles/cine_img/icons/larrow.png"
            onfocus="this.blur();" onclick="prevTn();" />
 
     <input id="nextlnk" name="nextlnk" type="image"
-           src="/cine_img/icons/rarrow.png"
+           src="/cinefiles/cine_img/icons/rarrow.png"
            onfocus="this.blur();" onclick="nextTn();" />
     </h2>
     <div id='pages' name='pages'>

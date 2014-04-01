@@ -20,5 +20,5 @@
             href="/cinefiles/Contact.jsp" />
     </map>
 
-    <img src="/cine_img/icons/pgfooter.gif" usemap="#footermap" border="0" />
+    <img src="/cinefiles/cine_img/icons/pgfooter.gif" usemap="#footermap" border="0" />
   </div>

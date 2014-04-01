@@ -71,8 +71,8 @@ public class FilmDetail extends CallableBean {
    private FilmDocs relatedDocs = new FilmDocs();
 
    private static final String query = "{ call cinefiles_denorm.film_detail_summary(?, "
-         + " 'title', 'directors', 'countries', 'years', 'languages', "
-         + " 'prodco', 'genres', 'subjects', 'relatedocs')}";
+         + "'title', 'directors', 'countries', 'years', 'languages', "
+         + "'prodco', 'genres', 'subjects', 'relatedocs')}";
 
    public FilmDetail() {
       super();

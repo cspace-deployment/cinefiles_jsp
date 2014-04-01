@@ -103,7 +103,7 @@ public class FilmList extends StatementBean
 
         String[] filmrec = new String[6];
 
-        filmrec[0] = getResultSetIntString("film_id");
+        filmrec[0] = getResultSetString("film_id");
         filmrec[1] = getResultSetString("doc_count");
         filmrec[2] = getResultSetString("filmtitle");
         filmrec[3] = getResultSetString("director").replaceAll("\\|", ", ");

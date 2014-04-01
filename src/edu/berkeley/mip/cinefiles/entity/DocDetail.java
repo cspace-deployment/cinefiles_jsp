@@ -138,45 +138,7 @@ public class DocDetail extends edu.berkeley.mip.bean.CallableBean {
       connection.setAutoCommit(true);
    }
 
-   // Called by processResults for each ResultSet returned
-   // private void processResultSet()
-   // {
-   // try
-   // {
-   // while( rs.next() )
-   // {
-   // String content = getResultSetString( "Content" );
-   // errorMsg( "processResultSet: Content == " + content );
-   //
-   // if( content.equals( "Document Title" ))
-   // processTitle();
-   // else if( content.equals( "Document Source" ))
-   // processSource();
-   // else if( content.equals( "Document Type" ))
-   // processType();
-   // else if( content.equals( "Document URL" ))
-   // processDocUrl();
-   // else if( content.equals( "Document Languages" ))
-   // processLanguages();
-   // else if( content.equals( "Document Authors" ))
-   // processAuthors();
-   // else if( content.equals( "Document Subject" ))
-   // processSubjects();
-   // else if( content.equals( "Document Name Subjects" ))
-   // processNameSubjects();
-   // else if( content.equals( "Document Film Subjects" ))
-   // processFilmSubjects();
-   // else if( content.equals( "Document" ))
-   // processDocument();
-   // }
-   // }
-   // catch( SQLException e )
-   // {
-   // errorMsg( "processResltSet: " + e.getMessage() );
-   // }
-   // }
-
-   // Called by processResultSet when the next ResultSet is core doc set.
+   // Called by processResultSet when the next ResultSet is doc set.
    private void processDocument() throws SQLException {
       while( rs.next() ){
       pagination = getResultSetString("pg_info");
