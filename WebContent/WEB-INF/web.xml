@@ -49,9 +49,29 @@
 
   <!-- Distributable section -->
   <!-- Listener section -->
-  <!-- Filter section -->
-  <!-- Filter-mapping section -->
   
+  <!-- Filter section -->
+  <filter>
+      <filter-name>CharacterEncodingFilter</filter-name>
+      <filter-class>
+         edu.berkeley.mip.filters.SetCharacterEncodingFilter
+      </filter-class>
+      <init-param>
+         <param-name>encoding</param-name>
+         <param-value>UTF-8</param-value>
+      </init-param>
+      <init-param>
+         <param-name>ignore</param-name>
+         <param-value>true</param-value>
+      </init-param>
+   </filter>
+
+   <!-- Filter mapping section -->
+   <filter-mapping>
+      <filter-name>CharacterEncodingFilter</filter-name>
+      <url-pattern>/*</url-pattern>
+   </filter-mapping>
+
   <!-- Servlet section -->
   <servlet>
     <servlet-name>CommentsServlet</servlet-name>
