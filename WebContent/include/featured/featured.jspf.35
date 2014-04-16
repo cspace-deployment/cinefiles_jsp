@@ -1,0 +1,13 @@
+        <%-- Featured Document section of the Welcome page --%>
+        <div id="bright">
+          <h2>Featured Document</h2>
+          <div id="ftdoc">
+             <a href="/cinefiles/DocDetail?docId=52744">
+             <img id="featuredImg"
+                  src="/cine_img/www_imgs.106/52744.c.jpeg"
+                  width="225" /></a>
+          </div>
+          <b><i>Tales of Hoffman</i></b><br />
+          Author: <b>Greenfield, Amy</b><br />
+          Source: <b>Film source</b>, 1995<br />
+        </div>

@@ -1,0 +1,13 @@
+        <%-- Featured Document section of the Welcome page --%>
+        <div id="bright">
+          <h2>Featured Document</h2>
+          <div id="ftdoc">
+             <a href="/cinefiles/DocDetail?docId=52623">
+             <img id="featuredImg"
+                  src="/cine_img/www_imgs.106/52623.c.jpeg"
+                  width="225" /></a>
+          </div>
+          <b><i>Shakespeare in Black Leather</i></b><br />
+          Author: <b>Loud, Lance</b><br />
+          Source: <b>American Film</b>, 1991
+        </div>

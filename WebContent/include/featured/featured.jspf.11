@@ -1,0 +1,12 @@
+        <%-- Featured Document section of the Welcome page --%>
+        <div id="bright">
+          <h2>Featured Document</h2>
+          <div id="ftdoc">
+             <a href="/cinefiles/DocDetail?docId=11152">
+             <img id="featuredImg"
+                  src="/cine_img/www_imgs.23/11152.c.jpeg"
+                  width="225" /></a>
+          </div>
+          <i>NY film bulletin: Jean Luc Godard issue</i><br />
+          NY film bulletin - 1964
+        </div>

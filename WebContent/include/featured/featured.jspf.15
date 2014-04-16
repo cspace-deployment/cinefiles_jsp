@@ -1,0 +1,12 @@
+        <%-- Featured Document section of the Welcome page --%>
+        <div id="bright">
+          <h2>Featured Document</h2>
+          <div id="ftdoc">
+             <a href="/cinefiles/DocDetail?docId=25109">
+             <img id="featuredImg"
+                  src="/cine_img/www_imgs.51/25109.c.jpeg"
+                  width="225" /></a>
+          </div>
+          <i>Ministry of fear</i> 
+          Paramount Pictures - 1944
+        </div>

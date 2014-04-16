@@ -1,0 +1,13 @@
+        <%-- Featured Document section of the Welcome page --%>
+        <div id="bright">
+          <h2>Featured Document</h2>
+          <div id="ftdoc">
+             <a href="/cinefiles/DocDetail?docId=27320">
+             <img id="featuredImg"
+                  src="/cine_img/www_imgs.55/27320.c.jpeg"
+                  width="225" /></a>
+          </div>
+          <b><i>Films of Shohei Imamura!</i></b><br />
+          Author: <b>John Cassavetes</b><br />
+          Source: <b>Japan Society</b>, 1979 Oct 17<br />
+        </div>

@@ -1,0 +1,12 @@
+        <%-- Featured Document section of the Welcome page --%>
+        <div id="bright">
+          <h2>Featured Document</h2>
+          <div id="ftdoc">
+             <a href="/cinefiles/DocDetail?docId=25214">
+             <img id="featuredImg"
+                  src="/cine_img/www_imgs.51/25214.c.jpeg"
+                  width="225" /></a>
+          </div>
+          <i>Phantom lady</i><br />
+          Universal Pictures - 1944
+        </div>

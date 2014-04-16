@@ -1,0 +1,13 @@
+        <%-- Featured Document section of the Welcome page --%>
+        <div id="bright">
+          <h2>Featured Document</h2>
+          <div id="ftdoc">
+             <a href="/cinefiles/DocDetail?docId=53373">
+             <img id="featuredImg"
+                  src="/cine_img/www_imgs.107/53373.c.jpeg"
+                  width="225" /></a>
+          </div>
+          <b><i>Makhmalbaf: the figure in the carpet</i></b><br />
+          Author: <b>Cheshire, Godfrey</b><br />
+          Source: <b>Film Comment</b>, 1997 Jul<br />
+        </div>

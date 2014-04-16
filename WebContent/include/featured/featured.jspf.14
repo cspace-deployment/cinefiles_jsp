@@ -1,0 +1,12 @@
+        <%-- Featured Document section of the Welcome page --%>
+        <div id="bright">
+          <h2>Featured Document</h2>
+          <div id="ftdoc">
+             <a href="/cinefiles/DocDetail?docId=18847">
+             <img id="featuredImg"
+                  src="/cine_img/www_imgs.38/18847.c.jpeg"
+                  width="225" /></a>
+          </div>
+          <i>Lola Montes</i><br /> 
+          Brandon Films, Inc. - 1955
+        </div>

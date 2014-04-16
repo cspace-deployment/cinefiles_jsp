@@ -1,0 +1,13 @@
+        <%-- Featured Document section of the Welcome page --%>
+        <div id="bright">
+          <h2>Featured Document</h2>
+          <div id="ftdoc">
+             <a href="/cinefiles/DocDetail?docId=53085">
+             <img id="featuredImg"
+                  src="/cine_img/www_imgs.107/53085.c.jpeg"
+                  width="225" /></a>
+          </div>
+          <b><i>Fortune and men's eyes</i></b><br />
+          Author: <b>Almendros, Nestor</b><br />
+          Source: <b>Film Comment</b>, 1991 Jul<br />
+        </div>

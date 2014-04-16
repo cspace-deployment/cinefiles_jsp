@@ -1,0 +1,13 @@
+        <%-- Featured Document section of the Welcome page --%>
+        <div id="bright">
+          <h2>Featured Document</h2>
+          <div id="ftdoc">
+             <a href="/cinefiles/DocDetail?docId=53009">
+             <img id="featuredImg"
+                  src="/cine_img/www_imgs.107/53009.c.jpeg"
+                  width="225" /></a>
+          </div>
+          <b><i>Almodovar's "Kika"</i></b><br />
+          Author: <b>Levy, Shawn</b><br />
+          Source: <b>Film Comment</b>, 1994 May<br />
+        </div>

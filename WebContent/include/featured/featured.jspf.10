@@ -1,0 +1,13 @@
+        <%-- Featured Document section of the Welcome page --%>
+        <div id="bright">
+          <h2>Featured Document</h2>
+          <div id="ftdoc">
+             <a href="/cinefiles/DocDetail?docId=10589">
+             <img id="featuredImg"
+                  src="/cine_img/www_imgs.22/10589.c.jpeg"
+                  width="225" /></a>
+          </div>
+
+          Title: <i>Au hasard Balthazar</i><br />
+          Source: <b>Athos Films</b>
+        </div>

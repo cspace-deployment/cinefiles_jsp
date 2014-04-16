@@ -1,0 +1,13 @@
+        <%-- Featured Document section of the Welcome page --%>
+        <div id="bright">
+          <h2>Featured Document</h2>
+          <div id="ftdoc">
+             <a href="/cinefiles/DocDetail?docId=53343">
+             <img id="featuredImg"
+                  src="/cine_img/www_imgs.107/53343.c.jpeg"
+                  width="225" /></a>
+          </div>
+          <b><i>The invisible man: Spike Lee</i></b><br />
+          Author: <b>Jones, Kent</b><br />
+          Source: <b>Film Comment</b>, 1997<br />
+        </div>

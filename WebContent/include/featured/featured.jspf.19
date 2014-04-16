@@ -1,0 +1,13 @@
+        <%-- Featured Document section of the Welcome page --%>
+        <div id="bright">
+          <h2>Featured Document</h2>
+          <div id="ftdoc">
+             <a href="/cinefiles/DocDetail?docId=52593">
+             <img id="featuredImg"
+                  src="/cine_img/www_imgs.106/52593.c.jpeg"
+                  width="225" /></a>
+          </div>
+          <b><i>Is Malcolm X the right thing?</i></b><br />
+          Authors: <b>Kennedy, Lisa</b> - <b>Verniere, James</b><br />
+          Source: <b>Sight and Sound</b>
+        </div>

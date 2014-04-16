@@ -1,0 +1,14 @@
+        <%-- Featured Document section of the Welcome page --%>
+        <div id="bright">
+          <h2>Featured Document</h2>
+          <div id="ftdoc">
+             <a href="/cinefiles/DocDetail?docId=52780">
+             <img id="featuredImg"
+                  src="/cine_img/www_imgs.106/52780.c.jpeg"
+                  width="225" /></a>
+          </div>
+          <b><i>Authorship as a commodity:
+            the art cinema and the cabinet of Dr. Caligari</i></b><br />
+          Author: <b>Budd, Michael</b><br />
+          Source: <b>Wide Angle</b>, 1984<br />
+        </div>

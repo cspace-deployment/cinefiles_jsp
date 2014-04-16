@@ -1,0 +1,13 @@
+        <%-- Featured Document section of the Welcome page --%>
+        <div id="bright">
+          <h2>Featured Document</h2>
+          <div id="ftdoc">
+             <a href="/cinefiles/DocDetail?docId=45372">
+             <img id="featuredImg"
+                  src="/cine_img/www_imgs.91/45372.c.jpeg"
+                  width="225" /></a>
+          </div>
+          <b><i>Billy Wilder / Alain Resnais</i></b><br />
+          Author: <b>Roud, Richard</b><br />
+          Source: <b>National Film Theatre</b>, 1968
+        </div>

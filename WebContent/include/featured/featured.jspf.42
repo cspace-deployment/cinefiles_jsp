@@ -1,0 +1,12 @@
+        <%-- Featured Document section of the Welcome page --%>
+        <div id="bright">
+          <h2>Featured Document</h2>
+          <div id="ftdoc">
+             <a href="/cinefiles/DocDetail?docId=38637">
+             <img id="featuredImg"
+                  src="/cine_img/www_imgs.78/38637.c.jpeg"
+                  width="225" /></a>
+          </div>
+          <b><i>Fellini!</i></b><br />
+          Source: <b>Solomon R. Guggenheim Foundation</b>, 2003 Oct 30<br />
+        </div>

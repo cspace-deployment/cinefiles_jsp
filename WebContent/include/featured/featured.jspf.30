@@ -1,0 +1,12 @@
+        <%-- Featured Document section of the Welcome page --%>
+        <div id="bright">
+          <h2>Featured Document</h2>
+          <div id="ftdoc">
+             <a href="/cinefiles/DocDetail?docId=38168">
+             <img id="featuredImg"
+                  src="/cine_img/www_imgs.77/38168.c.jpeg"
+                  width="225" /></a>
+          </div>
+          <b><i>Cleo from 5 to 7</i></b><br />
+          Source: <b>Zenith</b><br />
+        </div>

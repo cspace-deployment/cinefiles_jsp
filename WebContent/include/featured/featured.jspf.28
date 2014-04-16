@@ -1,0 +1,13 @@
+        <%-- Featured Document section of the Welcome page --%>
+        <div id="bright">
+          <h2>Featured Document</h2>
+          <div id="ftdoc">
+             <a href="/cinefiles/DocDetail?docId=47850">
+             <img id="featuredImg"
+                  src="/cine_img/www_imgs.96/47850.c.jpeg"
+                  width="225" /></a>
+          </div>
+          <b><i>Chaplin: a life in pictures</i></b><br />
+          Author: <b>Robinson, David</b><br />
+          Source: <b>Warner Bros.</b>, 2003
+        </div>
