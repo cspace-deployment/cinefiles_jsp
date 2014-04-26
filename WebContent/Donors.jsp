@@ -36,12 +36,12 @@
   <body>
     <jsp:include page="/include/pgheader.jspf" />
 
-    <div id="container" name="container">
+    <div id="container">
 
-      <div id="searchside" name="searchside">
+      <div id="searchside">
         <%@ include file="/include/search.jspf" %>
 
-        <div id="donation" name="donation">
+        <div id="donation">
           <h2>
             <a href="https://givetocal.berkeley.edu/egiving/index.cfm?Org=%20BAM%2FPFA%20CineFiles%20Project%20Fund&Fund=FU0968000">
             Support CineFiles</a>
@@ -55,12 +55,12 @@
               href="https://givetocal.berkeley.edu/egiving/index.cfm?Org=%20BAM%2FPFA%20CineFiles%20Project%20Fund&Fund=FU0968000" />
           </map>
 
-          <img src="/cinefiles/cine_img/icons/donate.png"
+          <img src="/cine_img/icons/donate.png"
                usemap="#donmap" border="0" />
         </div>
       </div>
 
-      <div id="main" name="main">
+      <div id="main">
         <h2>Donors</h2>
 
         <br /><p>The CineFiles project has received support from the
@@ -126,6 +126,7 @@
       </div>
     </div>
 
-    <jsp:include page="/include/pgfooter.jspf" />
+    <%-- <jsp:include page="/include/pgfooter.jspf" /> --%>
+    <%@ include file="/include/pgfooter.jspf" %>
   </body>
 </html>

@@ -1,10 +1,9 @@
-        <%--
+        <!--
            Seach form for the detailed document search page. The style
            sheet for this form is in "/cinefiles/css/docsearch.css"
-        --%>
+        -->
 
-        <form id="docForm" name="docForm"
-               method="post" action="/cinefiles/DocSearch">
+        <form id="docForm" method="post" action="/cinefiles/DocSearch">
           <input class="fbutton" value="Search" type="submit"/>
           <input class="fbutton" value="Clear"  type="reset"/><br /><br />
 

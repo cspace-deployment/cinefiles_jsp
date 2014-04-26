@@ -1,7 +1,7 @@
   <!-- Directors browse list, I section, included with BrowseDirs.jsp -->
 
-  <div id='browselist' name='browselist'>
-    <table id='browseTable' name='browseTable'>
+  <div id="browselist">
+    <table id="browseTable">
       <tr>
         <td><a href='/cinefiles/FilmSearch?nameId=person29509'>Ichac, Marcel</a></td>
         <td><a href='/cinefiles/FilmSearch?nameId=person5699'>Indovina, Franco</a></td>

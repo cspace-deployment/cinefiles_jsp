@@ -24,13 +24,13 @@
   <body>
     <jsp:include page="/include/pgheader.jspf" />
 
-    <div id="container" name="container">
+    <div id="container">
 
-      <div id="searchside" name="searchside">
+      <div id="searchside">
         <%@ include file="/include/search.jspf" %>
       </div>
 
-      <div id="main" name="main">
+      <div id="main">
         <h2>No Search Results</h2>
 
         <p>Your search returned no results.</p>
@@ -78,6 +78,7 @@
       </div>
     </div>
 
-    <jsp:include page="/include/pgfooter.jspf" />
+    <%-- <jsp:include page="/include/pgfooter.jspf" /> --%>
+    <%@ include file="/include/pgfooter.jspf" %>
   </body>
 </html>

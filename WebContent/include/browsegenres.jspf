@@ -2,7 +2,7 @@
    The following is a list of genre classifications used with films catalogued
    in CineFiles.  Click on a genre term to get a list of related films.
 
-   <div id='navAlist' name='navAlist'>
+   <div id="navAlist">
      <ul>
        <li><a href="#A">A</a></li> <li><a href="#B">B</a></li>
        <li><a href="#C">C</a></li> <li><a href="#D">D</a></li>
@@ -20,9 +20,9 @@
      </ul>
    </div>  
 
-   <div id='browsePane' name='browsePane'>
-     <div id='browselist' name='browselist'>
-      <table id='browseTable' name='browseTable'>
+   <div id="browsePane">
+     <div id="browselist">
+      <table id="browseTable">
       <tr><th align='left' colspan='3'><a name='A' href='#'/></th></tr>
       <tr>
       <td><a href="/cinefiles/FilmSearch?genreId=genre199">Abstract animation</a></td>
@@ -52,11 +52,14 @@
       
       <tr><th align='left' colspan='3'><br /><a name='B' href='#'/></th></tr>
       <tr>
+     <td><a href="/cinefiles/FilmSearch?genreId=genre221">Bay Area avant-garde</a></td>
       <td><a href="/cinefiles/FilmSearch?genreId=genre12">Biographical</a></td>
       <td><a href="/cinefiles/FilmSearch?genreId=genre127">Biographical (Nonfiction)</a></td>
-      <td><a href="/cinefiles/FilmSearch?genreId=genre128">Buddy</a></td>
       </tr>
-      
+      <tr>
+      <td><a href="/cinefiles/FilmSearch?genreId=genre128">Buddy</a></td>
+      <td></td><td></td>
+      </tr>
       <tr><th align='left' colspan='3'><a name='C' href='#'/></th></tr>
       <tr>
       <td><a href="/cinefiles/FilmSearch?genreId=genre77">Caper</a></td>

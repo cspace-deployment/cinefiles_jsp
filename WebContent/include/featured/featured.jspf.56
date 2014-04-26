@@ -1,0 +1,12 @@
+        <%-- Featured Document section of the Welcome page --%>
+        <div id="bright">
+          <h2>Featured Document</h2>
+          <div id="ftdoc">
+             <a href="/cinefiles/DocDetail?docId=29146">
+             <img id="featuredImg"
+                  src="/cine_img/www_imgs.59/29146.c.jpeg"
+                  width="225" /></a>
+          </div>
+          <b><i>Star wars spectacular</i></b><br />
+          Source: <b>Famous Monsters of Filmland</b>, c1977<br />
+        </div>

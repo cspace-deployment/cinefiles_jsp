@@ -1,7 +1,7 @@
   <!-- Directors browse list, W section, included with BrowseDirs.jsp -->
 
-  <div id='browselist' name='browselist'>
-    <table id='browseTable' name='browseTable'>
+  <div id="browselist">
+    <table id="browseTable">
       <tr>
         <td><a href='/cinefiles/FilmSearch?nameId=person22008'>Wachsmann, Daniel</a></td>
         <td><a href='/cinefiles/FilmSearch?nameId=person13248'>Weisenborn, Christian</a></td>

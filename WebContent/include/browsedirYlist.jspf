@@ -1,7 +1,7 @@
   <!-- Directors browse list, Y section, included with BrowseDirs.jsp -->
 
-  <div id='browselist' name='browselist'>
-    <table id='browseTable' name='browseTable'>
+  <div id="browselist">
+    <table id="browseTable">
       <tr>
         <td><a href='/cinefiles/FilmSearch?nameId=person20406'>Yaguchi, Shinobu</a></td>
         <td><a href='/cinefiles/FilmSearch?nameId=person6001'>Yeaworth, Irvin S.,</a></td>

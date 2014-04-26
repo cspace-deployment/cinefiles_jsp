@@ -27,7 +27,7 @@ h1
   margin: 0px;
 }
 
-h2#lite
+h2.lite
 {
   font-family: Arial Black, Helvetica, Arial, sans-serif;
   color: #66AECD;
@@ -41,6 +41,16 @@ h2
   color: #569EBD;
   font-size: 16px;
   margin: 0px;
+}
+
+h2.dark
+{
+  color: #0078AB;
+}
+
+h2.red
+{
+	color: #FF5555;
 }
 
 h3
@@ -191,7 +201,7 @@ a:active
 
 a:focus
 {
-  -moz-outline-style: none;
+  outline-style: none;
 }
 
 div#searchside

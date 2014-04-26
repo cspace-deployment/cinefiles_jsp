@@ -38,9 +38,9 @@
   <body>
     <jsp:include page="/include/pgheader.jspf" />
 
-    <div id="container" name="container">
+    <div id="container">
 
-      <div id="searchside" name="searchside">
+      <div id="searchside">
         <%@ include file="/include/search.jspf" %>
 
         <br />
@@ -48,15 +48,16 @@
         <jsp:include page="/include/maintopics.jspf" />
       </div>
 
-      <div id="main" name="main">
+      <div id="main">
         <h2>Themes and Topics List</h2>
-        Film titles listed below in black have not yet been processed but will be
-        available soon; please check back!<br />
+        Film titles listed below in black have not yet been processed but
+        will be available soon; please check back!<br />
 
         <jsp:include page="/include/themestopics.jspf" />
       </div>
     </div>
 
-    <jsp:include page="/include/pgfooter.jspf" />
+    <%-- <jsp:include page="/include/pgfooter.jspf" /> --%>
+    <%@ include file="/include/pgfooter.jspf" %>
   </body>
 </html>

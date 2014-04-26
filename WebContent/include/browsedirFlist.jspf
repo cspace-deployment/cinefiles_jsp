@@ -1,7 +1,7 @@
   <!-- Directors browse list, F section, included with BrowseDirs.jsp -->
 
-  <div id='browselist' name='browselist'>
-    <id='browseTable' name='browseTable'>
+  <div id="browselist">
+    <table id="browseTable">
       <tr>
         <td><a href='/cinefiles/FilmSearch?nameId=person17488'>Fabre, Marcel</a></td>
         <td><a href='/cinefiles/FilmSearch?nameId=person29690'>Filiberti, Marco</a></td>

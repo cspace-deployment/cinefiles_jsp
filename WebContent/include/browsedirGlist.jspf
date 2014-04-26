@@ -1,7 +1,7 @@
   <!-- Directors browse list, G section, included with BrowseDirs.jsp -->
 
-  <div id='browselist' name='browselist'>
-    <div id='browseTable' name='browseTable'>
+  <div id="browselist">
+    <table id="browseTable">
       <tr>
         <td><a href='/cinefiles/FilmSearch?nameId=person4355'>Gabai, Richard</a></td>
         <td><a href='/cinefiles/FilmSearch?nameId=person24157'>Giovanni</a></td>

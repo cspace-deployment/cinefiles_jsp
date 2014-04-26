@@ -1,0 +1,14 @@
+        <%-- Featured Document section of the Welcome page --%>
+        <div id="bright">
+          <h2>Featured Document</h2>
+          <div id="ftdoc">
+             <a href="/cinefiles/DocDetail?docId=52087">
+             <img id="featuredImg"
+                  src="/cine_img/www_imgs.105/52087.c.jpeg"
+                  width="225" /></a>
+          </div>
+          <b><i>Francis Ford Coppola simply wants to 
+                create a whole new art form</i></b><br />
+          Author: <b>Jill Kearney</b><br />
+          Source: <b>Mother Jones</b>, 1988 Sept<br />
+        </div>

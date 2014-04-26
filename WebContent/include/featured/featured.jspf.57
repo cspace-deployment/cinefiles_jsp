@@ -1,0 +1,13 @@
+        <%-- Featured Document section of the Welcome page --%>
+        <div id="bright">
+          <h2>Featured Document</h2>
+          <div id="ftdoc">
+             <a href="/cinefiles/DocDetail?docId=48738">
+             <img id="featuredImg"
+                  src="/cine_img/www_imgs.98/48738.c.jpeg"
+                  width="225" /></a>
+          </div>
+          <b><i>War and peace</i></b><br />
+          Author: <b>Sergei Bondarchuk</b><br />
+          Source: <b>Walter Reade-Sterling</b>, 1968<br />
+        </div>

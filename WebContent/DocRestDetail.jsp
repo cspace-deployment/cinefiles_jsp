@@ -54,22 +54,22 @@
 
     <jsp:include page="/include/pgheader.jspf" />
 
-    <div id="container" name="container">
+    <div id="container">
 
-      <div id="searchside" name="searchside">
+      <div id="searchside">
         <%@ include file="/include/search.jspf" %>
 
         <h2>Document Citation
         <a href="/cinefiles/DocPdf?docId=${docdetail.docId}">
-        <img id="prncite" name="prncite" src="/cinefiles/cine_img/icons/download.gif"/>
+        <img id="prncite" src="/cine_img/icons/download.gif"/>
         </a></h2>
         <%@ include file="/include/doccite.jspf" %>
         <%@ include file="/include/docrestpages.jspf" %>
       </div>
 
-      <div id="main" name="main">
+      <div id="main">
         <h2>Page Image</h2>
-        <div id="imgPane" name="imgPane">
+        <div id="imgPane">
           <br /><br />
           <p>
             This document cannot be displayed here due to copyright
@@ -93,6 +93,7 @@
       </div>
     </div>
 
-    <jsp:include page="/include/pgfooter.jspf" />
+    <%-- <jsp:include page="/include/pgfooter.jspf" /> --%>
+    <%@ include file="/include/pgfooter.jspf" %>
   </body>
 </html>

@@ -1,6 +1,6 @@
-          <table width="400px">
+          <table>
             <tr>
-              <td><input value="1" name="contains"
+              <td style="width: 150px !important; display block;"><input value="1" name="contains"
                          type="checkbox"/>Filmography</td>
               <td><input value="2" name="contains"
                          type="checkbox" />Distribution Co.</td>

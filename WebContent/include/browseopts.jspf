@@ -1,4 +1,4 @@
-      <div id='browseopts' name='browseopts'>
+      <div id="browseopts">
         <h2>Browse Options</h2>
         <br />
         <a href="/cinefiles/BrowseDirs.jsp">
@@ -7,11 +7,19 @@
         <a href="/cinefiles/Directors.jsp">
           Directors with complete filmography indexed
         </a><br />
+        <a href="/cinefiles/BrowseBayAreaDirs.jsp">
+          Bay Area Avant-Garde Filmmakers
+        </a><br />
+        <br />
+        <a href="/cinefiles/BrowseFilmTitles.jsp">
+          All Film Titles
+        </a><br />
+        <a href="/cinefiles/BrowseBayAreaFilms.jsp">
+          Bay Area Avant-Garde Film Titles
+        </a><br />
+        <br />
         <a href="/cinefiles/BrowseGenres.jsp">
           Genre Terms
-        </a><br />
-        <a href="/cinefiles/BrowseFilmTitles.jsp">
-          Film Titles
         </a><br />
         <a href="/cinefiles/BrowseSubjects.jsp">
           Subjects

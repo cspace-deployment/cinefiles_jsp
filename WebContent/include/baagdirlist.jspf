@@ -1,0 +1,70 @@
+  <h2>Browse Bay Area Avant-Garde Filmmakers</h2>
+  <div id="baagdirh">
+    <p>
+      The following is a list of key avant-garde filmmakers who produced work
+      in the Bay Area. This list will only return the Bay Area films of the
+      featured filmmakers.
+    </p>
+    <p>
+      Films produced elsewhere by the featured filmmakers can be accessed
+      through the <i>All Directors</i> browse option in the left column.
+    </p>
+    <p>
+  	   Please note that this list is not comprehensive and only features
+      filmmakers where documents of high quality or interest are available
+      in the PFA Library collection.
+    </p>
+  </div>
+
+  <div id="navAlist">
+  <br />
+  </div>  
+
+  <div id="browsePane">
+    <div id="baagbrowselist">
+
+      <p>
+      <a href='/cinefiles/FilmSearch?nameId=person35302&genreId=genre221'><b>Allan, William</b></a>
+      </p><p>
+      <a href='/cinefiles/FilmSearch?nameId=person17003&genreId=genre221'><b>Baillie, Bruce</b></a>
+      </p><p>
+      <a href='/cinefiles/FilmSearch?nameId=person1258&genreId=genre221'><b>Baldwin, Craig</b></a>
+      </p><p>
+      <a href='/cinefiles/FilmSearch?nameId=person32343&genreId=genre221'><b>Belson, Jordan</b></a>
+      </p><p>
+      <a href='/cinefiles/FilmSearch?nameId=person17729&genreId=genre221'><b>Broughton, James</b></a>
+      </p><p>
+      <a href='/cinefiles/FilmSearch?nameId=person17414&genreId=genre221'><b>Dorsky, Nathaniel</b></a>
+      </p><p>
+      <a href='/cinefiles/FilmSearch?nameId=person4062&genreId=genre221'><b>Finley, Jeanne C.</b></a>
+      </p><p>
+      <a href='/cinefiles/FilmSearch?nameId=person4489&genreId=genre221'><b>Gehr, Ernie</b></a>
+      </p><p>
+      <a href='/cinefiles/FilmSearch?nameId=person35305&genreId=genre221'><b>Henderson, Mike</b></a>
+      </p><p>
+      <a href='/cinefiles/FilmSearch?nameId=person6683&genreId=genre221'><b>Kuchar, George</b></a>
+      </p><p>
+      <a href='/cinefiles/FilmSearch?nameId=person6998&genreId=genre221'><b>Leeson, Lynne Hershman</b></a>
+      </p><p>
+      <a href='/cinefiles/FilmSearch?nameId=person22464&genreId=genre221'><b>Lord, Chip</b></a>
+      </p><p>
+      <a href='/cinefiles/FilmSearch?nameId=person8127&genreId=genre221'><b>Minh-ha, Trinh T.</b></a>
+      </p><p>
+      <a href='/cinefiles/FilmSearch?nameId=person35250&genreId=genre221'><b>Nelson, Gunvor</b></a>
+      </p><p>
+      <a href='/cinefiles/FilmSearch?nameId=person8520&genreId=genre221'><b>Nelson, Robert</b></a>
+      </p><p>
+      <a href='/cinefiles/FilmSearch?nameId=person31246&genreId=genre221'><b>Peterson, Sidney</b></a>
+      </p><p>
+      <a href='/cinefiles/FilmSearch?nameId=person9838&genreId=genre221'><b>Riggs, Marlon</b></a>
+      </p><p>
+      <a href='/cinefiles/FilmSearch?nameId=person35204&genreId=genre221'><b>Singer, Joel</b></a>
+      </p><p>
+      <a href='/cinefiles/FilmSearch?nameId=person11255&genreId=genre221'><b>Strand, Chick</b></a>
+      </p><p>
+      <a href='/cinefiles/FilmSearch?nameId=person35251&genreId=genre221'><b>Wiley, Dorothy</b></a>
+      </p><p>
+      <a href='/cinefiles/FilmSearch?nameId=person35303&genreId=genre221'><b>Wiley, William T.</b></a>
+      </p>
+    </div>
+  </div>

@@ -4,9 +4,7 @@
            "/cinefiles/css/filmsearch.css",
         --%>
 
-        <form id="filmForm" name="filmForm"
-              method="post" action="/cinefiles/FilmSearch">
-
+        <form id="filmForm" method="post" action="/cinefiles/FilmSearch">
           <input class="fbutton" value="Search" type="submit"/>
           <input class="fbutton" value="Clear"  type="reset"/><br /><br />
 

@@ -29,13 +29,13 @@
   <body>
     <jsp:include page="/include/pgheader.jspf" />
 
-    <div id="container" name="container">
+    <div id="container">
 
-      <div id="searchside" name="searchside">
+      <div id="searchside">
         <%@ include file="/include/search.jspf" %>
       </div>
 
-      <div id="main" name="main">
+      <div id="main">
         <h2>Contact Us</h2>
         <br />
         <p><b>Mailing Address</b><br />
@@ -57,8 +57,6 @@
         <a href="mailto:cinefiles@berkeley.edu">cinefiles@berkeley.edu</a>
         <br />Nancy Goldman, Project Supervisor:
         <a href="mailto:nlg@berkeley.edu">nlg@berkeley.edu</a><br />
-        Anuj Vaidya, CineFIles Outreach Coordinator:
-        <a href="mailto:anujv@berkeley.edu">anujv@berkeley.edu</a></p><br />
 
         <p>You can also send us a message through the
         <a href="/cinefiles/Comments.jsp">comments</a>
@@ -66,6 +64,7 @@
       </div>
     </div>
 
-    <jsp:include page="/include/pgfooter.jspf" />
+    <%-- <jsp:include page="/include/pgfooter.jspf" /> --%>
+    <%@ include file="/include/pgfooter.jspf" %>
   </body>
 </html>

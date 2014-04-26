@@ -6,6 +6,7 @@
   the FilmDetail servlet, a title, and a short string of additional
   related information.
 --%>
+
 <%@ taglib prefix="fn" uri="http://java.sun.com/jsp/jstl/functions" %>
 
  		<c:set var="reclist" value="${filmlist.filmRecs}"/>
@@ -35,8 +36,8 @@
           </select></p>
         </c:if>
 
-        <div id="results" name="results">
-          <ol id="filmol" name="filmol">
+        <div id="results">
+          <ol id="filmol">
             <c:forEach var="listitem" items="${reclist}">
               <li>
                 <a href="/cinefiles/FilmDetail?filmId=${listitem[0]}">

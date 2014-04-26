@@ -1,7 +1,7 @@
   <!-- Directors browse list, Z section, included with BrowseDirs.jsp -->
 
-  <div id='browselist' name='browselist'>
-    <table id='browseTable' name='browseTable'>
+  <div id="browselist">
+    <table id="browseTable">
       <tr>
         <td><a href='/cinefiles/FilmSearch?nameId=person26185'>Zábka, Michal</a></td>
         <td><a href='/cinefiles/FilmSearch?nameId=person12794'>Zetterling, Mai</a></td>

@@ -1,0 +1,12 @@
+        <%-- Featured Document section of the Welcome page --%>
+        <div id="bright">
+          <h2>Featured Document</h2>
+          <div id="ftdoc">
+             <a href="/cinefiles/DocDetail?docId=28087">
+             <img id="featuredImg"
+                  src="/cine_img/www_imgs.57/28087.c.jpeg"
+                  width="225" /></a>
+          </div>
+          <b><i>The River</i></b><br />
+          Source: <b>United Artists Corporation</b><br />
+        </div>

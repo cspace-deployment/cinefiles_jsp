@@ -1,5 +1,5 @@
     <!-- CineFiles page header with banner image -->
-    <div id="header" name="header">
+    <div id="header">
       <map name="pgheadermap">
         <area shape="rect" coords="2, 10, 250, 48"
               href="/cinefiles/Welcome.jsp" />
@@ -7,7 +7,7 @@
               href="http://bampfa.berkeley.edu" />
       </map>
 
-      <img src="/cinefiles/cine_img/icons/cinefiles_p.png"
+      <img src="/cine_img/icons/cinefiles_p.png"
            usemap="#pgheadermap" border="0" />
     </div>
 

@@ -1,0 +1,12 @@
+        <%-- Featured Document section of the Welcome page --%>
+        <div id="bright">
+          <h2>Featured Document</h2>
+          <div id="ftdoc">
+             <a href="/cinefiles/DocDetail?docId=40427">
+             <img id="featuredImg"
+                  src="/cine_img/www_imgs.81/40427.c.jpeg"
+                  width="225" /></a>
+          </div>
+          <b><i>La corazzata Potëmkin</i></b><br />
+          Source: <b>Teatro comunale</b>, 2005 Jul 02<br />
+        </div>

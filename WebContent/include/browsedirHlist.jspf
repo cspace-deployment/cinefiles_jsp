@@ -1,7 +1,7 @@
   <!-- Directors browse list, H section, included with BrowseDirs.jsp -->
 
-  <div id='browselist' name='browselist'>
-    <table id='browseTable' name='browseTable'>
+  <div id="browselist">
+    <table id="browseTable">
        <tr>
         <td><a href='/cinefiles/FilmSearch?nameId=person5043'>Haanstra, Bert</a></td>
         <td><a href='/cinefiles/FilmSearch?nameId=person26389'>Hayers, Sidney</a></td>

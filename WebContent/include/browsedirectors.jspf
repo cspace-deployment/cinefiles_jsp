@@ -11,7 +11,7 @@ indexed in CineFiles do not always represent the complete filmography of
 a director. For a list of directors whose entire filmography is indexed
 in CineFiles, please click <a href="/cinefiles/Directors.jsp">here</a>.
 
-<div id='navAlist' name='navAlist'>
+<div id="navAlist">
   <ul>
     <li>
       <a href="NoJs.jsp"
@@ -120,6 +120,7 @@ in CineFiles, please click <a href="/cinefiles/Directors.jsp">here</a>.
   </ul>
 </div>
 
-<div id='browsePane' name='browsePane'>
-  <jsp:include page="/include/browsedirAlist.jspf" />
+<div id="browsePane">
+  <%-- <jsp:include page="/include/browsedirAlist.jspf" /> --%>
+  <div id="pad" />
 </div>

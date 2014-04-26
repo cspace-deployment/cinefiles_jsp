@@ -1,0 +1,61 @@
+/*
+ * The style-sheet included with BayAreaAvantGarde.jsp
+ *
+ * Creates styles specific to the JSP, and provides a place where
+ * more generic settings can be overridden.
+ */
+ 
+div#main
+{
+  top: 18px;
+}
+	
+div#lmain
+{
+  top: 28px;
+  left: 0px;
+  width: 375px;
+  position: relative;
+  clear: both;
+}
+
+div#rmain
+{
+  top: 57px;
+  left: 425px;
+  width: 175px;
+  position: absolute;
+  clear: both;
+}
+
+div#radcite
+{
+  font-family: Arial Black, Helvetica, Arial, sans-serif;
+  font-size: 14x;
+  color: black;
+  margin-bottom: 10px;
+}
+
+div#footer
+{
+  top: 75px;
+}
+
+h2.relnk1
+{
+  font-family: Arial Black, Helvetica, Arial, sans-serif;
+  color: #0078AB;
+  font-size: 13px;
+  margin-top: 13px;
+  margin-left: 7px;
+}
+
+h2.relnk2
+{
+  font-family: Arial Black, Helvetica, Arial, sans-serif;
+  color: #0078AB;
+  font-size: 13px;
+  margin-top: 4px;
+  margin-left: 7px;
+}
+

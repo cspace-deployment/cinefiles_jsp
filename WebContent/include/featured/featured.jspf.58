@@ -1,0 +1,14 @@
+        <%-- Featured Document section of the Welcome page --%>
+        <div id="bright">
+          <h2>Featured Document</h2>
+          <div id="ftdoc">
+             <a href="/cinefiles/DocDetail?docId=52222">
+             <img id="featuredImg"
+                  src="/cine_img/www_imgs.105/52222.c.jpeg"
+                  width="225" /></a>
+          </div>
+          <b><i>Ways of seeing Senegal: 
+          interview with Trinh T. Minh-ha</i></b><br />
+          Authors: <b>Kathleen Hulser</b><br />
+          Source: <b>Independent Film &amp; Video Monthly</b>, 1983 Dec<br />
+        </div>

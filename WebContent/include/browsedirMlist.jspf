@@ -1,7 +1,7 @@
   <!-- Directors browse list, M section, included with BrowseDirs.jsp -->
 
-  <div id='browselist' name='browselist'>
-    <table id='browseTable' name='browseTable'>
+  <div id="browselist">
+    <table id="browseTable">
       <tr>
         <td><a href='/cinefiles/FilmSearch?nameId=person13184'>M'bala, Roger Gnoan</a></td>
         <td><a href='/cinefiles/FilmSearch?nameId=person30141'>Matsumura, Katsuya</a></td>

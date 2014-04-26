@@ -15,12 +15,32 @@ div#results
   position: relative;
 }
 
+div#revresults
+{
+  width: 575px;
+  height: 400px;
+  overflow: auto;
+  margin-top: 15px;
+  position: relative;
+}
+
 div#results ol
 {
-  padding-left: 25px;
+  padding-left: 35px;
+}
+
+div#revresults ol
+{
+  padding-left: 35px;
 }
 
 div#results li
+{
+  margin-bottom: 10px;
+  padding-left:10px;
+}
+
+div#revresults li
 {
   margin-bottom: 10px;
   padding-left:10px;

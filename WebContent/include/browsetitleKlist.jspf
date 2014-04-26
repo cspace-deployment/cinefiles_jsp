@@ -1,5 +1,5 @@
-      <div id='browselist' name='browselist'>
-        <table id='browseTable' name='browseTable'>
+      <div id='browselist'>
+        <table id='browseTable'>
           <tr>
             <td>
               <a href='/cinefiles/FilmDetail?filmId=pfafilm29851'>
@@ -603,7 +603,7 @@
             </td>
             <td>
               <a href='/cinefiles/FilmDetail?filmId=pfafilm29858'>
-                 Kiss & kill
+                 Kiss &amp; kill
               </a>
             </td>
             <td>
@@ -620,7 +620,7 @@
             </td>
             <td>
               <a href='/cinefiles/FilmDetail?filmId=pfafilm25012'>
-                 Kiss & tell
+                 Kiss &amp; tell
               </a>
             </td>
             <td>

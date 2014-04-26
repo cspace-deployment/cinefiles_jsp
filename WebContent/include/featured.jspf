@@ -1,13 +1,13 @@
-        <%-- Featured Document section of the Welcome page --%>
-        <div id='bright' name='bright'>
+        <!-- Featured Document section of the Welcome page -->
+        <div id="bright">
           <h2>Featured Document</h2>
-          <div id='ftdoc' name='ftdoc'>
-             <a href="/cinefiles/DocDetail?docId=4806">
-             <img id='featuredImg' name='featuredImg'
-                  src="/cinefiles/cine_img/www_imgs.10/4806.p1.jpeg"
+          <div id="ftdoc">
+             <a href="/cinefiles/DocDetail?docId=47785">
+             <img id="featuredImg"
+                  src="/cine_img/www_imgs.96/47785.c.jpeg"
                   width="225" /></a>
           </div>
-
-          Program for Orson Welles' <i>Citizen Kane</i>,
-          produced by RKO Pictures.
+          <b><i>Yvonne Rainer on feminism and her film</i></b><br />
+          Author: <b>Lucy R. Lippard</b><br />
+          Source: <b>Feminist Art Journal</b>, 1975<br />
         </div>

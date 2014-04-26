@@ -2,7 +2,7 @@
 The following is a list of document subjects that have been cataloged in
 CineFiles as of June 2009, alphabetized by subject term.
 
-<div id='navAlist' name='navAlist'>
+<div id="navAlist">
   <ul>
     <li>
       <a href="NoJs.jsp"
@@ -111,6 +111,6 @@ CineFiles as of June 2009, alphabetized by subject term.
   </ul>
 </div>
 
-<div id='browsePane' name='browsePane'>
-  <jsp:include page="/include/browsesubjAlist.jspf" />
+<div id="browsePane">
+   <div id="pad"/>
 </div>

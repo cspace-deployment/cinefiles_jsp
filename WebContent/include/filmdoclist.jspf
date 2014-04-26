@@ -13,8 +13,8 @@
           <option value="date">Publication Date</option>
         </select></p>
 
-        <div id='results' name='results'>
-          <ol id='docol' name='docol'>
+        <div id="results">
+          <ol id="docol">
             <c:forEach var="listitem" items="${reclist}">
               <li>
                 <a href="/cinefiles/DocDetail?docId=${listitem[0]}">

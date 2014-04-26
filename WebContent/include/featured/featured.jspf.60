@@ -1,0 +1,12 @@
+        <%-- Featured Document section of the Welcome page --%>
+        <div id="bright">
+          <h2>Featured Document</h2>
+          <div id="ftdoc">
+             <a href="/cinefiles/DocDetail?docId=34991">
+             <img id="featuredImg"
+                  src="/cine_img/www_imgs.70/34991.c.jpeg"
+                  width="225" /></a>
+          </div>
+          <b><i>What's up Tiger Lily?</i></b><br />
+          Source: <b>American International Pictures</b>, c1966<br />
+        </div>

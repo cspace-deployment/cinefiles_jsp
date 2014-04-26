@@ -1,5 +1,5 @@
-      <div id='browselist' name='browselist'>
-        <table id='browseTable' name='browseTable'>
+      <div id='browselist'>
+        <table id='browseTable'>
           <tr>
             <td>
               <a href='/cinefiles/FilmDetail?filmId=pfafilm30384'>

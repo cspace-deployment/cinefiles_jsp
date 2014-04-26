@@ -32,14 +32,14 @@
   </head>
 
   <body>
-    <jsp:include page="/include/wpgheader.jspf" />
+    <%@ include file="/include/wpgheader.jspf" %>
 
-    <div id="container" name="container">
+    <div id="container">
 
       <%@ include file="/include/wsearch.jspf" %>
 
-      <div id="main" name="main">
-        <div id="bleft" name="bleft">
+      <div id="main">
+        <div id="bleft">
           <h2>CineFiles</h2>
           <p>
             contains scanned images of reviews, press
@@ -53,7 +53,7 @@
             clearance. New titles and document images
             are added daily.
           </p>
-
+ 
           <p>
             CineFiles currently includes documents
             on the films of more than 150 major
@@ -65,9 +65,14 @@
             among other documents.
           </p>
 
+          <br />
+          <h2>
+            <a href="http://www.surveymonkey.com/s.aspx?sm=awo8xoQFfSFquCm7S7hXAQ_3d_3d">Take Our Survey</a>
+          </h2>
+          <p>Your feedback helps sustain and improve CineFiles</p><br />
+ 
         </div>
-
-        <div id="bcenter" name="bcenter">
+        <div id="bcenter">
           <h2>
             <a href="/cinefiles/ForEducators.jsp">Portal for Educators</a>
           </h2>
@@ -76,21 +81,33 @@
             Film recommendations for a variety of
             themes and topics; resource guides for
             select films and links to other resources.
-          </p><br /><br />
+          </p><br />
+
+          <h2 class="dark">
+            Research Projects
+          </h2>
+            
+          <p>
+            Learn more about IMLS funded projects:
+            <a href="http://bampfa.berkeley.edu/copyright_project">
+            Copyright Resources Project</a> and
+            <a href="http://bampfa.berkeley.edu/pfalibrary/cinefiles_outcomes">
+            Teaching with CineFiles</a>.
+          </p><br />
 
           <h2>
-            <a href="http://www.bampfa.berkeley.edu/copyright_project/">
-              Copyright<br />Resources Project</a>
+            <a href="/cinefiles/BayAreaAvantGarde.jsp">Bay Area Avant-Garde</a>
           </h2>
-
-          <p>information on working with copyright-protected
-             materials in a digital environment.</p><br /><br />
-
+          <p>
+            <b>New Module!</b> Expanded information on key films and filmmakers
+            featured in BAM/PFA's recently published book <i>Radical Light</i>.
+          </p><br />
+ 
           <h2>
             <a href="https://givetocal.berkeley.edu/egiving/index.cfm?Org=%20BAM%2FPFA%20CineFiles%20Project%20Fund&Fund=FU0968000" />
             Support CineFiles</a>
           </h2>
-
+ 
           <p>
             All gifts, large and small, help us grow this
             relevant and important project. Thanks!
@@ -99,20 +116,24 @@
           <map name="donmap">
           	<area shape="rect" coords="1, 1, 60, 18"
           	      href="https://givetocal.berkeley.edu/egiving/index.cfm?Org=%20BAM%2FPFA%20CineFiles%20Project%20Fund&Fund=FU0968000" />
-          </map>
-          <img src="/cinefiles/cine_img/icons/donate.png"
+          </map>            
+          <img src="/cine_img/icons/donate.png"
                usemap="#donmap" border="0" />
-
         </div>
 
-        <%@ include file="/include/featured.jspf" %>
+        <%-- <%@ include file="/include/featured.jspf" %> --%>
+        <jsp:include page="/include/featured.jspf" />
 
-        <div id="credits" name="credits">
-          <div id="clogos" name="clogos">
-            <img src="/cinefiles/cine_img/icons/logos.png" height="50" />
+        <div id="credits">
+          <br />
+          <div id="advisory">
           </div>
 
-          <div id="ctext" name="ctext">
+          <div id="clogos">
+            <img src="/cine_img/icons/logos.png" height="50" />
+          </div>
+ 
+          <div id="ctext">
             UC Berkeley's <a href="http://www.mip.berkeley.edu">
             Museum Informatics Project</a> provides database design,
             database management support and software maintenance for
@@ -128,7 +149,8 @@
       </div>
     </div>
 
-    <jsp:include page="/include/pgfooter.jspf" />
+    <%-- <jsp:include page="/include/pgfooter.jspf" /> --%>
+    <%@ include file="/include/pgfooter.jspf" %>
   </body>
 </html>
 

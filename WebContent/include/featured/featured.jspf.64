@@ -1,0 +1,13 @@
+        <%-- Featured Document section of the Welcome page --%>
+        <div id="bright">
+          <h2>Featured Document</h2>
+          <div id="ftdoc">
+             <a href="/cinefiles/DocDetail?docId=35722">
+             <img id="featuredImg"
+                  src="/cine_img/www_imgs.72/35722.c.jpeg"
+                  width="225" /></a>
+          </div>
+          <b><i>I'm easy</i></b><br />
+          Author: <b>Keith Carradine</b><br />
+          Source: <b>American Broadcasting Co.</b>, c1975<br />
+        </div>

@@ -1,7 +1,7 @@
   <!-- Directors browse list, E section, included with BrowseDirs.jsp -->
 
-  <div id='browselist' name='browselist'>
-    <div id='browseTable  name='browseTable'>
+  <div id="browselist">
+    <table id="browseTable">
       <tr>
         <td><a href='/cinefiles/FilmSearch?nameId=person25257'>Eames, Charles</a></td>
         <td><a href='/cinefiles/FilmSearch?nameId=person3740'>Elek, Judit</a></td>

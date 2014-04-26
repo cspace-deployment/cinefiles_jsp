@@ -12,14 +12,6 @@ div#title
   float: left;
 }
 
-div#xxxsubtitle
-{
-  top: 30px;
-  width: 475px;
-  position: relative;
-  float: right;
-}
-
 div#search
 {
   clear: both;
@@ -127,6 +119,8 @@ div#footer img
 div#advisory
 {
   float: left;
-  width: 225px;
-  margin-right: 50px;	
+  width: 175px;
+  padding: 1em;
+  margin-right: 25px;	
 }
+

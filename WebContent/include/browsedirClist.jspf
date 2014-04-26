@@ -1,7 +1,7 @@
   <!-- Directors browse list, C section, included with BrowseDirs.jsp -->
 
-  <div id='browselist' name='browselist'>
-    <table id='browseTable' name='browseTable'>
+  <div id="browselist">
+    <table id="browseTable">
       <tr>
         <td><a href='/cinefiles/FilmSearch?nameId=person23521'>Cabanne, Christy</a></td>
         <td><a href='/cinefiles/FilmSearch?nameId=person2569'>Chandran, T. V.</a></td>

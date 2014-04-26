@@ -54,47 +54,46 @@
 
     <jsp:include page="/include/pgheader.jspf" />
 
-    <div id="container" name="container">
+    <div id="container">
 
-      <div id="searchside" name="searchside">
+      <div id="searchside">
         <%@ include file="/include/search.jspf" %>
 
         <h2>Document Citation
         <a href="/cinefiles/DocPdf?docId=${docdetail.docId}">
-        <img id="prncite" name="prncite" src="/cinefiles/cine_img/icons/download.gif"/>
+        <img id="prncite" src="/cine_img/icons/download.gif"/>
         </a></h2>
         <%@ include file="/include/doccite.jspf" %>
         <%@ include file="/include/docpages.jspf" %>
       </div>
 
-      <div id="main" name="main">
+      <div id="main">
         <h2>Page Image</h2>
         <p>Click image to enlarge (will enlarge up to 5 times)</p><br />
 
         <p>Download document as PDF.
         <a href="/cinefiles/DocPdf?docId=${docdetail.docId}&pgs=all">
-          <img src="/cinefiles/cine_img/icons/download.gif"/></a>
+          <img src="/cine_img/icons/download.gif"/></a>
 
-        <span id='zoomwin' name='zoomwin'>View page in separate window.
+        <span id='zoomwin'>View page in separate window.
         <a href="/cinefiles/NoJs.jsp"
            onclick="openImgWindow( '${qtitle}', '${qauthors}', '${qsource}' ,'${qdate}' );return false;">
-           <img src="/cinefiles/cine_img/icons/zoomwin.png" /></a>
+           <img src="/cine_img/icons/zoomwin.png" /></a>
         </span>
 
-        <input id="prevlnk2" name="prevlnk2" type="image"
-               src="/cinefiles/cine_img/icons/larrow.png"
+        <input id="prevlnk2" type="image" src="/cine_img/icons/larrow.png"
                onfocus="this.blur();" onclick="prevTn();" />
 
-        <input id="nextlnk2" name="nextlnk2" type="image"
-               src="/cinefiles/cine_img/icons/rarrow.png"
+        <input id="nextlnk2" type="image" src="/cine_img/icons/rarrow.png"
                onfocus="this.blur();" onclick="nextTn();" />
         </p><br />
 
-        <div id="imgPane" name="imgPane">
+        <div id="imgPane">
         </div>
       </div>
     </div>
 
-    <jsp:include page="/include/pgfooter.jspf" />
+    <%-- <jsp:include page="/include/pgfooter.jspf" /> --%>
+    <%@ include file="/include/pgfooter.jspf" %>
   </body>
 </html>

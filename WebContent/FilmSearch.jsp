@@ -36,12 +36,12 @@
   <body>
     <jsp:include page="/include/pgheader.jspf" />
 
-    <div id="container" name="container">
+    <div id="container">
 
-      <div id="searchside" name="searchside">
+      <div id="searchside">
         <%@ include file="/include/search.jspf" %>
 
-        <div id="tips" name="tips">
+        <div id="tips">
           <h2>Search Tips</h2>
 
           <p>Conduct a search using just one field, or a
@@ -65,7 +65,7 @@
          </div>
       </div>
 
-      <div id="main" name="main">
+      <div id="main">
         <h2>Advanced Film Search</h2>
 
         <p>Use the Film Search form to look for information about specific
@@ -77,7 +77,8 @@
       </div> 
     </div>
 
-    <jsp:include page="/include/pgfooter.jspf" />
+    <%-- <jsp:include page="/include/pgfooter.jspf" /> --%>
+    <%@ include file="/include/pgfooter.jspf" %>
   </body>
 </html>
 

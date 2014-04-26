@@ -1,7 +1,7 @@
   <!-- Directors browse list, U section, included with BrowseDirs.jsp -->
 
-  <div id='browselist' name='browselist'>
-    <table id='browseTable' name='browseTable'>
+  <div id="browselist">
+    <table id="browseTable">
       <tr>
         <td><a href='/cinefiles/FilmSearch?nameId=person22712'>Ugaz, Marite</a></td>
         <td><a href='/cinefiles/FilmSearch?nameId=person12936'>Ün, Memduh</a></td>

@@ -1,6 +1,6 @@
 <!-- The standard CineFiles footer, included on every page -->
 
-  <div id="footer" name="footer">
+  <div id="footer">
     <map name="footermap">
       <area shape="rect" coords="1, 1, 140, 24"
             href="http://bampfa.berkeley.edu" />
@@ -20,5 +20,5 @@
             href="/cinefiles/Contact.jsp" />
     </map>
 
-    <img src="/cinefiles/cine_img/icons/pgfooter.gif" usemap="#footermap" border="0" />
+    <img src="/cine_img/icons/pgfooter.gif" usemap="#footermap" border="0" />
   </div>

@@ -1,6 +1,6 @@
 <h2>Directors whose films have been indexed in CineFiles as of July, 2008</h2>
 
-   <div id='navAlist' name='navAlist'>
+   <div id="navAlist">
      <ul>
        <li><a href="#A">A</a></li> <li><a href="#B">B</a></li>
        <li><a href="#C">C</a></li> <li><a href="#D">D</a></li>
@@ -18,8 +18,8 @@
      </ul>
    </div>
 
-<div id='dirlist' name='dirlist'>
-<table id='dirTable' name='dirTable'>
+<div id="dirlist">
+<table id="dirTable">
 <tr><td colspan='3'><a name='A' href='#'/></td></tr>
 <tr><td><a href='/cinefiles/FilmSearch?nameId=person729'>Abulaze, Tengiz</a></td>
 <td><a href='/cinefiles/FilmSearch?nameId=person378'>Altman, Robert</a></td>
@@ -213,7 +213,7 @@
 <tr><td colspan='3'><a name='T' href='#'/><br /></td></tr>
 <tr><td><a href='/cinefiles/FilmSearch?nameId=person11473'>Tanner, Alain</a></td>
 <td><a href='/cinefiles/FilmSearch?nameId=person11733'>Tourneur, Jacques</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person11801'>Truffaut, Francois</a></td></tr>
+<td><a href='/cinefiles/FilmSearch?nameId=person11801'>Truffaut, François</a></td></tr>
 <tr><td><a href='/cinefiles/FilmSearch?nameId=person11547'>Terayama, Shuji</a></td>
 <td><a href='/cinefiles/FilmSearch?nameId=person11746'>Toyoda, Shiro</a></td>
 <td></td></tr>

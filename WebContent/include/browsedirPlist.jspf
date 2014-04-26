@@ -1,7 +1,7 @@
   <!-- Directors browse list, P section, included with BrowseDirs.jsp -->
 
-  <div id='browselist' name='browselist'>
-    <table id='browseTable' name='browseTable'>
+  <div id="browselist">
+    <table id="browseTable">
       <tr>
         <td><a href='/cinefiles/FilmSearch?nameId=person8910'>Pabst, Georg Wilhelm</a></td>
         <td><a href='/cinefiles/FilmSearch?nameId=person9117'>Peploe, Mark</a></td>

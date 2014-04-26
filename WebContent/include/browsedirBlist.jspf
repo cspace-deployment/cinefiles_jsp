@@ -1,7 +1,7 @@
   <!-- Directors browse list, B section, included with BrowseDirs.jsp -->
 
-  <div id='browselist' name='browselist'>
-    <table id='browseTable' name='browseTable'>
+  <div id="browselist">
+    <table id="browseTable">
       <tr>
         <td><a href='/cinefiles/FilmSearch?nameId=person31013'>B., Beth</a></td>
         <td><a href='/cinefiles/FilmSearch?nameId=person26635'>Berger, William</a></td>

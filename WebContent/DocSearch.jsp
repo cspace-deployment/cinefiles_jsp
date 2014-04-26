@@ -36,12 +36,12 @@
   <body>
     <jsp:include page="/include/pgheader.jspf" />
 
-    <div id="container" name="container">
+    <div id="container">
 
-      <div id="searchside" name="searchside">
+      <div id="searchside">
         <%@ include file="/include/search.jspf" %>
 
-        <div id="tips" name="tips">
+        <div id="tips">
           <h2>Search Tips</h2>
 
           <p>Conduct a search using just one field,
@@ -68,19 +68,20 @@
          </div>
       </div>
 
-      <div id="main" name="main">
+      <div id="main">
         <h2>Advanced Document Search</h2>
 
-        <p>Use the Document Search form to look for documents by title,
+        <p>Use this Document Search form to look for documents by title,
            author, date or publication; documents about specific films,
            people or subjects; documents containing technical credits,
            productions costs, or other categories of information pertaining
            to a film; or any combination of these.</p>
 
-         <%@ include file="/include/docsearch.jspf" %>
+        <%@ include file="/include/docsearch.jspf" %> 
       </div>
     </div>
 
-    <jsp:include page="/include/pgfooter.jspf" />
+    <%-- <jsp:include page="/include/pgfooter.jspf" /> --%>
+    <%@ include file="/include/pgfooter.jspf" %>
   </body>
 </html>

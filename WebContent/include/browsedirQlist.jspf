@@ -1,7 +1,7 @@
   <!-- Directors browse list, Q section, included with BrowseDirs.jsp -->
 
-  <div id='browselist' name='browselist'>
-    <table id='browseTable' name='browseTable'>
+  <div id="browselist">
+    <table id="browseTable">
       <tr>
         <td><a href='/cinefiles/FilmSearch?nameId=person20469'>Quakenbush, Corky</a></td>
         <td><a href='/cinefiles/FilmSearch?nameId=person25620'>Queeny, Edgar Monsanto</a></td>

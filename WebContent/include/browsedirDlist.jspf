@@ -1,7 +1,7 @@
   <!-- Directors browse list, D section, included with BrowseDirs.jsp -->
 
-  <div id='browselist' name='browselist'>
-    <table id='browseTable' name='browseTable'>
+  <div id="browselist">
+    <table id="browseTable">
       <tr>
         <td><a href='/cinefiles/FilmSearch?nameId=person25619'>D'Amato, Joe</a></td>
         <td><a href='/cinefiles/FilmSearch?nameId=person24758'>De Salvo, Anne</a></td>

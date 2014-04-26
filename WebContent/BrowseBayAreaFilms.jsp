@@ -43,7 +43,8 @@
 
   <body>
 
-    <jsp:include page="/include/pgheader.jspf" />
+    <%-- <jsp:include page="/include/pgheader.jspf" /> --%>
+    <%@ include file="/include/pgheader.jspf" %>
 
     <div id="container">
 
@@ -53,10 +54,12 @@
       </div>
  
       <div id="main">         
-        <%@ include file="/include/baagfilmtitles.jspf" %>
+        <%-- <%@ include file="/include/baagfilmtitles.jspf" %> --%>
+        <jsp:include page="/include/baagfilmtitles.jspf" />
       </div>
     </div>
 
-    <jsp:include page="/include/pgfooter.jspf" />
+    <%-- <jsp:include page="/include/pgfooter.jspf" /> --%>
+    <%@ include file="/include/pgfooter.jspf" %>
   </body>
 </html>

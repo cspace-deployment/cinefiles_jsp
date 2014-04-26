@@ -1,7 +1,7 @@
   <!-- Directors browse list, S section, included with BrowseDirs.jsp -->
 
-  <div id='browselist' name='browselist'>
-    <table id='browseTable' name='browseTable'>
+  <div id="browselist">
+    <table id="browseTable">
       <tr>
         <td><a href='/cinefiles/FilmSearch?nameId=person10195'>Saab, Jocelyne</a></td>
         <td><a href='/cinefiles/FilmSearch?nameId=person14110'>Seeger, Toshi</a></td>

@@ -4,7 +4,7 @@
            DocDetailServlet in a DocDetail object.
       --%>
 
-      <div id='citation' name='citation'>
+      <div id="citation">
          <citation>TITLE</citation><br />
          <b>${docdetail.title}</b><br /><br />
 

@@ -1,20 +1,19 @@
-      <%--
+      <!--
         This fragment contains the search block that is positioned
         at the top of the Welcome page.
-      --%>
+      -->
 
-      <div id="search" name="search">
-        <div id="stitle" name="stitle">
+      <div id="search">
+        <div id="stitle">
           <h5>Search<br />
           CineFiles Database</h5>
         </div>
-        <div id="search1" name="search1">
-          <form id="wquickform" name="wquickform"
-                method="post" action="/cinefiles/FilmSearch"
+        <div id="search1">
+          <form id="wquickform" method="post" action="/cinefiles/FilmSearch"
                 onsubmit="this.quickterm.required = true;
                           return checkFormInput( this );">
 
-            <input id="quickterm" name="quickterm" type="text"/>
+            <input id="quickterm" type="text" name="quickterm" />
 
             <select id="quicktype" name="quicktype" size="1">
               <option value="title">Film Title</option>
@@ -27,7 +26,7 @@
           </form>
         </div>
 
-        <div id="search2" name="search2">
+        <div id="search2">
           <label class="sellabel">Advanced Search by</label>
           <select id="advancedType" name="advancedType" size="1"
                   onchange="goToSearch(this);">
@@ -35,13 +34,15 @@
             <option value="doc">Document</option>
             <option value="film">Film</option>
           </select>
-      
+
           <label class="sellabel">Browse Lists</label>
           <select id="browseBy" name="browseBy" size="1"
                onchange="goToBrowse(this);">
             <option value="" selected="selected">Browse by</option>
             <option value="director">Director</option>
+            <option value="baagdirector">Bay Area Avant-Garde Filmmaker</option>
             <option value="film">Film Title</option>
+            <option value="baagfilm">Bay Area Avant-Garde Film Title</option>
             <option value="genre">Genre</option>
             <option value="subject">Subject</option>
             <option value="featured">Featured Documents</option>

@@ -4,7 +4,7 @@ as of June 2009. The browse list is alphabetized by film title, excluding
 initial articles and puntuation.  Film titles which begin with a number are
 ordered as if the number in the title was spelled out( i.e. 7 = "seven" ).
 
-<div id='navAlist' name='navAlist'>
+<div id="navAlist">
   <ul>
     <li>
       <a href="NoJs.jsp"
@@ -113,6 +113,7 @@ ordered as if the number in the title was spelled out( i.e. 7 = "seven" ).
   </ul>
 </div>
 
-<div id='browsePane' name='browsePane'>
-  <jsp:include page="/include/browsetitleAlist.jspf" />
+<div id="browsePane">
+  <%-- <jsp:include page="/include/browsetitleAlist.jspf" /> --%>
+  <div id="pad"></div>
 </div>

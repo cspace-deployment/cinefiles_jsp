@@ -1,0 +1,12 @@
+        <%-- Featured Document section of the Welcome page --%>
+        <div id="bright">
+          <h2>Featured Document</h2>
+          <div id="ftdoc">
+             <a href="/cinefiles/DocDetail?docId=35395">
+             <img id="featuredImg"
+                  src="/cine_img/www_imgs.71/35395.c.jpeg"
+                  width="225" /></a>
+          </div>
+          <b><i>Singin' in the rain</i></b><br />
+          Source: <b>Metro-Goldwyn-Mayer</b>, c1952<br />
+        </div>

@@ -1,7 +1,7 @@
   <!-- Directors browse list, V section, included with BrowseDirs.jsp -->
 
-  <div id='browselist' name='browselist'>
-    <table id='browseTable' name='browseTable'>
+  <div id="browselist">
+    <table id="browseTable">
       <tr>
         <td><a href='/cinefiles/FilmSearch?nameId=person11951'>Vadim, Roger</a></td>
         <td><a href='/cinefiles/FilmSearch?nameId=person29266'>Védrès, Nicole</a></td>

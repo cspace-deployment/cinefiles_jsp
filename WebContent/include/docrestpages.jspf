@@ -8,8 +8,8 @@
 
     <h2>Document Pages</h2>
 
-    <div id='pages' name='pages'>
-      <table id='tnails' name='tnails'>
+    <div id="pages">
+      <table id="tnails">
         <c:forEach var="img" varStatus="status" items="${docimages.imageList}">
 
           <c:if test='${(status.count%4) == 1}'>

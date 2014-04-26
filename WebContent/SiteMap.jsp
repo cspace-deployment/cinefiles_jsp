@@ -28,15 +28,15 @@
   <body>
     <jsp:include page="/include/pgheader.jspf" />
 
-    <div id="container" name="container">
+    <div id="container">
 
-      <div id="searchside" name="searchside">
+      <div id="searchside">
         <%@ include file="/include/search.jspf" %>
       </div>
 
-      <div id="main" name="main">
+      <div id="main">
         <h2>Site Map for CineFiles</h2>
-        <ul id="sitelist" name="sitelist">
+        <ul id="sitelist">
           <br />
           <li>Information</li>
 
@@ -63,6 +63,9 @@
           <li>
             <ul>
               <li><a href="/cinefiles/BrowseDirs.jsp">Directors</a></li>
+              <li><a href="/cinefiles/BrowseBayAreaDirs.jsp">Bay Area Avant-garde Directors</a></li>
+              <li><a href="/cinefiles/BrowseFilmTitles.jsp">Film Titles</a></li>
+              <li><a href="/cinefiles/BrowseBayAreaFilms.jsp">Bay Area Avant-garde Film Titles</a></li>
               <li><a href="/cinefiles/BrowseSubjects.jsp">Subjects</a></li>
               <li><a href="/cinefiles/BrowseGenres.jsp">Genres</a></li>
               <li><a href="/cinefiles/BrowseFeatured.jsp">Featured Documents</a></li>
@@ -88,6 +91,7 @@
       </div>
     </div>
 
-    <jsp:include page="/include/pgfooter.jspf" />
+    <%-- <jsp:include page="/include/pgfooter.jspf" /> --%>
+    <%@ include file="/include/pgfooter.jspf" %>
   </body>
 </html>

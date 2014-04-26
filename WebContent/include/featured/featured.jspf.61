@@ -1,0 +1,13 @@
+        <%-- Featured Document section of the Welcome page --%>
+        <div id="bright">
+          <h2>Featured Document</h2>
+          <div id="ftdoc">
+             <a href="/cinefiles/DocDetail?docId=33995">
+             <img id="featuredImg"
+                  src="/cine_img/www_imgs.68/33995.c.jpeg"
+                  width="225" /></a>
+          </div>
+          <b><i>Women in Mizoguchi films</i></b><br />
+          Author: <b>Freda Freiberg</b><br />
+          Source: <b>Japanese Studies Centre</b>, 1981<br />
+        </div>

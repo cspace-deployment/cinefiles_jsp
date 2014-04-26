@@ -37,13 +37,13 @@
   <body>
     <jsp:include page="/include/pgheader.jspf" />
 
-    <div id="container" name="container">
+    <div id="container">
 
-      <div id="searchside" name="searchside">
+      <div id="searchside">
         <%@ include file="/include/search.jspf" %>
       </div>
 
-      <div id="main" name="main">
+      <div id="main">
         <h2>About Us</h2>
 
         <p><b>The University of California, Berkeley Art Museum
@@ -117,6 +117,7 @@
           prioritize the indexing and scanning of these documents.</p>
       </div>
     </div>
-    <jsp:include page="/include/pgfooter.jspf" />
+    <%-- <jsp:include page="/include/pgfooter.jspf" /> --%>
+    <%@ include file="/include/pgfooter.jspf" %>
   </body>
 </html>

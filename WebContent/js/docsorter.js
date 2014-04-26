@@ -27,6 +27,7 @@ var monthNumbers = { jan: 0, feb: 1, mar: 2, apr: 3, may: 4, jun: 5,
 
 /* a compiled regexp that trims a string front and back */
 var regexTrim  = new RegExp( /^\W+|\s+$/gi );
+var regexPTrim = new RegExp( /^\W+/i );
 
 /* a compiled regexp that removes everything but the "Type" part */
 var regexType  = new RegExp( /^.*-\s*|\s+$/gi );
@@ -66,6 +67,7 @@ function normalize( str )
       s1 = s1.replace( regexArr[i], replaceChars[i] );
     }
   }
+  s1 = s1.replace( regexPTrim, '' );
   return s1;
 };
 
