@@ -143,7 +143,7 @@ public class DocList extends StatementBean
 
         docrec[0] = getResultSetIntString("doc_id");
         docrec[1] = getResultSetString("doctitle");
-        docrec[2] = getResultSetString("author").replaceAll("\\|", ", ");
+        docrec[2] = getResultSetString("author").replaceAll("\\|", "; ");
         docrec[3] = getResultSetString("source");
         docrec[4] = getResultSetString("pubdate");
         docrec[5] = getResultSetIntString("pages");
