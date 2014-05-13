@@ -216,7 +216,7 @@ public class FilmDetail extends CallableBean {
          String next_id = getResultSetString("id");
          String nextname_id = getResultSetString("name_id");
 
-         String author = getResultSetString("author");
+         String author = getResultSetString("author").replaceAll("\\|", "; ");
          String[] nextauthor = { next_id, author };
 
          if (next_id == id) {
