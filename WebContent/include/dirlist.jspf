@@ -1,248 +1,315 @@
-<h2>Directors whose films have been indexed in CineFiles as of July, 2008</h2>
+<h2>Directors whose films have been indexed in CineFiles as of January 2015</h2>
 
-   <div id="navAlist">
-     <ul>
-       <li><a href="#A">A</a></li> <li><a href="#B">B</a></li>
-       <li><a href="#C">C</a></li> <li><a href="#D">D</a></li>
-       <li><a href="#E">E</a></li> <li><a href="#F">F</a></li>
-       <li><a href="#G">G</a></li> <li><a href="#H">H</a></li>
-       <li><a href="#I">I</a></li> <li><a href="#J">J</a></li>
-       <li><a href="#K">K</a></li> <li><a href="#L">L</a></li>
-       <li><a href="#M">M</a></li> <li><a href="#N">N</a></li>
-       <li><a href="#O">O</a></li> <li><a href="#P">P</a></li>
-       <li><a href="#Q">Q</a></li> <li><a href="#R">R</a></li>
-       <li><a href="#S">S</a></li> <li><a href="#T">T</a></li>
-       <li><a href="#U">U</a></li> <li><a href="#V">V</a></li>
-       <li><a href="#W">W</a></li> <li><a href="#X">X</a></li>
-       <li><a href="#Y">Y</a></li> <li><a href="#Z">Z</a></li>
-     </ul>
-   </div>
+<div id="navAlist">
+	<ul>
+		<li><a href="#A">A</a></li> <li><a href="#B">B</a></li>
+		<li><a href="#C">C</a></li> <li><a href="#D">D</a></li>
+		<li><a href="#E">E</a></li> <li><a href="#F">F</a></li>
+		<li><a href="#G">G</a></li> <li><a href="#H">H</a></li>
+		<li><a href="#I">I</a></li> <li><a href="#J">J</a></li>
+		<li><a href="#K">K</a></li> <li><a href="#L">L</a></li>
+		<li><a href="#M">M</a></li> <li><a href="#N">N</a></li>
+		<li><a href="#O">O</a></li> <li><a href="#P">P</a></li>
+		<li><a href="#Q">Q</a></li> <li><a href="#R">R</a></li>
+		<li><a href="#S">S</a></li> <li><a href="#T">T</a></li>
+		<li><a href="#U">U</a></li> <li><a href="#V">V</a></li>
+		<li><a href="#W">W</a></li> <li><a href="#X">X</a></li>
+		<li><a href="#Y">Y</a></li> <li><a href="#Z">Z</a></li>
+	</ul>
+</div>
 
 <div id="dirlist">
-<table id="dirTable">
-<tr><td colspan='3'><a name='A' href='#'/></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person729'>Abulaze, Tengiz</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person378'>Altman, Robert</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person1004'>Araki, Gregg</a></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person14236'>Akerman, Chantal</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person956'>Angelopoulos, Theo</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person1069'>Arzner, Dorothy</a></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person826'>Aldrich, Robert</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person959'>Anger, Kenneth</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person1086'>Assayas, Olivier</a></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person35'>Allen, Woody</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person982'>Antonioni, Michelangelo</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person1124'>Autant-Lara, Claude</a></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person873'>Almodovar, Pedro</a></td>
-<td></td>
-<td></td></tr>
-<tr><td colspan='3'><a name='B' href='#'/><br /></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person31013'>B, Beth</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person1634'>Bertolucci, Bernardo</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person2129'>Brown, Clarence</a></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person1185'>B, Scott</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person1761'>Blank, Les</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person411'>Browning, Tod</a></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person17003'>Baillie, Bruce</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person14191'>Borzage, Frank</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person2174'>Buñuel, Luis</a></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person1258'>Baldwin, Craig</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person2014'>Brakhage, Stan</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person2230'>Burnett, Charles</a></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person1436'>Becker, Jacques</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person2065'>Bresson, Robert</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person2233'>Burns, Ken</a></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person1582'>Bergman, Ingmar</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person17729'>Broughton, James</a></td>
-<td></td></tr>
-<tr><td colspan='3'><a name='C' href='#'/><br /></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person2705'>Cai Chusheng</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person2545'>Chahine, Youssef</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person2753'>Clarke, Alan</a></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person2473'>Cassavetes, John</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person2579'>Chaplin, Charlie</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person18318'>Clarke, Shirley</a></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person2541'>Chabrol, Claude</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person2680'>Christensen, Benjamin</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person2981'>Couturie, Bill</a></td></tr>
-<tr><td colspan='3'><a name='D' href='#'/><br /></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person21915'>de Fuentes, Fernando</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person3403'>Ding, Loni</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person3545'>Dreyer, Carl</a></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person3312'>Depardon, Raymond</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person3462'>Dong, Arthur</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person3633'>Duras, Marguerite</a></td></tr>
-<tr><td colspan='3'><a name='E' href='#'/><br /></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person144'>Eisenstein, Sergei</a></td>
-<td></td>
-<td></td></tr>
-<tr><td colspan='3'><a name='F' href='#'/><br /></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person3933'>Farocki, Harun</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person4027'>Field, Connie</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person4226'>Frank, Robert</a></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person3941'>Fassbinder, R. W.</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person4100'>Flaherty, Robert</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person4230'>Frankenheimer, John</a></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person3978'>Fellini, Federico</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person4151'>Ford, John</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person4316'>Fuller, Sam</a></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person4008'>Ferreri, Marco</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person4217'>Francovich, Allan</a></td>
-<td></td></tr>
-<tr><td colspan='3'><a name='G' href='#'/><br /></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person4442'>Garrel, Philippe</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person4659'>Godard, Jean-Luc</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person4978'>Guitry, Sacha</a></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person23214'>Gazdag, Gyula</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person58'>Griffith, DW</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person827'>Gutierrez-Alea, Tomas</a></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person4537'>Ghatak, Ritwik</a></td>
-<td></td>
-<td></td></tr>
-<tr><td colspan='3'><a name='H' href='#'/><br /></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person14342'>Hani, Susumu</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person5424'>Hitchcock, Alfred</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person5579'>Hou, Hsiao-Hsien</a></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person5211'>Has, Wojciech</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person5513'>Honigmann, Heddy</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person21499'>Hu, King</a></td></tr>
-<tr><td colspan='3'><a name='I' href='#'/><br /></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person5689'>Imamura, Shohei</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person63'>Ivens, Joris</a></td>
-<td></td></tr>
-<tr><td colspan='3'><a name='J' href='#'/><br /></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person5860'>Jasny, Vojtech</a></td>
-<td></td>
-<td></td></tr>
-<tr><td colspan='3'><a name='K' href='#'/><br /></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person6087'>Kachyna, Karel</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person6255'>Kazan, Elia</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person6462'>Kluge, Alexander</a></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person263'>Kalatozov, Mikhail</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person6263'>Keaton, Buster</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person6535'>Konchalovsky, Andrei</a></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person6214'>Kato, Tai</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person6355'>Kiarostami, Abbas</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person6559'>Korda, Alexander</a></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person6234'>Kaurismäki, Aki</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person26591'>Kim, Ki-Young</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person186'>Kozintsev, Grigori</a></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person6235'>Kaurismäki, Mika</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person6395'>Kinoshita, Keisuke</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person6724'>Kurosawa, Akira</a></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person6244'>Kawalerowicz, Jerzy</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person6456'>Klopfenstein, Clemens</a></td>
-<td></td></tr>
-<tr><td colspan='3'><a name='L' href='#'/><br /></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person6868'>Lang, Fritz</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person7033'>Leisen, Mitchell</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person7344'>Lubitsch, Ernst</a></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person6994'>Lee, Spike</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person7145'>Lewis, Joseph H</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person7379'>Lupino, Ida</a></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person7028'>Leigh, Mike</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person7291'>Longinotto, Kim</a></td>
-<td></td></tr>
-<tr><td colspan='3'><a name='M' href='#'/><br /></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person7549'>Makhmalbaf, Mohsen</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person7963'>Melville, Jean-Pierre</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person8223'>Monicelli, Mario</a></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person7609'>Mann, Anthony</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person7980'>Menzel, Jiri</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person8251'>Moore, Michael</a></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person157'>Marker, Chris</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person14659'>Micheaux, Oscar</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person8299'>Morris, Errol</a></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person7691'>Markopoulos, Gregory</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person8173'>Miyazaki, Hayao</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person8391'>Murnau, FW</a></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person14072'>Masumura, Yasuzo</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person8175'>Mizoguchi, Kenji</a></td>
-<td></td></tr>
-<tr><td colspan='3'><a name='N' href='#'/><br /></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person8471'>Naruse, Mikio</a></td>
-<td></td>
-<td></td></tr>
-<tr><td colspan='3'><a name='O' href='#'/><br /></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person8757'>Okazaki, Steven</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person8817'>Ophuls, Marcel</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person8854'>Oshima, Nagisa</a></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person8778'>Oliveira, Manuel de</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person8818'>Ophuls, Max</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person8892'>Ozu, Yasujiro</a></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person17198'>Ono, Yoko</a></td>
-<td></td>
-<td></td></tr>
-<tr><td colspan='3'><a name='P' href='#'/><br /></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person8910'>Pabst, GW</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person9020'>Pasolini, P.P.</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person9390'>Portillo, Lourdes</a></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person8923'>Pagnol, Marcel</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person9356'>Pontecorvo, Gillo</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person9418'>Powell, Michael</a></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person8930'>Pal, George</a></td>
-<td></td>
-<td></td></tr>
-<tr><td colspan='3'><a name='Q' href='#'/></td></tr>
-<tr><td colspan='3'><a name='R' href='#'/><br /></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person9672'>Ray, Man</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person94'>Resnais, Alain</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person10081'>Rouch, Jean</a></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person9673'>Ray, Nicholas</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person9892'>Rivette, Jacques</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person10112'>Rubbo, Michael</a></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person9675'>Ray, Satyajit</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person9979'>Rohmer, Eric</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person10133'>Ruiz, Raul</a></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person9759'>Renoir, Jean</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person10046'>Rosi, Francesco</a></td>
-<td></td></tr>
-<tr><td colspan='3'><a name='S' href='#'/><br /></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person10317'>Santos, Nélson</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person10771'>Shinoda, Masahiro</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person10999'>Sokurov, Alexander</a></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person10473'>Schmid, Daniel</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person27675'>Shukshin, Vasilii</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person11255'>Strand, Chick</a></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person10652'>Shepitko, Larisa</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person10889'>Sirk, Douglas</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person11291'>Sturges, Preston</a></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person27433'>Shimizu, Hiroshi</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person10903'>Sjoberg, Alf</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person11350'>Suzuki, Seijun</a></td></tr>
-<tr><td colspan='3'><a name='T' href='#'/><br /></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person11473'>Tanner, Alain</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person11733'>Tourneur, Jacques</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person11801'>Truffaut, François</a></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person11547'>Terayama, Shuji</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person11746'>Toyoda, Shiro</a></td>
-<td></td></tr>
-<tr><td colspan='3'><a name='U' href='#'/></td></tr>
-<tr><td colspan='3'><a name='V' href='#'/><br /></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person6333'>van der Keuken, Johan</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person12092'>Vidor, King</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person9436'>von Praunheim, Rosa</a></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person112'>Varda, Agnes</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person12128'>Visconti, Lucino</a></td>
-<td></td></tr>
-<tr><td colspan='3'><a name='W' href='#'/><br /></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person12207'>Wajda, Andrzej</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person12251'>Warhol, Andy</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person453'>Whale, James</a></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person12238'>Wang, Wayne</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person295'>Welles, Orson</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person12509'>Wise, Robert</a></td></tr>
-<tr><td colspan='3'><a name='X' href='#'/><br /></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person5902'>Xie Jin</a></td>
-<td></td>
-<td></td></tr>
-<tr><td colspan='3'><a name='Y' href='#'/><br /></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person14358'>Yang Teh-ch'ang</a></td>
-<td></td>
-<td></td></tr>
-<tr><td colspan='3'><a name='Z' href='#'/><br /></td></tr>
-<tr><td><a href='/cinefiles/FilmSearch?nameId=person117'>Zanussi, Krzysztof</a></td>
-<td><a href='/cinefiles/FilmSearch?nameId=person12657'>Zhang, Yimou</a></td>
-<td></td></tr>
-</table>
+
+	<h2 id="A">A</h2><br />
+	<div class="columns">
+		<a href='/cinefiles/FilmSearch?nameId=person729'>Abuladze, Tengiz</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person14236'>Akerman, Chantal</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person826'>Aldrich, Robert</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person35'>Allen, Woody</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person873'>Almodovar, Pedro</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person378'>Altman, Robert</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person956'>Angelopoulos, Theo</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person959'>Anger, Kenneth</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person982'>Antonioni, Michelangelo</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person1004'>Araki, Gregg</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person1069'>Arzner, Dorothy</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person1086'>Assayas, Olivier</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person1124'>Autant-Lara, Claude</a>
+	</div>
+	<br/>
+	<h2 id="B">B</h2><br />
+	<div class="columns">
+		<a href='/cinefiles/FilmSearch?nameId=person31013'>B, Beth</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person1185'>B, Scott</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person17003'>Baillie, Bruce</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person1258'>Baldwin, Craig</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person1436'>Becker, Jacques</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person1582'>Bergman, Ingmar</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person1634'>Bertolucci, Bernardo</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person1761'>Blank, Les</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person14191'>Borzage, Frank</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person2014'>Brakhage, Stan</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person2065'>Bresson, Robert</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person17729'>Broughton, James</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person2129'>Brown, Clarence</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person411'>Browning, Tod</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person2174'>Buñuel, Luis</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person2230'>Burnett, Charles</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person2233'>Burns, Ken</a>
+	</div>
+	<br/>
+	<h2 id="C">C</h2><br />
+	<div class="columns">
+		<a href='/cinefiles/FilmSearch?nameId=person2705'>Cai Chusheng</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person2388'>Capra, Frank</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person2393'>Carax, Léos</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person2419'>Carné, Marcel</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person2473'>Cassavetes, John</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person2541'>Chabrol, Claude</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person2545'>Chahine, Youssef</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person2579'>Chaplin, Charlie</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person2677'>Choy, Christine</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person2680'>Christensen, Benjamin</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person2753'>Clarke, Alan</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person18318'>Clarke, Shirley</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person427'>Coppola, Francis Ford</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person2981'>Couturie, Bill</a>
+	</div>
+	<br/>
+	<h2 id="D">D</h2><br />
+	<div class="columns">
+		<a href='/cinefiles/FilmSearch?nameId=person21915'>de Fuentes, Fernando</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person5271'>de Heer, Rolf</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person3312'>Depardon, Raymond</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person3318'>Deren, Maya</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person3403'>Ding, Loni</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person3462'>Dong, Arthur</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person3545'>Dreyer, Carl</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person3604'>Dulac, Germaine</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person3633'>Duras, Marguerite</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person3654'>Dwoskin, Stephen</a>
+	</div>
+	<br/>
+	<h2 id="E">E</h2><br />
+	<div class="columns">
+		<a href='/cinefiles/FilmSearch?nameId=person144'>Eisenstein, Sergei</a>
+		<br/ ><a href='/cinefiles/FilmSearch?nameId=person33610'>Eyre, Chris</a>
+
+	</div>
+	<br/>
+	<h2 id="F">F</h2><br />
+	<div class="columns">
+		<a href='/cinefiles/FilmSearch?nameId=person3933'>Farocki, Harun</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person3941'>Fassbinder, R. W.</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person3978'>Fellini, Federico</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person4008'>Ferreri, Marco</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person4027'>Field, Connie</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person4100'>Flaherty, Robert</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person4151'>Ford, John</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person4217'>Francovich, Allan</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person4226'>Frank, Robert</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person4230'>Frankenheimer, John</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person4316'>Fuller, Sam</a>
+	</div>
+	<br/>
+	<h2 id="G">G</h2><br />
+	<div class="columns">
+		<a href='/cinefiles/FilmSearch?nameId=person4432'>Gardner, Robert</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person4442'>Garrel, Philippe</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person23214'>Gazdag, Gyula</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person4537'>Ghatak, Ritwik</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person4659'>Godard, Jean-Luc</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person58'>Griffith, DW</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person4978'>Guitry, Sacha</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person827'>Gutierrez-Alea, Tomas</a>
+	</div>
+	<br/>
+	<h2 id="H">H</h2><br />
+	<div class="columns">
+		<a href='/cinefiles/FilmSearch?nameId=person14342'>Hani, Susumu</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person5211'>Has, Wojciech</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person5357'>Herzog, Werner</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person5424'>Hitchcock, Alfred</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person5513'>Honigmann, Heddy</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person5579'>Hou, Hsiao-Hsien</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person21499'>Hu, King</a>
+	</div>
+	<br/>
+	<h2 id="I">I</h2><br />
+	<div class="columns">
+		<a href='/cinefiles/FilmSearch?nameId=person5689'>Imamura, Shohei</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person63'>Ivens, Joris</a>
+	</div>
+	<br/>
+	<h2 id="J">J</h2><br />
+	<div class="columns">
+		<a href='/cinefiles/FilmSearch?nameId=person5860'>Jasny, Vojtech</a>
+	</div>
+	<br/>
+	<h2 id="K">K</h2><br />
+	<div class="columns">
+		<a href='/cinefiles/FilmSearch?nameId=person6087'>Kachyna, Karel</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person263'>Kalatozov, Mikhail</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person6214'>Kato, Tai</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person6234'>Kaurismäki, Aki</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person6235'>Kaurismäki, Mika</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person6244'>Kawalerowicz, Jerzy</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person6255'>Kazan, Elia</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person6263'>Keaton, Buster</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person6355'>Kiarostami, Abbas</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person26591'>Kim, Ki-Young</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person6395'>Kinoshita, Keisuke</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person6456'>Klopfenstein, Clemens</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person6462'>Kluge, Alexander</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person6535'>Konchalovsky, Andrei</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person6559'>Korda, Alexander</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person186'>Kozintsev, Grigori</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person6724'>Kurosawa, Akira</a>
+	</div>
+	<br/>
+	<h2 id="L">L</h2><br />
+	<div class="columns">
+		<a href='/cinefiles/FilmSearch?nameId=person6868'>Lang, Fritz</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person29701'>Laughlin, Tom</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person6994'>Lee, Spike</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person7028'>Leigh, Mike</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person7033'>Leisen, Mitchell</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person7145'>Lewis, Joseph H</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person7291'>Longinotto, Kim</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person7344'>Lubitsch, Ernst</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person7379'>Lupino, Ida</a>
+	</div>
+	<br/>
+	<h2 id="M">M</h2><br />
+	<div class="columns">
+		<a href='/cinefiles/FilmSearch?nameId=person7549'>Makhmalbaf, Mohsen</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person7609'>Mann, Anthony</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person157'>Marker, Chris</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person7691'>Markopoulos, Gregory</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person14072'>Masumura, Yasuzo</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person7963'>Melville, Jean-Pierre</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person7980'>Menzel, Jiri</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person14659'>Micheaux, Oscar</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person8173'>Miyazaki, Hayao</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person8175'>Mizoguchi, Kenji</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person8223'>Monicelli, Mario</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person8251'>Moore, Michael</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person8299'>Morris, Errol</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person8391'>Murnau, FW</a>
+	</div>
+	<br/>
+	<h2 id="N">N</h2><br />
+	<div class="columns">
+		<a href='/cinefiles/FilmSearch?nameId=person8449'>Nair, Mira</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person8471'>Naruse, Mikio</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person8519'>Nelson, Ralph</a>
+	</div>
+	<br/>
+	<h2 id="O">O</h2><br />
+	<div class="columns">
+		<a href='/cinefiles/FilmSearch?nameId=person8757'>Okazaki, Steven</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person8778'>Oliveira, Manuel de</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person17198'>Ono, Yoko</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person8817'>Ophuls, Marcel</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person8818'>Ophuls, Max</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person8854'>Oshima, Nagisa</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person8892'>Ozu, Yasujiro</a>
+	</div>
+	<br/>
+	<h2 id="P">P</h2><br />
+	<div class="columns">
+		<a href='/cinefiles/FilmSearch?nameId=person8910'>Pabst, GW</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person8923'>Pagnol, Marcel</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person8930'>Pal, George</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person9020'>Pasolini, Pier Paolo</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person9080'>Peck, Raoul</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person9104'>Penn, Arthur</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person9108'>Pennebaker, D. A.</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person9356'>Pontecorvo, Gillo</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person9390'>Portillo, Lourdes</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person9418'>Powell, Michael</a>
+	</div>
+	<br/>
+	<h2 id="Q"></h2>
+	<h2 id="R">R</h2><br />
+	<div class="columns">
+		<a href='/cinefiles/FilmSearch?nameId=person9672'>Ray, Man</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person9673'>Ray, Nicholas</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person9675'>Ray, Satyajit</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person9759'>Renoir, Jean</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person94'>Resnais, Alain</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person9892'>Rivette, Jacques</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person383'>Roeg, Nicolas</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person9979'>Rohmer, Eric</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person10046'>Rosi, Francesco</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person10081'>Rouch, Jean</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person10112'>Rubbo, Michael</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person10133'>Ruiz, Raul</a>
+	</div>
+	<br/>
+	<h2 id="S">S</h2><br />
+	<div class="columns">
+		<a href='/cinefiles/FilmSearch?nameId=person10317'>Santos, Nelson Pereira dos</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person10473'>Schmid, Daniel</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person10620'>Seitz, George B.</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person10652'>Shepitko, Larisa</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person27433'>Shimizu, Hiroshi</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person10771'>Shinoda, Masahiro</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person27675'>Shukshin, Vasilii</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person10889'>Sirk, Douglas</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person10903'>Sjoberg, Alf</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person10999'>Sokurov, Alexander</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person11255'>Strand, Chick</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person11291'>Sturges, Preston</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person11350'>Suzuki, Seijun</a>
+	</div>
+	<br/>
+	<h2 id="T">T</h2><br />
+	<div class="columns">
+		<a href='/cinefiles/FilmSearch?nameId=person11473'>Tanner, Alain</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person11484'>Tarkovsky, Andrei</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person11501'>Tati, Jacques</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person11544'>Teno, Jean-Marie</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person11547'>Terayama, Shuji</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person11733'>Tourneur, Jacques</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person11746'>Toyoda, Shiro</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person11801'>Truffaut, François</a>
+	</div>
+	<br/>
+	<h2 id="U"></h2>
+	<h2 id="V">V</h2><br />
+	<div class="columns">
+		<a href='/cinefiles/FilmSearch?nameId=person6333'>van der Keuken, Johan</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person112'>Varda, Agnes</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person12092'>Vidor, King</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person12128'>Visconti, Lucino</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person9436'>von Praunheim, Rosa</a>
+	</div>
+	<br/>
+	<h2 id="W">W</h2><br />
+	<div class="columns">
+		<a href='/cinefiles/FilmSearch?nameId=person12207'>Wajda, Andrzej</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person12238'>Wang, Wayne</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person12251'>Warhol, Andy</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person295'>Welles, Orson</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person453'>Whale, James</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person12509'>Wise, Robert</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person12511'>Wiseman, Frederick</a>
+	</div>
+	<br/>
+	<h2 id="X">X</h2><br />
+	<div class="columns">
+		<a href='/cinefiles/FilmSearch?nameId=person5902'>Xie Jin</a>
+	</div>
+	<br/>
+	<h2 id="Y">Y</h2><br />
+	<div class="columns">
+		<a href='/cinefiles/FilmSearch?nameId=person14358'>Yang Teh-ch'ang</a>
+	</div>
+	<br/>
+	<h2 id="Z">Z</h2><br />
+	<div class="columns">
+		<a href='/cinefiles/FilmSearch?nameId=person117'>Zanussi, Krzysztof</a>
+		<br/><a href='/cinefiles/FilmSearch?nameId=person12657'>Zhang, Yimou</a>
+	</div>
 </div>

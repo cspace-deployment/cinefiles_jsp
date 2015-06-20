@@ -26,10 +26,10 @@ public class DocImages implements Serializable
   private static final long serialVersionUID = 1L;
 
   private static final String defaultDir =
-    "/nas/mipweb/www_data/images/cinefiles";
+    "/home/app_cinefiles_site/tomcat6-cinefiles-site/webapps/cinefiles/cine_img";
 
   private static final String logfile =
-    "/www/tomcat/logs/Apps/cine/DocImages.log";
+    "/home/app_cinefiles_site/tomcat6-cinefiles-site/logs/apps/cine/DocImages.log";
 
   private static final String cine_img = "/cinefiles/cine_img";
 

@@ -40,7 +40,7 @@
       
       <div id="main">
         
-        <img src="/cine_img/icons/forEds.gif" />
+        <img src="/cinefiles/cine_img/icons/forEds.gif" />
         <div id="lmain">
           <h2><a href="/cinefiles/ThemesTopics.jsp">Themes and Topics</a></h2>
           <p>Recommendations for films organized by themes culled from
@@ -80,11 +80,11 @@
           experience. We hope to expand this section in
           the future.</p><br />
 
-          <a href="/cine_img/pdfs/Guide_BirthOfANation.pdf">
+          <a href="/cinefiles/cine_img/pdfs/Guide_BirthOfANation.pdf">
           Birth of a Nation</a><br />
-          <a href="/cine_img/pdfs/Guide_ControlRoom_Tanner88.pdf">
+          <a href="/cinefiles/cine_img/pdfs/Guide_ControlRoom_Tanner88.pdf">
           Control Room/Tanner &apos;88</a><br />
-          <a href="/cine_img/pdfs/Guide_BowlingForColumbine_Elephant.pdf">
+          <a href="/cinefiles/cine_img/pdfs/Guide_BowlingForColumbine_Elephant.pdf">
           Bowling for Columbine/Elephant</a><br />
         </div>
               

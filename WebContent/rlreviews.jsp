@@ -40,7 +40,7 @@
               href="http://bampfa.berkeley.edu" />
       </map>
 
-      <img src="/cine_img/icons/cinefiles_p.png"
+      <img src="/cinefiles/cine_img/icons/cinefiles_p.png"
            usemap="#pgheadermap" border="0" />
     </div>
 
@@ -147,7 +147,7 @@
         <area shape="rect" coords="795, 7, 865, 18"
               href="/cinefiles/Contact.jsp" />
       </map>
-      <img src="/cine_img/icons/pgfooter.gif" usemap="#footermap" border="0" />
+      <img src="/cinefiles/cine_img/icons/pgfooter.gif" usemap="#footermap" border="0" />
     </div>
   </body>
 </html>

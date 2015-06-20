@@ -117,11 +117,10 @@
           	<area shape="rect" coords="1, 1, 60, 18"
           	      href="https://givetocal.berkeley.edu/egiving/index.cfm?Org=%20BAM%2FPFA%20CineFiles%20Project%20Fund&Fund=FU0968000" />
           </map>            
-          <img src="/cine_img/icons/donate.png"
+          <img src="/cinefiles/cine_img/icons/donate.png"
                usemap="#donmap" border="0" />
         </div>
 
-        <%-- <%@ include file="/include/featured.jspf" %> --%>
         <jsp:include page="/include/featured.jspf" />
 
         <div id="credits">
@@ -130,7 +129,7 @@
           </div>
 
           <div id="clogos">
-            <img src="/cine_img/icons/logos.png" height="50" />
+            <img src="/cinefiles/cine_img/icons/logos.png" height="50" />
           </div>
  
           <div id="ctext">

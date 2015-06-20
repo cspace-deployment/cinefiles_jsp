@@ -6,30 +6,33 @@
     Pacific Film Archive Library Web Site
   </description>
 
+  <env-entry>
+    <env-entry-name>default_image_directory</env-entry-name>
+    <env-entry-type>java.lang.String</env-entry-type>
+    <env-entry-value>/home/app_cinefiles_site/tomcat6-cinefiles-site/webapps/cinefiles/cine_img</env-entry-value>
+  </env-entry>
+
+  <resource-ref>
+    <description>DB Connection</description>
+    <res-ref-name>jdbc/CinefilesMiponcaDS</res-ref-name>
+    <res-type>javax.sql.DataSource</res-type>
+    <res-auth>Container</res-auth>
+  </resource-ref>
+
   <!-- Context section -->
   <context-param>
     <param-name>db</param-name>
-    <param-value>cinefiles_domain</param-value>
+    <param-value>cinefiles_domain_cinefiles</param-value>
   </context-param>
 
   <context-param>
     <param-name>debug</param-name>
-    <param-value>false</param-value>
-  </context-param>
-
-  <context-param>
-    <param-name>jdbcUrl</param-name>
-    <param-value>jdbc:sybase:Tds:lily.mip.berkeley.edu:5025</param-value>
-  </context-param>
-
-  <context-param>
-    <param-name>jdbcDriver</param-name>
-    <param-value>com.sybase.jdbc3.jdbc.SybDriver</param-value>
+    <param-value>true</param-value>
   </context-param>
 
   <context-param>
     <param-name>jdbcPGUrl</param-name>
-    <param-value>jdbc:postgresql://cinefiles-dev.cspace.berkeley.edu:5432/cinefiles_domain"</param-value>
+    <param-value>jdbc:postgresql://dba-postgres-prod-32.ist.berkeley.edu:5313/cinefiles_domain_cinefiles</param-value>
   </context-param>
   
   <context-param>
@@ -39,17 +42,17 @@
   
   <context-param>  
     <param-name>jndiDataSource</param-name>
-    <param-value>jdbc/CinedevMiponcaDS</param-value>
+    <param-value>jdbc/CinefilesMiponcaDS</param-value>
   </context-param>
 
   <context-param>
     <param-name>cineImgDir</param-name>
-    <param-value>/nas/mipweb/www_data/images/cinefiles</param-value>
+    <param-value>/home/app_cinefiles_site/tomcat6-cinefiles-site/webapps/cinefiles/cine_img</param-value>
   </context-param>
 
   <!-- Distributable section -->
   <!-- Listener section -->
-  
+
   <!-- Filter section -->
   <filter>
       <filter-name>CharacterEncodingFilter</filter-name>
@@ -64,13 +67,13 @@
          <param-name>ignore</param-name>
          <param-value>true</param-value>
       </init-param>
-   </filter>
+  </filter>
 
-   <!-- Filter mapping section -->
-   <filter-mapping>
-      <filter-name>CharacterEncodingFilter</filter-name>
-      <url-pattern>/*</url-pattern>
-   </filter-mapping>
+  <!-- Filter mapping section -->
+  <filter-mapping>
+     <filter-name>CharacterEncodingFilter</filter-name>
+     <url-pattern>/*</url-pattern>
+  </filter-mapping>
 
   <!-- Servlet section -->
   <servlet>
