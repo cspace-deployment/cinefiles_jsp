@@ -30,6 +30,15 @@
             type="text/javascript" language="JavaScript">
     </script>
 
+    <script src="/cinefiles/js/ua.js"
+            type="text/javascript" language="JavaScript">
+    </script>
+
+    <script>
+        ga('set', 'page', '/FilmSearch.jsp');
+        ga('send', 'pageview');
+    </script>
+
     <title>Advanced Film Search</title>
   </head>
 

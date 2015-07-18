@@ -27,6 +27,15 @@
             type="text/javascript" language="JavaScript">
     </script>
 
+    <script src="/cinefiles/js/ua.js"
+            type="text/javascript" language="JavaScript">
+    </script>
+
+    <script>
+        ga('set', 'page', '/ForEducators.jsp');
+        ga('send', 'pageview');
+    </script>
+
     <title>Portal for Educators</title>
   </head>
   <body>

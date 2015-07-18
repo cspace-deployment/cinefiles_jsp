@@ -23,6 +23,15 @@
     <script src="js/cine.js" type="text/javascript" language="JavaScript">
     </script>
 
+    <script src="/cinefiles/js/ua.js"
+            type="text/javascript" language="JavaScript">
+    </script>
+
+    <script>
+        ga('set', 'page', '/SiteMap.jsp');
+        ga('send', 'pageview');
+    </script>
+
     <title>CineFiles Site Map</title>
   </head>
   <body>
