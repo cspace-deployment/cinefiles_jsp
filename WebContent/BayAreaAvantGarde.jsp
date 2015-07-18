@@ -27,6 +27,15 @@
             type="text/javascript" language="JavaScript">
     </script>
 
+    <script src="/cinefiles/js/ua.js"
+            type="text/javascript" language="JavaScript">
+    </script>
+
+    <script>
+        ga('set', 'page', '/BayAreaAvantGarde.jsp');
+        ga('send', 'pageview');
+    </script>
+
     <title>Bay Area Avant-Garde</title>
   </head>
   <body>

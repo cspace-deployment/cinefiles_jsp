@@ -31,6 +31,15 @@
             type="text/javascript" language="JavaScript">
     </script>
 
+    <script src="/cinefiles/js/ua.js"
+            type="text/javascript" language="JavaScript">
+    </script>
+
+    <script>
+        ga('set', 'page', '/FilmResults.jsp');
+        ga('send', 'pageview');
+    </script>
+
    <script src="/cinefiles/js/filmsorter.js"
             type="text/javascript" language="JavaScript">
     </script>

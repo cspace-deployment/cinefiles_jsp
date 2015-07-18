@@ -28,6 +28,15 @@
             type="text/javascript" language="JavaScript">
     </script>
 
+    <script src="/cinefiles/js/ua.js"
+            type="text/javascript" language="JavaScript">
+    </script>
+
+    <script>
+        ga('set', 'page', '/DocResults.jsp');
+        ga('send', 'pageview');
+    </script>
+
     <script src="/cinefiles/js/docresults.js"
             type="text/javascript" language="JavaScript">
     </script>

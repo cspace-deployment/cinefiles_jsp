@@ -27,6 +27,15 @@
             type="text/javascript" language="JavaScript">
     </script>
 
+    <script src="/cinefiles/js/ua.js"
+            type="text/javascript" language="JavaScript">
+    </script>
+
+    <script>
+        ga('set', 'page', '/BrowseFeatured.jsp');
+        ga('send', 'pageview');
+    </script>
+
     <script src="/cinefiles/js/browselist.js"
             type="text/javascript" language="JavaScript">
     </script>

@@ -26,13 +26,22 @@
     <link rel='stylesheet' type='text/css'
           href='/cinefiles/css/browse.css' />
 
-     <script src="/cinefiles/js/cine.js"
+    <script src="/cinefiles/js/cine.js"
              type="text/javascript" language="JavaScript">
-      </script>
+     </script>
 
-      <script src="/cinefiles/js/search.js"
+    <script src="/cinefiles/js/ua.js"
+            type="text/javascript" language="JavaScript">
+    </script>
+
+    <script>
+        ga('set', 'page', '/BrowseBayAreaDirs.jsp');
+        ga('send', 'pageview');
+    </script>
+
+    <script src="/cinefiles/js/search.js"
               type="text/javascript" language="JavaScript">
-      </script>
+    </script>
 
     <title>Directors</title>
   </head>
