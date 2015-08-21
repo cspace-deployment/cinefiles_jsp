@@ -74,7 +74,7 @@ public class DocDetail extends edu.berkeley.mip.bean.CallableBean {
    private String docUrl;
    private boolean[] includes = new boolean[8];
    private ArrayList<String> languages = new ArrayList<String>();
-   private Hashtable<Integer, String> authors = new Hashtable<Integer, String>();
+   private Hashtable<String, String> authors = new Hashtable<String, String>();
    private Hashtable<Integer, String> subjects = new Hashtable<Integer, String>();
    private Hashtable<Integer, String> nameSubjects = new Hashtable<Integer, String>();
    private Hashtable<String, String> filmSubjects = new Hashtable<String, String>();
@@ -187,13 +187,13 @@ public class DocDetail extends edu.berkeley.mip.bean.CallableBean {
 
    // Called by processResultSet when the next ResultSet is a list of authors.
    private void processAuthors() throws SQLException {
-      int name_id = 0;
       while (rs.next()) {
-         name_id += getResultSetInt("name_id");
+         String name_id = getResultSetString("name_id");
          String author = getResultSetString("author");
 
-         if ((name_id > 1) && (author.length() > 0))
-            authors.put(new Integer(name_id), author);
+         if (author.length() > 0) {
+            authors.put(name_id, author);
+         }
       }
    }
 
@@ -296,7 +296,7 @@ public class DocDetail extends edu.berkeley.mip.bean.CallableBean {
       return false;
    }
 
-   public Hashtable<Integer, String> getAuthors() {
+   public Hashtable<String, String> getAuthors() {
       return authors;
    }
 

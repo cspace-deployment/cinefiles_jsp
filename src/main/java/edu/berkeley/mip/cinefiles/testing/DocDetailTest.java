@@ -73,10 +73,10 @@ public class DocDetailTest {
  
       //getAuthors()
       if( docDetail.getAuthorCount() > 0 ){
-         Hashtable <Integer, String>authors = docDetail.getAuthors();
-         Enumeration <Integer>values = authors.keys();
+         Hashtable <String, String>authors = docDetail.getAuthors();
+         Enumeration <String>values = authors.keys();
          while(values.hasMoreElements()) {
-            int key = (Integer)values.nextElement();
+            String key = values.nextElement();
             System.out.println( "" + key + ": " + authors.get(key));
          }
       }

@@ -175,7 +175,7 @@ public class DocPdfServlet extends CinefilesServlet
            cb.showTextAligned( PdfContentByte.ALIGN_LEFT, 
                                "Author(s)", x, y, 0 );           
            
-           Hashtable<Integer, String> authors = docDetail.getAuthors();
+           Hashtable<String, String> authors = docDetail.getAuthors();
            Enumeration <String> ae = authors.elements();
            
            int offset = 0;
