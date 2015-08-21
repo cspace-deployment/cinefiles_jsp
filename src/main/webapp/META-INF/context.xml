@@ -1,0 +1,12 @@
+<Context allowLinking="true">
+	<Resource name="jdbc/CinefilesDS" auth="Container"
+		type="javax.sql.DataSource" removeAbandoned="true"
+		removeAbandonedTimeout="300" maxActive="20" maxIdle="5" maxWait="5000"
+		tcpKeepAlive="true" username="${env.DB_CINEFILES_SITE_USER}" password="${env.DB_CINEFILES_SITE_PASSWORD}"
+		driverClassName="org.postgresql.Driver"
+		url="jdbc:postgresql://${env.DB_HOST}:${env.DB_PORT}/cinefiles_domain_cinefiles" />
+
+	<Valve className="org.apache.catalina.valves.FastCommonAccessLogValve"
+		directory="logs/apps/cine" prefix="cine." suffix=".log" pattern="common"
+		resolveHosts="false" />
+</Context>
