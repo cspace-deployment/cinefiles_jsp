@@ -11,7 +11,7 @@ public class CinefilesServlet extends HttpServlet
 {
    /* CinefilesServlet is a super class for Cinefiles servlets that use one of
     * several globally defined JNDI DataSources. The DataSources are defined in
-    * the "server.xml" and "context.xml" files in the tomcat conf directory.
+    * src/main/webapp/META-INF/context.xml.
     * 
     * This class provides the init method and instance variables containing the
     * name of the DataSource, the path to the image directory, and a debug flag
