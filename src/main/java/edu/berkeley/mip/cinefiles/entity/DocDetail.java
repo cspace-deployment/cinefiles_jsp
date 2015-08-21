@@ -3,8 +3,10 @@ package edu.berkeley.mip.cinefiles.entity;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.Enumeration;
 import java.util.Hashtable;
+import java.util.List;
 
 import javax.sql.DataSource;
 
@@ -74,7 +76,7 @@ public class DocDetail extends edu.berkeley.mip.bean.CallableBean {
    private String docUrl;
    private boolean[] includes = new boolean[8];
    private ArrayList<String> languages = new ArrayList<String>();
-   private Hashtable<String, String> authors = new Hashtable<String, String>();
+   private List<String> authors = new ArrayList<String>();
    private Hashtable<Integer, String> subjects = new Hashtable<Integer, String>();
    private Hashtable<Integer, String> nameSubjects = new Hashtable<Integer, String>();
    private Hashtable<String, String> filmSubjects = new Hashtable<String, String>();
@@ -187,24 +189,12 @@ public class DocDetail extends edu.berkeley.mip.bean.CallableBean {
 
    // Called by processResultSet when the next ResultSet is a list of authors.
    private void processAuthors() throws SQLException {
-      int count = 0;
-  
       while (rs.next()) {
          String author = getResultSetString("author");
 
          if (author.length() > 0) {
-            // The name_id column contains a "|" separated list of ids,
-            // which must be parsed to get the id of this author.
-
-            // (But why is authors a hash? It's never used as one.)
-            
-            String name_ids = getResultSetString("name_id");
-            String name_id = (name_ids.split("\\|", count + 2))[count];
-
-            authors.put(name_id, author);
+            authors.add(author);
          }
-         
-         count++;
       }
    }
 
@@ -307,13 +297,13 @@ public class DocDetail extends edu.berkeley.mip.bean.CallableBean {
       return false;
    }
 
-   public Hashtable<String, String> getAuthors() {
+   public List<String> getAuthors() {
       return authors;
    }
 
    public String getAuthorString() {
       String authorString = "";
-      Enumeration<String> a = authors.elements();
+      Enumeration<String> a = Collections.enumeration(authors);
 
       int c = 0;
 

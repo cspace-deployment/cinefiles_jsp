@@ -2,8 +2,10 @@ package edu.berkeley.mip.cinefiles.servlet;
 
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.Enumeration;
 import java.util.Hashtable;
+import java.util.List;
 
 import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;
@@ -175,8 +177,8 @@ public class DocPdfServlet extends CinefilesServlet
            cb.showTextAligned( PdfContentByte.ALIGN_LEFT, 
                                "Author(s)", x, y, 0 );           
            
-           Hashtable<String, String> authors = docDetail.getAuthors();
-           Enumeration <String> ae = authors.elements();
+           List<String> authors = docDetail.getAuthors();
+           Enumeration <String> ae = Collections.enumeration(authors);
            
            int offset = 0;
            

@@ -17,7 +17,7 @@
          </c:if>
 
          <c:forEach var="item" items="${docdetail.authors}">
-            ${item.value}<br />
+            ${item}<br />
          </c:forEach><br />
 
          <citation>SOURCE</citation><br />

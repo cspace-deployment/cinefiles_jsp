@@ -1,8 +1,10 @@
 package edu.berkeley.mip.cinefiles.testing;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.Enumeration;
 import java.util.Hashtable;
+import java.util.List;
 
 import javax.sql.DataSource;
 
@@ -73,11 +75,10 @@ public class DocDetailTest {
  
       //getAuthors()
       if( docDetail.getAuthorCount() > 0 ){
-         Hashtable <String, String>authors = docDetail.getAuthors();
-         Enumeration <String>values = authors.keys();
+         List<String> authors = docDetail.getAuthors();
+         Enumeration <String>values = Collections.enumeration(authors);
          while(values.hasMoreElements()) {
-            String key = values.nextElement();
-            System.out.println( "" + key + ": " + authors.get(key));
+            System.out.println(values.nextElement());
          }
       }
       
