@@ -1,7 +1,0 @@
-<Context path="/cinefiles" debug="1" allowLinking="true" reloadable="true">
-   <Valve
-      className="org.apache.catalina.valves.FastCommonAccessLogValve"
-      directory="logs/apps/cine"  prefix="cine." suffix=".log"
-      pattern="common" resolveHosts="false"/>
-</Context>
-
