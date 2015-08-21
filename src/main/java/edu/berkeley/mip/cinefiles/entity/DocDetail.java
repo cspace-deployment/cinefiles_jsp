@@ -187,13 +187,24 @@ public class DocDetail extends edu.berkeley.mip.bean.CallableBean {
 
    // Called by processResultSet when the next ResultSet is a list of authors.
    private void processAuthors() throws SQLException {
+      int count = 0;
+  
       while (rs.next()) {
-         String name_id = getResultSetString("name_id");
          String author = getResultSetString("author");
 
          if (author.length() > 0) {
+            // The name_id column contains a "|" separated list of ids,
+            // which must be parsed to get the id of this author.
+
+            // (But why is authors a hash? It's never used as one.)
+            
+            String name_ids = getResultSetString("name_id");
+            String name_id = (name_ids.split("\\|", count + 2))[count];
+
             authors.put(name_id, author);
          }
+         
+         count++;
       }
    }
 
