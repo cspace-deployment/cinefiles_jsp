@@ -6,7 +6,7 @@
 		driverClassName="org.postgresql.Driver"
 		url="jdbc:postgresql://${env.DB_HOST}:${env.DB_PORT}/cinefiles_domain_cinefiles" />
 
-	<Valve className="org.apache.catalina.valves.FastCommonAccessLogValve"
+	<Valve className="org.apache.catalina.valves.AccessLogValve"
 		directory="logs/apps/cine" prefix="cine." suffix=".log" pattern="common"
 		resolveHosts="false" />
 </Context>
