@@ -29,7 +29,7 @@
   </context-param>
 
   <context-param>
-    <param-name>cineImgDir</param-name>
+    <param-name>docImgDir</param-name>
     <param-value>/home/app_cinefiles_site/tomcat6-cinefiles-site/webapps/cinefiles/cine_img</param-value>
   </context-param>
 

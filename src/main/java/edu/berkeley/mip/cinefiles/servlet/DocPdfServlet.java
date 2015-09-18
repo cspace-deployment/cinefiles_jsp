@@ -78,7 +78,7 @@ public class DocPdfServlet extends CinefilesServlet
 
          if( includeImages )
          {
-           docImages = new DocImages( cineImgDir, docId );
+           docImages = new DocImages( docImgDir, docId );
            srcdir = docImages.getSrcDir();
            pdfTitle = "Cinefiles_" + docId + ".pdf";
          }
@@ -136,7 +136,7 @@ public class DocPdfServlet extends CinefilesServlet
            int lineoffset = 30;
            int recoffset = 20;
            
-           Image logo = Image.getInstance( cineIconDir + "/cinepdflogo.png" );
+           Image logo = Image.getInstance( cineImgDir + "/cinepdflogo.png" );
            logo.setAbsolutePosition( x, y );
 
            document.add( logo );

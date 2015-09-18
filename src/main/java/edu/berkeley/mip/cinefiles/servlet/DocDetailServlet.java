@@ -62,7 +62,7 @@ public class DocDetailServlet extends CinefilesServlet
             req.setAttribute( "msg", msg);
 
          DocDetail dd = new DocDetail( dataSource, dataBase, docId );
-         DocImages di = new DocImages( cineImgDir, docId );
+         DocImages di = new DocImages( docImgDir, docId );
 
          if( dd != null )
          {

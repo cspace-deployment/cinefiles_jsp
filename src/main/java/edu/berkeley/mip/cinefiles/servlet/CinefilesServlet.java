@@ -32,10 +32,11 @@ public class CinefilesServlet extends HttpServlet
    // Name of the JNDI DataSource
    protected String jndiDataSource = null;
    
+   // Location of the scanned document image files
+   protected String docImgDir = null;
+   
    // Location of the apps image files
    protected String cineImgDir = null;
-   
-   protected String cineIconDir = null;
    
    public void init() throws ServletException
    {
@@ -48,8 +49,8 @@ public class CinefilesServlet extends HttpServlet
 				dataBase = "cinefiles";
 
       jndiDataSource = cntx.getInitParameter( "jndiDataSource" );
-      cineImgDir = cntx.getInitParameter( "cineImgDir" );
-      cineIconDir = cntx.getRealPath("/images");
+      docImgDir = cntx.getInitParameter( "docImgDir" );
+      cineImgDir = cntx.getRealPath("/images");
       
       String d = cntx.getInitParameter( "debug" );
       debug = ( d != null ) && d.equals( "true" );
