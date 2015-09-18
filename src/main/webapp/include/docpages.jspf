@@ -7,10 +7,10 @@
     <c:set var="imgdir" value="${docimages.imageDir}" />
 
     <h2>Document Pages
-    <input id="prevlnk" type="image" src="/cinefiles/cine_img/icons/larrow.png"
+    <input id="prevlnk" type="image" src="/cinefiles/images/larrow.png"
            onfocus="this.blur();" onclick="prevTn();" />
 
-    <input id="nextlnk" type="image" src="/cinefiles/cine_img/icons/rarrow.png"
+    <input id="nextlnk" type="image" src="/cinefiles/images/rarrow.png"
            onfocus="this.blur();" onclick="nextTn();" />
     </h2>
     <div id="pages">

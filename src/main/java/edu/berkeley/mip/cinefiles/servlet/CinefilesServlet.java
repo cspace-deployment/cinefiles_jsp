@@ -47,11 +47,9 @@ public class CinefilesServlet extends HttpServlet
 			if( dataBase == null )
 				dataBase = "cinefiles";
 
-      jndiDataSource = cntx.getInitParameter( "jndiDataSource" );      
+      jndiDataSource = cntx.getInitParameter( "jndiDataSource" );
       cineImgDir = cntx.getInitParameter( "cineImgDir" );
-      
-      if( cineImgDir != null )
-        cineIconDir = cineImgDir + "/icons";
+      cineIconDir = cntx.getRealPath("/images");
       
       String d = cntx.getInitParameter( "debug" );
       debug = ( d != null ) && d.equals( "true" );

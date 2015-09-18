@@ -61,7 +61,7 @@
 
         <h2>Document Citation
         <a href="/cinefiles/DocPdf?docId=${docdetail.docId}">
-        <img id="prncite" src="/cinefiles/cine_img/icons/download.gif"/>
+        <img id="prncite" src="/cinefiles/images/download.gif"/>
         </a></h2>
         <%@ include file="/include/doccite.jspf" %>
         <%@ include file="/include/docrestpages.jspf" %>

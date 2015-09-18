@@ -40,7 +40,7 @@
       
       <div id="main">
         
-        <img src="/cinefiles/cine_img/icons/forEds.gif" />
+        <img src="/cinefiles/images/forEds.gif" />
         <div id="lmain">
           <h2><a href="/cinefiles/ThemesTopics.jsp">Themes and Topics</a></h2>
           <p>Recommendations for films organized by themes culled from

@@ -55,7 +55,7 @@
               href="https://givetocal.berkeley.edu/egiving/index.cfm?Org=%20BAM%2FPFA%20CineFiles%20Project%20Fund&Fund=FU0968000" />
           </map>
 
-          <img src="/cinefiles/cine_img/icons/donate.png"
+          <img src="/cinefiles/images/donate.png"
                usemap="#donmap" border="0" />
         </div>
       </div>

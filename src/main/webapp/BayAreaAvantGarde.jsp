@@ -39,7 +39,7 @@
       </div>
       
       <div id="main">
-        <img src="/cinefiles/cine_img/icons/BayAreaAvantGarde.png" />
+        <img src="/cinefiles/images/BayAreaAvantGarde.png" />
 
         <div id="lmain" name="lmain">
           <h2 class="dark">Introduction</h2>
@@ -83,7 +83,7 @@
          <h2 align="center"> Purchase Book</h2>
          <p>
            <a href="http://berkeleyartm710.corecommerce.com/San-Francisco-Bay-Area-Berkeley/Radical-Light-Alternative-Film-and-Video-in-the-San-Francisco-Bay-Area-1945-2000-p137.html">
-           <img src="/cinefiles/cine_img/icons/radlightcover.jpg" /></a>
+           <img src="/cinefiles/images/radlightcover.jpg" /></a>
          </p>
          <br />
          Edited by BAM/PFA film and video curators Kathy Geritz and

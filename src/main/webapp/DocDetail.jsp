@@ -61,7 +61,7 @@
 
         <h2>Document Citation
         <a href="/cinefiles/DocPdf?docId=${docdetail.docId}">
-        <img id="prncite" src="/cinefiles/cine_img/icons/download.gif"/>
+        <img id="prncite" src="/cinefiles/images/download.gif"/>
         </a></h2>
         <%@ include file="/include/doccite.jspf" %>
         <%@ include file="/include/docpages.jspf" %>
@@ -73,18 +73,18 @@
 
         <p>Download document as PDF.
         <a href="/cinefiles/DocPdf?docId=${docdetail.docId}&pgs=all">
-          <img src="/cinefiles/cine_img/icons/download.gif"/></a>
+          <img src="/cinefiles/images/download.gif"/></a>
 
         <span id='zoomwin'>View page in separate window.
         <a href="/cinefiles/NoJs.jsp"
            onclick="openImgWindow( '${qtitle}', '${qauthors}', '${qsource}' ,'${qdate}' );return false;">
-           <img src="/cinefiles/cine_img/icons/zoomwin.png" /></a>
+           <img src="/cinefiles/images/zoomwin.png" /></a>
         </span>
 
-        <input id="prevlnk2" type="image" src="/cinefiles/cine_img/icons/larrow.png"
+        <input id="prevlnk2" type="image" src="/cinefiles/images/larrow.png"
                onfocus="this.blur();" onclick="prevTn();" />
 
-        <input id="nextlnk2" type="image" src="/cinefiles/cine_img/icons/rarrow.png"
+        <input id="nextlnk2" type="image" src="/cinefiles/images/rarrow.png"
                onfocus="this.blur();" onclick="nextTn();" />
         </p><br />
 

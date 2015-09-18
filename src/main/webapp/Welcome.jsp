@@ -117,7 +117,7 @@
           	<area shape="rect" coords="1, 1, 60, 18"
           	      href="https://givetocal.berkeley.edu/egiving/index.cfm?Org=%20BAM%2FPFA%20CineFiles%20Project%20Fund&Fund=FU0968000" />
           </map>            
-          <img src="/cinefiles/cine_img/icons/donate.png"
+          <img src="/cinefiles/images/donate.png"
                usemap="#donmap" border="0" />
         </div>
 
@@ -129,7 +129,7 @@
           </div>
 
           <div id="clogos">
-            <img src="/cinefiles/cine_img/icons/logos.png" height="50" />
+            <img src="/cinefiles/images/logos.png" height="50" />
           </div>
  
           <div id="ctext">
