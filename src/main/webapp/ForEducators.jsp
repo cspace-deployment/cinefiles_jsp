@@ -80,11 +80,11 @@
           experience. We hope to expand this section in
           the future.</p><br />
 
-          <a href="/cinefiles/cine_img/pdfs/Guide_BirthOfANation.pdf">
+          <a href="/cinefiles/doc_img/pdfs/Guide_BirthOfANation.pdf">
           Birth of a Nation</a><br />
-          <a href="/cinefiles/cine_img/pdfs/Guide_ControlRoom_Tanner88.pdf">
+          <a href="/cinefiles/doc_img/pdfs/Guide_ControlRoom_Tanner88.pdf">
           Control Room/Tanner &apos;88</a><br />
-          <a href="/cinefiles/cine_img/pdfs/Guide_BowlingForColumbine_Elephant.pdf">
+          <a href="/cinefiles/doc_img/pdfs/Guide_BowlingForColumbine_Elephant.pdf">
           Bowling for Columbine/Elephant</a><br />
         </div>
               

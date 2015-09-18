@@ -6,12 +6,6 @@
     Pacific Film Archive Library Web Site
   </description>
 
-  <env-entry>
-    <env-entry-name>default_image_directory</env-entry-name>
-    <env-entry-type>java.lang.String</env-entry-type>
-    <env-entry-value>/home/app_cinefiles_site/tomcat6-cinefiles-site/webapps/cinefiles/cine_img</env-entry-value>
-  </env-entry>
-
   <!-- Context section -->
   <context-param>
     <param-name>db</param-name>
@@ -30,7 +24,7 @@
 
   <context-param>
     <param-name>docImgDir</param-name>
-    <param-value>/home/app_cinefiles_site/tomcat6-cinefiles-site/webapps/cinefiles/cine_img</param-value>
+    <param-value>${catalina.base}/cinefiles/data/doc_img</param-value>
   </context-param>
 
   <!-- Distributable section -->
@@ -111,6 +105,18 @@
   </servlet>
 
   <servlet>
+    <servlet-name>DocImageServlet</servlet-name>
+    <servlet-class>
+      edu.berkeley.mip.cinefiles.servlet.DocImageServlet
+    </servlet-class>
+
+    <init-param>
+      <param-name>debug</param-name>
+      <param-value>false</param-value>
+    </init-param>
+  </servlet>
+  
+  <servlet>
     <servlet-name>FilmDetailServlet</servlet-name>
     <servlet-class>
       edu.berkeley.mip.cinefiles.servlet.FilmDetailServlet
@@ -155,6 +161,11 @@
     <url-pattern>/DocSearch</url-pattern>
   </servlet-mapping>
 
+  <servlet-mapping>
+    <servlet-name>DocImageServlet</servlet-name>
+    <url-pattern>/doc_img/*</url-pattern>
+  </servlet-mapping>
+  
   <servlet-mapping>
     <servlet-name>FilmDetailServlet</servlet-name>
     <url-pattern>/FilmDetail</url-pattern>

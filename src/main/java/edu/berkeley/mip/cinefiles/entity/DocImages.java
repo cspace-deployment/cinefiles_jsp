@@ -20,18 +20,18 @@ public class DocImages implements Serializable
    * correct. The default path is the path used on the WebFarm server.
    * 
    * After doing the lookup, which requires a physical path, the path names are
-   * modified to use the Apache alias "cine_img" to get the file URLs.
+   * modified to use the URL path to get the file URLs.
    */
   
   private static final long serialVersionUID = 1L;
 
   private static final String defaultDir =
-    "/home/app_cinefiles_site/tomcat6-cinefiles-site/webapps/cinefiles/cine_img";
+    "/home/app_cinefiles_site/tomcat6-cinefiles-site/cinefiles/data/doc_img";
 
   private static final String logfile =
     "/home/app_cinefiles_site/tomcat6-cinefiles-site/logs/apps/cine/DocImages.log";
 
-  private static final String cine_img = "/cinefiles/cine_img";
+  private static final String urlPath = "/cinefiles/doc_img";
 
   protected ArrayList<String> errors;
   protected String[] images;
@@ -95,7 +95,7 @@ public class DocImages implements Serializable
     int dir = (docId / 500) + 1;
 
     srcDir = imageDir + "/www_imgs." + dir;
-    imageDir = cine_img + "/www_imgs." + dir;
+    imageDir = urlPath + "/www_imgs." + dir;
     
     logMsg( "Looking in " + srcDir );
 
