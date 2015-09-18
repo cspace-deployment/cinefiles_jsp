@@ -77,11 +77,11 @@
 				<configuration>
 					<container>
 						<containerId>tomcat6x</containerId>
-						<home>${env.CATALINA_HOME}</home>
+						<home>${env.CATALINA_BASE}</home>
 					</container>
 					<configuration>
 						<type>existing</type>
-						<home>${env.CATALINA_HOME}</home>
+						<home>${env.CATALINA_BASE}</home>
 					</configuration>
 				</configuration>
 				<executions>
