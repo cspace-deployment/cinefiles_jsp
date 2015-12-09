@@ -54,7 +54,7 @@
 
                 <c:if test='${listitem[5] < useraccess}'>
                   -- Restricted. Please click
-                  <a href="/cinefiles/DocDetail?docrId=${listitem[0]}">
+                  <a href="/cinefiles/DocDetail?docId=${listitem[0]}">
                      here for detailed citation and access information
                   </a>
                 </c:if>

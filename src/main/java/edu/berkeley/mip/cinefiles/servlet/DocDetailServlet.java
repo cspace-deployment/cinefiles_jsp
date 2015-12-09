@@ -25,33 +25,23 @@ public class DocDetailServlet extends CinefilesServlet
    {
       if( req.getMethod().equals( "HEAD" )) return;
       
+      String remoteHost = req.getHeader( "X-Forwarded-For" );
+      
+      if( remoteHost == null )
+         remoteHost = req.getRemoteHost();
+      
+      int userAccess = getUserAccess( remoteHost );
+
       int docId;
-      boolean allowed = true;
       String resPage = "/DocDetail.jsp";
       
       try
       {
          docId = ( new Integer( req.getParameter( "docId" ))).intValue();
-         allowed = true;
       }
       catch( Exception e )
       {
         docId = 0;
-      }
-      
-      if( docId == 0 )
-      {
-        allowed = false;
-
-        try
-        {
-          resPage = "/DocRestDetail.jsp";
-          docId = ( new Integer( req.getParameter( "docrId" ))).intValue();
-        }
-        catch( Exception e )
-        {
-          docId = 0;
-        }
       }
       
       if( docId > 0 )
@@ -62,11 +52,18 @@ public class DocDetailServlet extends CinefilesServlet
             req.setAttribute( "msg", msg);
 
          DocDetail dd = new DocDetail( dataSource, dataBase, docId );
-         DocImages di = new DocImages( docImgDir, docId );
 
          if( dd != null )
          {
+            if ( dd.getAccessCode() < userAccess )
+            {
+              resPage = "/DocRestDetail.jsp";
+            }
+            
             req.setAttribute( "docdetail", dd );
+
+            DocImages di = new DocImages( docImgDir, docId );
+            
             if( di != null)
             {
               req.setAttribute( "docimages", di );

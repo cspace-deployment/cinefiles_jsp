@@ -66,6 +66,7 @@ public class DocDetail extends edu.berkeley.mip.bean.CallableBean {
    private int docId;
    private String srcId;
    private int pages;
+   private int accessCode;
    private String title;
    private String source;
    private String srcUrl;
@@ -145,6 +146,7 @@ public class DocDetail extends edu.berkeley.mip.bean.CallableBean {
       while( rs.next() ){
       pagination = getResultSetString("pg_info");
       pages = getResultSetInt("pages");
+      accessCode = getResultSetInt("code");
       date = getResultSetString("date");
       note = getResultSetString("note");
 
@@ -358,6 +360,10 @@ public class DocDetail extends edu.berkeley.mip.bean.CallableBean {
 
    public int getPages() {
       return pages;
+   }
+   
+   public int getAccessCode() {
+      return accessCode;
    }
 
    public String getPagination() {
