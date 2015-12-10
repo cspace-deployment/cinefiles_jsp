@@ -27,12 +27,7 @@ public class FilmSearchServlet extends CinefilesServlet
       return; 
     
     String resultPage = "/FilmResults.jsp";
-    String remoteHost = req.getHeader( "X-Forwarded-For" );
-    
-    if( remoteHost == null )
-       remoteHost = req.getRemoteHost();
-    
-    int userAccess = getUserAccess( remoteHost );
+    int userAccess = getUserAccess( req );
 
     FilmSearchArgs args = new FilmSearchArgs( req );
     FilmList filmList = new FilmList( dataSource, dataBase, args );

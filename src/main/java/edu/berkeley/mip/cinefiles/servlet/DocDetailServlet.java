@@ -25,12 +25,7 @@ public class DocDetailServlet extends CinefilesServlet
    {
       if( req.getMethod().equals( "HEAD" )) return;
       
-      String remoteHost = req.getHeader( "X-Forwarded-For" );
-      
-      if( remoteHost == null )
-         remoteHost = req.getRemoteHost();
-      
-      int userAccess = getUserAccess( remoteHost );
+      int userAccess = getUserAccess( req );
 
       int docId;
       String resPage = "/DocDetail.jsp";

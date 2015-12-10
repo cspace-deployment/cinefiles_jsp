@@ -5,6 +5,7 @@ import javax.naming.InitialContext;
 import javax.servlet.ServletContext;
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
 import javax.sql.DataSource;
 
 public class CinefilesServlet extends HttpServlet
@@ -81,6 +82,16 @@ public class CinefilesServlet extends HttpServlet
          if( dataSource == null )
             throw new ServletException( "Unable to create DataSource" );
       }
+   }
+   
+   protected int getUserAccess(HttpServletRequest req)
+   {
+      String remoteHost = req.getHeader( "X-Forwarded-For" );
+      
+      if( remoteHost == null )
+         remoteHost = req.getRemoteHost();
+      
+      return getUserAccess( remoteHost );
    }
    
    // getUserAccess checks the requesting IP address to determine access level.

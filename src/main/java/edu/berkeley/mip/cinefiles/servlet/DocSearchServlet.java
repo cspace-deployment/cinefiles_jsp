@@ -27,12 +27,7 @@ public class DocSearchServlet extends CinefilesServlet
       return;
 
     String resultPage = "/DocResults.jsp";
-    String remoteHost = req.getHeader( "X-Forwarded-For" );
-    
-    if( remoteHost == null )
-       remoteHost = req.getRemoteHost();
-    
-    int userAccess = getUserAccess( remoteHost );
+    int userAccess = getUserAccess( req );
 
     DocSearchArgs args = new DocSearchArgs( req );   
     DocList docList = new DocList( dataSource, dataBase, args );
