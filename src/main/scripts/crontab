@@ -1,0 +1,3 @@
+1 1 * * 0 /home/app_cinefiles_site/src/cinefiles_jsp/src/main/scripts/update_featured.sh > /dev/null 2>&1
+2 1 * * 1-5 /home/app_cinefiles_site/src/cinefiles_jsp/src/main/scripts/update_images.sh > /dev/null 2>&1
+11 1 * * 1-5 /home/app_cinefiles_site/src/cinefiles_jsp/src/main/scripts/cinefiles_denorm_nightly.sh > /dev/null 2>&1
