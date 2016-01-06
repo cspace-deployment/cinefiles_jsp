@@ -1,7 +1,7 @@
 #!/bin/bash
 
 BASEDIR=~app_cinefiles_site
-BINDIR=$BASEDIR/bin
+SCRIPTDIR=$BASEDIR/src/cinefiles_jsp/src/main/scripts
 LOGDIR=$BASEDIR/log
 LOG=$LOGDIR/update_images.log
 
@@ -12,8 +12,8 @@ export PATH=/bin:/usr/bin
 if [[ -t 0 ]]
 then
 	echo " - INTERACTIVE" | tee -a $LOG
-   $BINDIR/fetchBlobs.sh | tee -a $LOG
+	$SCRIPTDIR/fetchBlobs.sh | tee -a $LOG
 else
 	echo "" >> $LOG
-   $BINDIR/fetchBlobs.sh >> $LOG 2>&1
+	$SCRIPTDIR/fetchBlobs.sh >> $LOG 2>&1
 fi

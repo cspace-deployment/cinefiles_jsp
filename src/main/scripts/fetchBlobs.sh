@@ -1,10 +1,10 @@
 #!/bin/bash
 
-BINDIR=~app_cinefiles_site/bin
+SCRIPTDIR=~app_cinefiles_site/src/cinefiles_jsp/src/main/scripts
 
-. ${BINDIR}/fetchBlobFuncs.sh
+. ${SCRIPTDIR}/fetchBlobFuncs.sh
 
-echo "2 BINDIR: $BINDIR"
+echo "2 SCRIPTDIR: $SCRIPTDIR"
 echo "2 JPEGDIR: $JPEGDIR"
 
 cd $JPEGDIR

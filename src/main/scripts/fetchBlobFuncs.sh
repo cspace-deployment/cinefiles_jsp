@@ -4,7 +4,8 @@
 
 BASEDIR=~app_cinefiles_site
 BINDIR=$BASEDIR/bin
-export PATH=$PATH:$BINDIR
+SCRIPTDIR=$BASEDIR/src/cinefiles_jsp/src/main/scripts
+export PATH=$PATH:$BINDIR:$SCRIPTDIR
 #export LD_LIBRARY_PATH=/users/mipweb/local/lib
 
 export PGUSER=miponca

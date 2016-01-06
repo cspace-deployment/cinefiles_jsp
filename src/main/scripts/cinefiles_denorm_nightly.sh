@@ -9,19 +9,20 @@
 # renamed in a single batch. Then, finally, one more batch file is
 # executed to create indexes.
 #
-# This script should be installed in /home/app_cinefiles_site/bin
-# SQL files go in /home/app_cinefiles_site/bin/sql
+# This script should be installed in /home/app_cinefiles_site/src/cinefiles_jsp/src/main/scripts
+# SQL files go in /home/app_cinefiles_site/src/cinefiles_jsp/src/main/scripts/sql
 # Log files go in /home/app_cinefiles_site/log
 
 export BASEDIR=/home/app_cinefiles_site
 export BINDIR=$BASEDIR/bin
-export PATH=/bin:/usr/bin:$BINDIR
+export SCRIPTDIR=$BASEDIR/src/cinefiles_jsp/src/main/scripts
+export PATH=/bin:/usr/bin:$BINDIR:$SCRIPTDIR
 export PGUSER=nuxeo_cinefiles
 export PGDATABASE=cinefiles_domain_cinefiles
 export PGHOST=dba-postgres-prod-32.ist.berkeley.edu
 export PGPORT=5313
 
-export SQLDIR="$BINDIR/sql"
+export SQLDIR="$SCRIPTDIR/sql"
 export LOGDIR="$BASEDIR/log"
 export LOGFILE="$LOGDIR/denorm_nightly.log.$(date +'%d')"
 export LOGLEVEL=3

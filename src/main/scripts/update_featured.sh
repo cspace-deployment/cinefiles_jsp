@@ -3,12 +3,14 @@
 ### last update was  55
 
 BASEDIR=/home/app_cinefiles_site
-LOGDIR=~/log
+BINDIR=$BASEDIR/bin
+SCRIPTDIR=$BASEDIR/src/cinefiles_jsp/src/main/scripts
+LOGDIR=$BASEDIR/log
 LOG=$LOGDIR/update_featured.log
-TOMCAT='tomcat6-cinefiles-site'
-INCDIR=~/$TOMCAT/webapps/cinefiles/include
+TOMCATDIR=$BASEDIR/tomcat6-cinefiles-site
+INCDIR=$TOMCATDIR/webapps/cinefiles/include
 
-export PATH=$BASEDIR/bin:$PATH
+export PATH=$BINDIR:$SCRIPTDIR:$PATH
 
 echo  "$(date): running update_featured" >> $LOGDIR/run.log
 
