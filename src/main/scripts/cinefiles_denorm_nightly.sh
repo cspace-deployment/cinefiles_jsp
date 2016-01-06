@@ -10,7 +10,7 @@
 # executed to create indexes.
 #
 # This script should be installed in /home/app_cinefiles_site/src/cinefiles_jsp/src/main/scripts
-# SQL files go in /home/app_cinefiles_site/src/cinefiles_jsp/src/main/scripts/sql
+# SQL files go in /home/app_cinefiles_site/src/cinefiles_jsp/src/main/scripts/sql/denorm_nightly
 # Log files go in /home/app_cinefiles_site/log
 
 export BASEDIR=/home/app_cinefiles_site
@@ -22,7 +22,7 @@ export PGDATABASE=cinefiles_domain_cinefiles
 export PGHOST=dba-postgres-prod-32.ist.berkeley.edu
 export PGPORT=5313
 
-export SQLDIR="$SCRIPTDIR/sql"
+export SQLDIR="$SCRIPTDIR/sql/denorm_nightly"
 export LOGDIR="$BASEDIR/log"
 export LOGFILE="$LOGDIR/denorm_nightly.log.$(date +'%d')"
 export LOGLEVEL=3
