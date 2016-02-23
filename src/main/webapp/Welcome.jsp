@@ -89,9 +89,9 @@
             
           <p>
             Learn more about IMLS funded projects:
-            <a href="http://bampfa.berkeley.edu/copyright_project">
+            <a href="http://archive.bampfa.berkeley.edu/copyright_project">
             Copyright Resources Project</a> and
-            <a href="http://bampfa.berkeley.edu/pfalibrary/cinefiles_outcomes">
+            <a href="http://archive.bampfa.berkeley.edu/pfalibrary/cinefiles_outcomes">
             Teaching with CineFiles</a>.
           </p><br />
 

@@ -81,7 +81,7 @@
       <p><b>Other Resources</b><br />
          More information about copyright is available from the United States
          Copyright Office. You can also visit the PFA Library's website on the
-         IMLS-funded <a href="http://www.bampfa.berkeley.edu/copyright_project">
+         IMLS-funded <a href="http://archive.bampfa.berkeley.edu/copyright_project">
          Copyright Resources Project</a>, for information on working with
          copyright-protected materials in a digital-environment.
       </p>

@@ -59,7 +59,7 @@
           </p><br />
 
           <h2 class="dark">Useful Links</h2>
-          <p><a href="http://www.bampfa.berkeley.edu/copyright_project/">
+          <p><a href="http://archive.bampfa.berkeley.edu/copyright_project">
           Copyright Resources Project</a><br />
           <a href="http://www.medialit.org">
             Media Literacy Resources
