@@ -22,6 +22,7 @@ DROP TABLE IF EXISTS cinefiles_denorm.filmdirectorstringtmp;
 
 GRANT SELECT ON cinefiles_denorm.filmdirectorstringtmp TO GROUP reporters_cinefiles;
 GRANT SELECT ON cinefiles_denorm.filmdirectorstringtmp TO GROUP cinereaders;
+GRANT SELECT ON cinefiles_denorm.filmdirectorstringtmp TO reader_cinefiles;
 
 SELECT COUNT(1) FROM cinefiles_denorm.filmdirectorstring;
 SELECT COUNT(1) FROM cinefiles_denorm.filmdirectorstringtmp;

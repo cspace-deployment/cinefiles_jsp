@@ -53,6 +53,7 @@ CREATE TABLE cinefiles_denorm.docsubjects_viewtmp AS
 
 GRANT SELECT ON cinefiles_denorm.docsubjects_viewtmp TO GROUP reporters_cinefiles;
 GRANT SELECT ON cinefiles_denorm.docsubjects_viewtmp TO GROUP cinereaders;
+GRANT SELECT ON cinefiles_denorm.docsubjects_viewtmp TO reader_cinefiles;
 
 SELECT COUNT(1) FROM cinefiles_denorm.docsubjects_view;
 SELECT COUNT(1) FROM cinefiles_denorm.docsubjects_viewtmp;

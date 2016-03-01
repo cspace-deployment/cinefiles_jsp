@@ -23,6 +23,7 @@ CREATE TABLE cinefiles_denorm.docauthoridstringtmp AS
 
 GRANT SELECT ON cinefiles_denorm.docauthoridstringtmp TO GROUP reporters_cinefiles;
 GRANT SELECT ON cinefiles_denorm.docauthoridstringtmp TO GROUP cinereaders;
+GRANT SELECT ON cinefiles_denorm.docauthoridstringtmp TO reader_cinefiles;
 
 SELECT COUNT(1) FROM cinefiles_denorm.docauthoridstring;
 SELECT COUNT(1) FROM cinefiles_denorm.docauthoridstringtmp;

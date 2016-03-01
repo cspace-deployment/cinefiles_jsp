@@ -22,6 +22,7 @@ CREATE TABLE cinefiles_denorm.filmlanguagestringtmp AS
 
 GRANT SELECT ON cinefiles_denorm.filmlanguagestringtmp TO GROUP reporters_cinefiles;
 GRANT SELECT ON cinefiles_denorm.filmlanguagestringtmp TO GROUP cinereaders;
+GRANT SELECT ON cinefiles_denorm.filmlanguagestringtmp TO reader_cinefiles;
 
 SELECT COUNT(1) FROM cinefiles_denorm.filmlanguagestring;
 SELECT COUNT(1) FROM cinefiles_denorm.filmlanguagestringtmp;

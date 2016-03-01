@@ -25,6 +25,7 @@ CREATE TABLE cinefiles_denorm.personlisttmp AS
 
 GRANT SELECT ON cinefiles_denorm.personlisttmp TO GROUP reporters_cinefiles;
 GRANT SELECT ON cinefiles_denorm.personlisttmp TO GROUP cinereaders;
+GRANT SELECT ON cinefiles_denorm.personlisttmp TO reader_cinefiles;
 
 SELECT COUNT(1) from cinefiles_denorm.personlist;
 SELECT COUNT(1) from cinefiles_denorm.personlisttmp;
