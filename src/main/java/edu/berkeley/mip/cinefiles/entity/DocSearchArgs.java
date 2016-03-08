@@ -156,7 +156,7 @@ public class DocSearchArgs
     else if( docType.equals( "23" )) type = "synopsis";
     else if( docType.equals( "47" )) type = "treatment";
 
-    return(( type == null ) ? null : t + "doctype = '" + type + "'" );
+    return(( type == null ) ? null : t + "doctype = '" + type.replaceAll( "'", "''" ) + "'" );
   }
 
   public void setDocSubject( String docSubject )
@@ -306,16 +306,17 @@ public class DocSearchArgs
     if( pubDate == null )
       return pubDate;
 
+    String pDate = pubDate.replaceAll( "'", "''" );
     String t = ((table == null) || ( table.length() == 0 )) ? "" : table + ".";
 
     if( queryType == 2 )
-      return t + "pubdate ilike '%" + pubDate + "%'";
+      return t + "pubdate ilike '%" + pDate + "%'";
     else if( queryType == 3 )
-      return t + "pubdate ilike '%" + pubDate + "'";
+      return t + "pubdate ilike '%" + pDate + "'";
     else if( queryType == 4 )
-      return t + "pubdate ilike '%" + pubDate + "%'";
+      return t + "pubdate ilike '%" + pDate + "%'";
 
-    return t + "pubdate ilike '" + pubDate + "%'";
+    return t + "pubdate ilike '" + pDate + "%'";
   }
 
   public void setLangId( String lang_id )
@@ -370,7 +371,7 @@ public class DocSearchArgs
     else if( lang_id.equals( "329" )) lang = "Thai";
     else if( lang_id.equals( "343" )) lang = "Turkish";
 
-    return t + "doclanguage ilike '%" + lang + "%'";
+    return t + "doclanguage ilike '%" + lang.replaceAll( "'", "''" ) + "%'";
   }
 
   public void setContains( String[] contains )

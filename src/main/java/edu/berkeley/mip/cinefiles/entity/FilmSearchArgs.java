@@ -94,17 +94,18 @@ public class FilmSearchArgs
 	{
     if( country == null )
       return null;
-  
+    
+    String c = country.replaceAll( "'", "''" );
     String t = ((table == null) || ( table.length() == 0 )) ? "" : table + ".";
     
     if( queryType == 2 )
-      return t + "country ilike '%" + country + "%'";
+      return t + "country ilike '%" + c + "%'";
     else if( queryType == 3 )
-      return t + "country ilike '%" + country + "'";
+      return t + "country ilike '%" + c + "'";
     else if( queryType == 4 )
-      return t + "country = '" + country + "'";
+      return t + "country = '" + c + "'";
 
-    return t + "country ilike '" + country + "%'";
+    return t + "country ilike '" + c + "%'";
 	}
 
   public void setGenre( String genre )
@@ -163,7 +164,7 @@ public class FilmSearchArgs
 	public String genreIdArg( String table )
 	{
     if((table != null) && ( table.length() > 0 ) && (genre_id != null))
-       return "film_id in (select film_id from cinefiles_denorm.filmgenres where genre_id = '" + genre_id + "')";  
+       return "film_id in (select film_id from cinefiles_denorm.filmgenres where genre_id = '" + genre_id.replaceAll( "'", "''" ) + "')";  
     else
        return null;
 	}
@@ -371,7 +372,7 @@ public class FilmSearchArgs
     if( lang == null )
       return null;
 
-    return t + "filmlanguage ilike '%" + lang + "%'";
+    return t + "filmlanguage ilike '%" + lang.replaceAll( "'", "''" ) + "%'";
   }
 
   public void setYear( String year )
@@ -531,7 +532,7 @@ public class FilmSearchArgs
     
     String t = ((table == null) || ( table.length() == 0 )) ? "" : table + "."; 
 
-    return t + "name_id ilike '%|" + name_id + "|%'";
+    return t + "name_id ilike '%|" + name_id.replaceAll( "'", "''" ) + "|%'";
   }
   
   public void setDirector( String director )
