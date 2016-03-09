@@ -95,17 +95,17 @@ public class FilmSearchArgs
     if( country == null )
       return null;
     
-    String c = country.replaceAll( "'", "''" );
+    String c = "cinefiles_denorm.normalizetext('" + country.replaceAll( "'", "''" ) + "')";
     String t = ((table == null) || ( table.length() == 0 )) ? "" : table + ".";
     
     if( queryType == 2 )
-      return t + "country ilike '%" + c + "%'";
+      return "cinefiles_denorm.normalizetext(" + t + "country) like '%' || " + c + " || '%'";
     else if( queryType == 3 )
-      return t + "country ilike '%" + c + "'";
+      return "cinefiles_denorm.normalizetext(" + t + "country) like '%' || " + c;
     else if( queryType == 4 )
-      return t + "country = '" + c + "'";
+      return "cinefiles_denorm.normalizetext(" + t + "country) = " + c;
 
-    return t + "country ilike '" + c + "%'";
+    return "cinefiles_denorm.normalizetext(" + t + "country) like " + c + " || '%'";
 	}
 
   public void setGenre( String genre )
@@ -125,18 +125,18 @@ public class FilmSearchArgs
 	{
     if( genre == null )
       return null;
-    String g = genre.replaceAll( "'", "''" );
-
+    
+    String g = "cinefiles_denorm.normalizetext('" + genre.replaceAll( "'", "''" ) + "')";
     String t = ((table == null) || ( table.length() == 0 )) ? "" : table + ".";
     
     if( queryType == 2 )
-      return t + "genre ilike '%" + g + "%'";
+      return "cinefiles_denorm.normalizetext(" + t + "genre) like '%' || " + g + " || '%'";
     else if( queryType == 3 )
-      return t + "genre ilike '%" + g + "'";
+      return "cinefiles_denorm.normalizetext(" + t + "genre) like '%' || " + g;
     else if( queryType == 4 )
-      return t + "genre ilike '%" + g + "'";
+      return "cinefiles_denorm.normalizetext(" + t + "genre) = " + g;
 
-    return t + "genre ilike '" + g + "%'";
+    return "cinefiles_denorm.normalizetext(" + t + "genre) like " + g + " || '%'";
 	}
 
 	public void setGenreId( String genreId )
@@ -187,18 +187,18 @@ public class FilmSearchArgs
     if( subject == null )
       return null;
  
-    String subj = subject.replaceAll( "'", "''" );
+    String subj = "cinefiles_denorm.normalizetext('" + subject.replaceAll( "'", "''" ) + "')";
 
     String t = ((table == null) || ( table.length() == 0 )) ? "" : table + ".";
     
     if( queryType == 2 )
-      return t + "subject ilike '%" + subj + "%'";
+      return "cinefiles_denorm.normalizetext(" + t + "subject) like '%' || " + subj + " || '%'";
     else if( queryType == 3 )
-      return t + "subject ilike '%" + subj + "'";
+      return "cinefiles_denorm.normalizetext(" + t + "subject) like '%' || " + subj;
     else if( queryType == 4 )
-      return t + "subject = '" + subj + "'";
+      return "cinefiles_denorm.normalizetext(" + t + "subject) = " + subj;
 
-    return t + "subject ilike '" + subj + "%'";
+    return "cinefiles_denorm.normalizetext(" + t + "subject) like " + subj + " || '%'";
   }
   
   public void setProdco( String prodco )
@@ -219,18 +219,18 @@ public class FilmSearchArgs
     if( prodco == null )
       return null;
     
-    String pco = prodco.replaceAll( "'", "''" );
+    String pco = "cinefiles_denorm.normalizetext('" + prodco.replaceAll( "'", "''" ) + "')";
 
     String t = ((table == null) || ( table.length() == 0 )) ? "" : table + ".";
     
     if( queryType == 2 )
-      return t + "prodco ilike '%" + pco + "%'";
+      return "cinefiles_denorm.normalizetext(" + t + "prodco) like '%' || " + pco + " || '%'";
     else if( queryType == 3 )
-      return t + "prodco ilike '%" + pco + "'";
+      return "cinefiles_denorm.normalizetext(" + t + "prodco) like '%' || " + pco;
     else if( queryType == 4 )
-      return t + "prodco = '" + pco + "'";
+      return "cinefiles_denorm.normalizetext(" + t + "prodco) = " + pco;
 
-    return t + "prodco ilike '" + pco + "%'";
+    return "cinefiles_denorm.normalizetext(" + t + "prodco) like " + pco + " || '%'";
   }
   
   public void setLangId( String filmlang )
@@ -494,18 +494,18 @@ public class FilmSearchArgs
     if( filmTitle == null )
       return null;
     
-    String title = filmTitle.replaceAll( "'", "''" );
+    String title = "cinefiles_denorm.normalizetext('" + filmTitle.replaceAll( "'", "''" ) + "')";
 
     String t = ((table == null) || ( table.length() == 0 )) ? "" : table + ".";
 
     if( queryType == 2 )
-      return t + "title ilike '%" + title + "%'";
+      return "cinefiles_denorm.normalizetext(" + t + "title) like '%' || " + title + " || '%'";
     else if( queryType == 3 )
-      return t + "title ilike '%" + title + "'";
+      return "cinefiles_denorm.normalizetext(" + t + "title) like '%' || " + title;
     else if( queryType == 4 )
-      return t + "title = '" + title + "'";
+      return "cinefiles_denorm.normalizetext(" + t + "title) = " + title;
 
-    return t + "title ilike '" + title + "%'";
+    return "cinefiles_denorm.normalizetext(" + t + "title) like " + title + " || '%'";
    }
 
   public void setDirectorNameId( String nameId )
@@ -553,18 +553,18 @@ public class FilmSearchArgs
     if( director == null )
        return null;
 
-    String d = director.replaceAll( "'", "''" );
+    String d = "cinefiles_denorm.normalizetext('" + director.replaceAll( "'", "''" ) + "')";
 
     String t = ((table == null) || ( table.length() == 0 )) ? "" : table + ".";
 
     if( queryType == 2 )
-      return t + "director ilike '%" + d + "%'";
+      return "cinefiles_denorm.normalizetext(" + t + "director) like '%' || " + d + " || '%'";
     else if( queryType == 3 )
-      return t + "director ilike '%" + d + "'";
+      return "cinefiles_denorm.normalizetext(" + t + "director) like '%' || " + d;
     else if( queryType == 4 )
-      return t + "director = '" + d + "'";
+      return "cinefiles_denorm.normalizetext(" + t + "director) = " + d;
 
-    return t + "director ilike '" + d + "%'";
+    return "cinefiles_denorm.normalizetext(" + t + "director) like " + d + " || '%'";
   }
   
   private int parseYear( String year )
