@@ -74,18 +74,19 @@ public class DocSearchArgs
     if( filmTitle == null )
       return null;
     
-    String title = filmTitle.replaceAll( "'", "''" );
+    String title = "cinefiles_denorm.normalizetext('" + filmTitle.replaceAll( "'", "''" ) + "')";
 
     String t = ((table == null) || ( table.length() == 0 )) ? "" : table + ".";
 
     if( queryType == 2 )
-      return t + "title ilike '%" + title + "%'";
+      return "cinefiles_denorm.normalizetext(" + t + "title) like '%' || " + title + " || '%'";
     else if( queryType == 3 )
-      return t + "title ilike '%" + title + "'";
+      return "cinefiles_denorm.normalizetext(" + t + "title) like '%' || " + title;
     else if( queryType == 4 )
-      return t + "title ilike '%" + title + "%'";
+        // FIXME: Exact does the same thing as contains??
+    	return "cinefiles_denorm.normalizetext(" + t + "title) like '%' || " + title + " || '%'";
 
-    return t + "title ilike '" + title + "%'";
+    return "cinefiles_denorm.normalizetext(" + t + "title) like " + title + " || '%'";
    }
 
   public void setDocType( String docType )
@@ -178,18 +179,20 @@ public class DocSearchArgs
     if( docSubject == null )
        return null;
 
-    String subject = docSubject.replaceAll( "'", "''" );
+    String subject = "cinefiles_denorm.normalizetext('" + docSubject.replaceAll( "'", "''" ) + "')";
 
     String t = ((table == null) || ( table.length() == 0 )) ? "" : table + ".";
 
+    // FIXME: All queryTypes do the same thing??
+    
     if( queryType == 2 )
-      return t + "(docsubject ilike '%" + subject + "%' or docnamesubject ilike '%" + subject + "%')";
+      return "(cinefiles_denorm.normalizetext(" + t + "docsubject) like '%' || " + subject + " || '%' or cinefiles_denorm.normalizetext(" + t + "docnamesubject) like '%' || " + subject + " || '%')";
     else if( queryType == 3 )
-      return t + "(docsubject ilike '%" + subject + "%' or docnamesubject ilike '%" + subject + "%')";
+      return "(cinefiles_denorm.normalizetext(" + t + "docsubject) like '%' || " + subject + " || '%' or cinefiles_denorm.normalizetext(" + t + "docnamesubject) like '%' || " + subject + " || '%')";
     else if( queryType == 4 )
-      return t + "(docsubject ilike '%" + subject + "%' or docnamesubject ilike '%" + subject + "%')";
+      return "(cinefiles_denorm.normalizetext(" + t + "docsubject) like '%' || " + subject + " || '%' or cinefiles_denorm.normalizetext(" + t + "docnamesubject) like '%' || " + subject + " || '%')";
 
-    return t + "(docsubject ilike '%" + subject + "%' or docnamesubject ilike '%" + subject + "%')";
+    return "(cinefiles_denorm.normalizetext(" + t + "docsubject) like '%' || " + subject + " || '%' or cinefiles_denorm.normalizetext(" + t + "docnamesubject) like '%' || " + subject + " || '%')";
   }
 
   public void setDocTitle( String docTitle )
@@ -210,18 +213,19 @@ public class DocSearchArgs
     if( docTitle == null )
        return null;
 
-    String doctitle = docTitle.replaceAll( "'", "''" );
+    String doctitle = "cinefiles_denorm.normalizetext('" + docTitle.replaceAll( "'", "''" ) + "')";
 
     String t = ((table == null) || ( table.length() == 0 )) ? "" : table + ".";
 
     if( queryType == 2 )
-      return t + "doctitle ilike '%" + doctitle + "%'";
+      return "cinefiles_denorm.normalizetext(" + t + "doctitle) like '%' || " + doctitle + " || '%'";
     else if( queryType == 3 )
-      return t + "doctitle ilike '%" + doctitle + "'";
+      return "cinefiles_denorm.normalizetext(" + t + "doctitle) like '%' || " + doctitle;
     else if( queryType == 4 )
-      return t + "doctitle ilike '%" + doctitle + "%'";
+      // FIXME: Exact does the same thing as contains??
+      return "cinefiles_denorm.normalizetext(" + t + "doctitle) like '%' || " + doctitle + " || '%'";
 
-    return t + "doctitle ilike '" + doctitle + "%'";
+    return "cinefiles_denorm.normalizetext(" + t + "doctitle) like " + doctitle + " || '%'";
   }
 
   public void setDocAuthor( String docAuthor )
@@ -242,18 +246,19 @@ public class DocSearchArgs
     if( docAuthor == null )
        return null;
 
-    String author = docAuthor.replaceAll( "'", "''" );
+    String author = "cinefiles_denorm.normalizetext('" + docAuthor.replaceAll( "'", "''" ) + "')";
 
     String t = ((table == null) || ( table.length() == 0 )) ? "" : table + ".";
 
     if( queryType == 2 )
-      return t + "author ilike '%" + author + "%'";
+      return "cinefiles_denorm.normalizetext(" + t + "author) like '%' || " + author + " || '%'";
     else if( queryType == 3 )
-      return t + "author ilike '%" + author + "'";
+      return "cinefiles_denorm.normalizetext(" + t + "author) like '%' || " + author;
     else if( queryType == 4 )
-      return t + "author ilike '%" + author + "%'";
+      // FIXME: Exact does the same thing as contains??
+      return "cinefiles_denorm.normalizetext(" + t + "author) like '%' || " + author + " || '%'";
 
-    return t + "author ilike '" + author + "%'";
+    return "cinefiles_denorm.normalizetext(" + t + "author) like " + author + " || '%'";
   }
 
   public void setDocSource( String docSource )
@@ -274,18 +279,19 @@ public class DocSearchArgs
     if( docSource == null )
       return docSource;
 
-    String source = docSource.replaceAll( "'", "''" );
+    String source = "cinefiles_denorm.normalizetext('" + docSource.replaceAll( "'", "''" ) + "')";
 
     String t = ((table == null) || ( table.length() == 0 )) ? "" : table + ".";
 
     if( queryType == 2 )
-      return t + "source ilike '%" + source + "%'";
+      return "cinefiles_denorm.normalizetext(" + t + "source) like '%' || " + source + " || '%'";
     else if( queryType == 3 )
-      return t + "source ilike '%" + source + "'";
+      return "cinefiles_denorm.normalizetext(" + t + "source) like '%' || " + source;
     else if( queryType == 4 )
-      return t + "source ilike '%" + source + "%'";
+      // FIXME: Exact does the same thing as contains??
+      return "cinefiles_denorm.normalizetext(" + t + "source) like '%' || " + source + " || '%'";
 
-    return t + "source ilike '" + source + "%'";
+    return "cinefiles_denorm.normalizetext(" + t + "source) like " + source + " || '%'";
   }
 
   public void setPubDate( String pubDate )
@@ -306,17 +312,18 @@ public class DocSearchArgs
     if( pubDate == null )
       return pubDate;
 
-    String pDate = pubDate.replaceAll( "'", "''" );
+    String pDate = "cinefiles_denorm.normalizetext('" + pubDate.replaceAll( "'", "''" ) + "')";
     String t = ((table == null) || ( table.length() == 0 )) ? "" : table + ".";
 
     if( queryType == 2 )
-      return t + "pubdate ilike '%" + pDate + "%'";
+      return "cinefiles_denorm.normalizetext(" + t + "pubdate) like '%' || " + pDate + " || '%'";
     else if( queryType == 3 )
-      return t + "pubdate ilike '%" + pDate + "'";
+      return "cinefiles_denorm.normalizetext(" + t + "pubdate) like '%' || " + pDate;
     else if( queryType == 4 )
-      return t + "pubdate ilike '%" + pDate + "%'";
+        // FIXME: Exact does the same thing as contains??
+      return "cinefiles_denorm.normalizetext(" + t + "pubdate) like '%' || " + pDate + " || '%'";
 
-    return t + "pubdate ilike '" + pDate + "%'";
+    return "cinefiles_denorm.normalizetext(" + t + "pubdate) like " + pDate + " || '%'";
   }
 
   public void setLangId( String lang_id )
