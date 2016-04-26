@@ -10,7 +10,7 @@ export PATH=$PATH:$BINDIR:$SCRIPTDIR
 
 export PGUSER=miponca
 export PGDATABASE=cinefiles_domain_cinefiles
-export PGHOST=dba-postgres-prod-32.ist.berkeley.edu
+export PGHOST=dba-postgres-prod-42.ist.berkeley.edu
 export PGPORT=5313
 
 DATA="$BASEDIR/tomcat6-cinefiles-site/cinefiles/data"
