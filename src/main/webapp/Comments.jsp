@@ -38,8 +38,8 @@
         <h4>Send your comments to CineFiles</h4>
 
         <br /><hr />
-        We would like hear from you.  Please send us your comments using
-        the from below.  For those using browsers that do not support forms,
+        We would like to hear from you.  Please send us your comments using
+        the form below.  For those using browsers that do not support forms,
         send email directly to <i>cinefiles@berkeley.edu</i>
         <hr /><br />
 
