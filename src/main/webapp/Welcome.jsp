@@ -15,8 +15,7 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 
-    <link rel='icon' href='cine.ico' type='image/x-icon'>
-    <link rel='shortcut icon' href='cine.ico' type='image/x-icon'>
+    <link rel="shortcut icon" href="/cinefiles/images/favicon.ico" />
 
     <link rel='stylesheet' type='text/css'
           href='/cinefiles/css/general.css' />
@@ -133,16 +132,16 @@
           </div>
  
           <div id="ctext">
-            UC Berkeley's <a href="http://www.mip.berkeley.edu">
-            Museum Informatics Project</a> provides database design,
+            UC Berkeley's <a href="http://research-it.berkeley.edu/">
+            Research IT</a> provides database design,
             database management support and software maintenance for
             CineFiles. This project is supported in part by grants from
             the <a href="http://www.neh.gov/">National Endowment for the
             Humanities</a>; the <a href="http://www.imls.gov/">Institute
             of Museum and Library Services</a>; the Library Services and
-            Technology Act; and the <a href="http://www.packhum.org/">
-            Packard Humanities Institute</a>, as well as by individual
-            <a href="/cinefiles/Donors.jsp">donors</a>.
+            Technology Act; the Louis B. Mayer Foundation; and the
+            <a href="http://www.packhum.org/"> Packard Humanities Institute</a>,
+            as well as by individual <a href="/cinefiles/Donors.jsp">donors</a>.
           </div>
         </div>
       </div>

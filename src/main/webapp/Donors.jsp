@@ -75,6 +75,7 @@
         Institute of Museum and Library Services<br />
         California State Library, Library Services and Technology Act<br />
         National Endowment for the Humanities<br />
+        The Louis B. Mayer Foundation<br />
         Packard Humanities Institute<br />
         Margaret Parsons<br />
         Janet and David Peoples</p>
