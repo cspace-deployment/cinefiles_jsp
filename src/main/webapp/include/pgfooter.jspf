@@ -2,8 +2,8 @@
 
   <div id="footer">
     <map name="footermap">
-      <area shape="rect" coords="1, 1, 140, 24"
-            href="http://bampfa.berkeley.edu" />
+      <!-- <area shape="rect" coords="1, 1, 140, 24"
+            href="http://bampfa.berkeley.edu" /> -->
       <area shape="rect" coords="290, 5, 325, 18"
             href="/cinefiles/Welcome.jsp" />
       <area shape="rect" coords="352, 7, 412, 18"
@@ -20,5 +20,6 @@
             href="/cinefiles/Contact.jsp" />
     </map>
 
+    <a href="http://bampfa.org"><img class="logo" src="/cinefiles/images/bampfa.png"></a>
     <img src="/cinefiles/images/pgfooter.gif" usemap="#footermap" border="0" />
   </div>

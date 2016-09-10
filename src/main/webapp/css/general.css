@@ -229,6 +229,14 @@ div#footer img
   position: relative;	
 }
 
+div#footer img.logo {
+  width: 100px;
+  position: absolute;
+  top: -38px;
+  left: -14px;
+  z-index: 1;
+}
+
 #main ul
 {
   list-style: none;
