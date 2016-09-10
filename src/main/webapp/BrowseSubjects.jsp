@@ -35,7 +35,7 @@
             type="text/javascript" language="JavaScript">
     </script>
 
-    <title>Browsem Subjects</title>
+    <title>Browse Subjects</title>
   </head>
 
   <body onload="setBrowsePane( 'browsesubjAlist.jspf')">
