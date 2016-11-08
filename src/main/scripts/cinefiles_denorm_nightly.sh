@@ -33,7 +33,7 @@ echo  "$(date): running cinefiles_denorm_nightly" >> $LOGDIR/run.log
 
 function notify
 {
-   echo "NOTIFY: $1" | mail -s "cinefiles denorm" rhlee@berkeley.edu
+   echo "NOTIFY: $1" | mail -s "cinefiles denorm" cspace-app-logs@lists.berkeley.edu
 }
 
 function log
