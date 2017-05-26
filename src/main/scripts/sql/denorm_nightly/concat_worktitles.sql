@@ -54,6 +54,12 @@ ELSEIF prefcount = 1 THEN
         RETURN titlestring;
 
     ELSEIF englcount >= 1 THEN
+
+        IF englcount > 1 THEN
+            errormsg := 'There should be only one! But there are ' ||
+                englcount::text || ' non-preferred English titles!';
+        END IF;
+
         select into engltitle trim(wtg.termdisplayname)
         from works_common wc
         inner join hierarchy hwc on (
@@ -67,10 +73,6 @@ ELSEIF prefcount = 1 THEN
 
         titlestring := preftitle || ' (' || engltitle || ')';
         RETURN titlestring;
-
-        IF englcount > 1 THEN
-            errormsg := 'There should be only one! But there are ' ||
-                englcount::text || ' non-preferred English titles!';
 
     ELSE
         errormsg := 'Unable to get a count of non-preferred English titles!';
