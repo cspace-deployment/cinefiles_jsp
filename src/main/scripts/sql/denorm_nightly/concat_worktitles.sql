@@ -53,7 +53,7 @@ ELSEIF prefcount = 1 THEN
         titlestring := preftitle;
         RETURN titlestring;
 
-    ELSEIF englcount = 1 THEN
+    ELSEIF englcount >= 1 THEN
         select into engltitle trim(wtg.termdisplayname)
         from works_common wc
         inner join hierarchy hwc on (
@@ -63,15 +63,14 @@ ELSEIF prefcount = 1 THEN
         inner join worktermgroup wtg on (
             hwc.id = wtg.id
             and wtg.termlanguage like '%''English''%')
-        where wc.shortidentifier = $1;
+        where wc.shortidentifier = $1 limit 1;
 
         titlestring := preftitle || ' (' || engltitle || ')';
         RETURN titlestring;
 
-    ELSEIF englcount > 1 THEN
-        errormsg := 'There can be only one! But there are ' ||
-            englcount::text || ' non-preferred English titles!';
-        RAISE EXCEPTION '%', errormsg;
+        IF englcount > 1 THEN
+            errormsg := 'There should be only one! But there are ' ||
+                englcount::text || ' non-preferred English titles!';
 
     ELSE
         errormsg := 'Unable to get a count of non-preferred English titles!';
