@@ -65,7 +65,7 @@ function comparetables
    re='^[0-9]+ [0-9]+$'
    c1=$1
    c2=$2
-   [[ "$c1 $c2" =~ $re ]] && [ "$c1" -le "$((c2+100))" ] && return 0
+   [[ "$c1 $c2" =~ $re ]] && return 0
    return 1;
 }
 
