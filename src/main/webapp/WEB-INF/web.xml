@@ -27,6 +27,11 @@
     <param-value>${catalina.base}/cinefiles/data/doc_img</param-value>
   </context-param>
 
+  <context-param>
+    <param-name>adminEmail</param-name>
+    <param-value>cinefiles@berkeley.edu</param-value>
+  </context-param>
+
   <!-- Distributable section -->
   <!-- Listener section -->
 
@@ -61,10 +66,6 @@
     <init-param>
       <param-name>debug</param-name>
       <param-value>false</param-value>
-    </init-param>
-    <init-param>
-      <param-name>adminEmail</param-name>
-      <param-value>glen@berkeley.edu</param-value>
     </init-param>
   </servlet>
 
