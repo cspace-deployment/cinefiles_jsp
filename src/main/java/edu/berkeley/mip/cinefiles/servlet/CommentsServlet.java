@@ -101,6 +101,7 @@ public class CommentsServlet extends HttpServlet
    {
       Properties props = new Properties();
       props.put("mail.from", "cinefiles@berkeley.edu" );
+      props.put("mail.debug", "true" );
 
       Session session = Session.getInstance(props, null);
 
