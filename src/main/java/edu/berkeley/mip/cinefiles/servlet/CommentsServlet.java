@@ -100,7 +100,7 @@ public class CommentsServlet extends HttpServlet
    private void sendMail( String comments, String subject )
    {
       Properties props = new Properties();
-      props.put("mail.from", "cinefiles@berkeley.edu" );
+      props.put("mail.from", "cspace-admin@cspace.berkeley.edu" );
       props.put("mail.debug", "true" );
 
       Session session = Session.getInstance(props, null);
