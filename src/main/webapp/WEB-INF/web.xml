@@ -29,7 +29,7 @@
 
   <context-param>
     <param-name>adminEmail</param-name>
-    <param-value>cinefiles@berkeley.edu</param-value>
+    <param-value>cinefiles@lists.berkeley.edu</param-value>
   </context-param>
 
   <!-- Distributable section -->

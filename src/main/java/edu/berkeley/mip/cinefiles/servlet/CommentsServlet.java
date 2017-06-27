@@ -37,7 +37,7 @@ public class CommentsServlet extends HttpServlet
       adminEmail = getServletContext().getInitParameter( "adminEmail" );
 
       if(( adminEmail == null ) || ( adminEmail.equals( "" )))
-         adminEmail = "cinefiles@berkeley.edu";
+         adminEmail = "cinefiles@lists.berkeley.edu";
    }
 
    public void doGet( HttpServletRequest req, HttpServletResponse res )
@@ -100,8 +100,7 @@ public class CommentsServlet extends HttpServlet
    private void sendMail( String comments, String subject )
    {
       Properties props = new Properties();
-      props.put("mail.from", "cspace-admin@cspace.berkeley.edu" );
-      props.put("mail.debug", "true" );
+      props.put("mail.from", "cspace-support@lists.berkeley.edu" );
 
       Session session = Session.getInstance(props, null);
 
