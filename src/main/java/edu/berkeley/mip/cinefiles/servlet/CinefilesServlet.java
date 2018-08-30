@@ -127,7 +127,8 @@ public class CinefilesServlet extends HttpServlet
                 remoteHost.matches( "^169\\.229" + anybyte + anybyte + "$" ) ||
                 remoteHost.matches( "^10\\.142" + anybyte + anybyte + "$" ) ||
                 remoteHost.matches( "^131\\.243\\.52" + anybyte + "$" ) ||
-                remoteHost.matches( "^192\\.101\\.42" + anybyte + "$" ))
+                remoteHost.matches( "^192\\.101\\.42" + anybyte + "$" ) ||
+                remoteHost.matches( "^10\\.136" + anybyte + anybyte + "$" ))
        {
          return 0;
        }
