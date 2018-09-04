@@ -99,7 +99,7 @@ public class CinefilesServlet extends HttpServlet
    // different categories - even if they currently have equal access rights.
    protected int getUserAccess( String remoteHost )
    {
-     final String anybyte = "\\.([1-9]|[1-9][0-9]|[12][0-9][0-9])";
+     final String anybyte = "\\.([1-9]|[1-9][0-9]|[12][0-9][0-9]|[0])";
   
      if( remoteHost != null )
      {
