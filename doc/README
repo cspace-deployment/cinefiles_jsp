@@ -1,0 +1,66 @@
+This is the home directory of the CineFiles site application owner. It contains
+7 subdirectories; the purpose of each is described below. Please adhere to
+these guidelines when creating new files.
+
+~/bin
+  
+  Contains executable files, or links to executable files. This directory is on 
+  the application owner's PATH. If you want a file to be executable from a
+  login shell without specifying a full path, put it (or a link to it) here.
+  The bin directory should not contain subdirectories. A subdirectory would
+  not be on the PATH, so it would defeat the purpose. If you're tempted to
+  create a subdirectory, it's likely you should be putting your files in ~/opt
+  or ~/src.
+  
+  It's like:
+    /usr/bin
+    /usr/local/bin
+
+~/certs
+
+  Contains certificates.
+
+~/log
+
+  Contains log files. The retention policy is TBD. For now, they may be
+  considered to be persistent for a period on the order of months, but may be
+  deleted or archived if disk space becomes a problem.
+
+  It's like:
+    /var/log
+
+~/opt
+
+  Contains software installations not managed by the package manager. Typically
+  this means any software that is distributed in a zip file or tarball.
+  Unzip/untar the software into this directory, or into a subdirectory you
+  create. Each software package will have its own subdirectory structure. If any
+  executables in the package should be invocable without specifying the full
+  path, link them into ~/bin.
+
+  It's like:
+    /opt
+
+~/src
+
+  Contains source code, typically managed by source control, and usually by git.
+  Clone the git repository into this directory, or a subdirectory you create.
+  If any executables in the repository should be invocable without specifying
+  the full path, link them into ~/bin.
+
+  It's like:
+    /usr/src
+    
+~/tmp
+
+  Contains temporary files and directories. The retention policy is TBD. For
+  now, they may be considered to be persistent for a period on the order of
+  weeks, but may be deleted if disk space becomes a problem. Please delete
+  files from ~/tmp as soon as you're done with them.
+
+  It's like:
+    /tmp
+    
+~/tomcat6-cinefiles_site
+
+  Contains the CineFiles site tomcat installation.
