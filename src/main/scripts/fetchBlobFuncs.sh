@@ -81,8 +81,8 @@ function fetchBlob()
 {
    CSID="$1"
    NAME="$2"
-   #HOST="https://cinefiles.cspace.berkeley.edu"
-   HOST="http://localhost:8084"
+   HOST="https://cinefiles.cspace.berkeley.edu"
+   #HOST="http://localhost:8084"
    SRVC="cspace-services/blobs"
    CONTENT="derivatives/OriginalJpeg/content"
    CACERT="/home/app_cinefiles_site/certs/CA-bundle.cer"
