@@ -35,6 +35,8 @@
 
     <div id="container">
 
+      <b>Keep an eye out in the next few weeks for a fresh new CineFiles website! A more modern interface, more intuitive searching, and many new features!</b>      
+
       <%@ include file="/include/wsearch.jspf" %>
 
       <div id="main">
