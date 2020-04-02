@@ -10,8 +10,8 @@ export PATH=$PATH:$BINDIR:$SCRIPTDIR
 
 export PGUSER=miponca
 export PGDATABASE=cinefiles_domain_cinefiles
-export PGHOST=dba-postgres-dev-42.ist.berkeley.edu
-export PGPORT=5114
+export PGHOST=dba-postgres-prod-42.ist.berkeley.edu
+export PGPORT=5313
 
 DATA="$BASEDIR/tomcat6-cinefiles-site/cinefiles/data"
 INCOMING="$DATA/incoming"
@@ -81,7 +81,7 @@ function fetchBlob()
 {
    CSID="$1"
    NAME="$2"
-   HOST="https://cinefiles-dev.cspace.berkeley.edu"
+   HOST="https://cinefiles.cspace.berkeley.edu"
    #HOST="http://localhost:8084"
    SRVC="cspace-services/blobs"
    CONTENT="derivatives/OriginalJpeg/content"

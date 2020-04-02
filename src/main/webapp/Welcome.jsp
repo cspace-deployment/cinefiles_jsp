@@ -35,7 +35,7 @@
 
     <div id="container">
 
-      <b style="color:red;">Keep an eye out in the next few weeks for a fresh new CineFiles website! A more modern interface, more intuitive searching, and many new features!</b>      
+      <b>Keep an eye out in the next few weeks for a fresh new CineFiles website! A more modern interface, more intuitive searching, and many new features!</b>      
 
       <%@ include file="/include/wsearch.jspf" %>
 

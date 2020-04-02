@@ -19,8 +19,8 @@ export SCRIPTDIR=$BASEDIR/src/cinefiles_jsp/src/main/scripts
 export PATH=/bin:/usr/bin:$BINDIR:$SCRIPTDIR
 export PGUSER=nuxeo_cinefiles
 export PGDATABASE=cinefiles_domain_cinefiles
-export PGHOST=dba-postgres-dev-42.ist.berkeley.edu
-export PGPORT=5114
+export PGHOST=dba-postgres-prod-42.ist.berkeley.edu
+export PGPORT=5313
 
 export SQLDIR="$SCRIPTDIR/sql/denorm_nightly"
 export LOGDIR="$BASEDIR/log"
