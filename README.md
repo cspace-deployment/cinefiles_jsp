@@ -1,8 +1,7 @@
 ### Cinefiles Web Site
 
 ```diff
-- This codebase is now defunct! It has been replaced by a Blacklight site, whose code can be
-found at https://github.com/cspace-deployment/radiance
+- This codebase is now defunct! It has been replaced by a Blacklight site, whose code can be found at https://github.com/cspace-deployment/radiance
 ```
 
 This project contains the source code for the CineFiles web site.
